@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetches job data from SimplifyJobs README and optionally a Google Sheet CSV,
-then updates README.md with a formatted markdown table.
+Fetches hardware internship data and updates README.md with a formatted markdown table.
 """
 
 import csv
@@ -14,11 +13,10 @@ from io import StringIO
 import requests
 
 # Google Sheet published CSV URL (optional)
-# Set via environment variable or leave empty to use only SimplifyJobs data
 SHEET_CSV_URL = os.environ.get("SHEET_CSV_URL", "")
 
-# SimplifyJobs Summer 2026 Internships README URL
-SIMPLIFY_README_URL = "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md"
+# Primary data source URL
+DATA_SOURCE_URL = os.environ.get("DATA_SOURCE_URL", "")
 
 # Expected column headers (case-insensitive matching)
 EXPECTED_COLUMNS = ["company", "role", "location", "apply link", "age"]
@@ -75,21 +73,21 @@ def parse_csv(csv_content: str) -> list[dict]:
     return jobs
 
 
-def fetch_simplify_hardware_jobs() -> list[dict]:
-    """Fetch hardware internships from SimplifyJobs README."""
+def fetch_hardware_jobs() -> list[dict]:
+    """Fetch hardware internships from the primary data source."""
     try:
-        response = requests.get(SIMPLIFY_README_URL, timeout=30)
+        response = requests.get(DATA_SOURCE_URL, timeout=30)
         response.raise_for_status()
         readme = response.text
     except requests.RequestException as e:
-        print(f"Warning: Could not fetch SimplifyJobs README: {e}")
+        print(f"Warning: Could not fetch data source: {e}")
         return []
 
     # Find the hardware engineering section
     hw_section_header = "## 🔧 Hardware Engineering"
     hw_start = readme.find(hw_section_header)
     if hw_start == -1:
-        print("Warning: Hardware Engineering section not found in SimplifyJobs README")
+        print("Warning: Hardware Engineering section not found")
         return []
 
     # Find the next section (starts with ##)
@@ -147,24 +145,18 @@ def fetch_simplify_hardware_jobs() -> list[dict]:
     return jobs
 
 
-def merge_jobs(sheet_jobs: list[dict], simplify_jobs: list[dict]) -> list[dict]:
-    """Merge jobs from both sources, deduplicating by (company, role).
-
-    Google Sheet entries take priority over SimplifyJobs entries.
-    """
-    # Create a set of (company, role) tuples from sheet jobs for deduplication
+def merge_jobs(sheet_jobs: list[dict], source_jobs: list[dict]) -> list[dict]:
+    """Merge jobs from both sources, deduplicating by (company, role)."""
     seen = set()
     merged = []
 
-    # Add sheet jobs first (they take priority)
     for job in sheet_jobs:
         key = (job.get("company", "").lower(), job.get("role", "").lower())
         if key not in seen:
             seen.add(key)
             merged.append(job)
 
-    # Add SimplifyJobs entries that aren't duplicates
-    for job in simplify_jobs:
+    for job in source_jobs:
         key = (job.get("company", "").lower(), job.get("role", "").lower())
         if key not in seen:
             seen.add(key)
@@ -216,30 +208,28 @@ def generate_readme(jobs: list[dict]) -> str:
 
 def main():
     """Main function to fetch data and update README."""
-    sheet_jobs = []
-    simplify_jobs = []
+    if not DATA_SOURCE_URL:
+        print("Error: DATA_SOURCE_URL environment variable not set")
+        sys.exit(1)
 
-    # Fetch from Google Sheet if configured
+    sheet_jobs = []
+    source_jobs = []
+
     if SHEET_CSV_URL:
         print("Fetching data from Google Sheet...")
         try:
             csv_content = fetch_csv_data(SHEET_CSV_URL)
-            print("Parsing CSV data...")
             sheet_jobs = parse_csv(csv_content)
-            print(f"Found {len(sheet_jobs)} job listings from Google Sheet")
+            print(f"Found {len(sheet_jobs)} listings from Google Sheet")
         except requests.RequestException as e:
-            print(f"Warning: Could not fetch Google Sheet CSV: {e}")
-    else:
-        print("No Google Sheet URL configured, skipping...")
+            print(f"Warning: Could not fetch Google Sheet: {e}")
 
-    # Fetch from SimplifyJobs README
-    print("Fetching hardware internships from SimplifyJobs...")
-    simplify_jobs = fetch_simplify_hardware_jobs()
-    print(f"Found {len(simplify_jobs)} hardware internships from SimplifyJobs")
+    print("Fetching hardware internships...")
+    source_jobs = fetch_hardware_jobs()
+    print(f"Found {len(source_jobs)} hardware internships")
 
-    # Merge both sources
-    jobs = merge_jobs(sheet_jobs, simplify_jobs)
-    print(f"Total after merge: {len(jobs)} job listings")
+    jobs = merge_jobs(sheet_jobs, source_jobs)
+    print(f"Total: {len(jobs)} listings")
 
     if not jobs:
         print("No jobs found from any source")

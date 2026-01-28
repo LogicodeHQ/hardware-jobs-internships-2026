@@ -33,6 +33,7 @@ jobs:
       - name: Run update script
         env:
           SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+          DATA_SOURCE_URL: ${{ secrets.DATA_SOURCE_URL }}
         run: python scripts/update_readme.py
 
       - name: Commit and push changes
