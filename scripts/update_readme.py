@@ -37,18 +37,6 @@ README_TABLE_HEADER = """| Company | Role | Location | Apply |
 |---------|------|----------|-------|
 """
 
-README_FOOTER = """
----
-
-## Contributing
-
-Want to add an internship? Submit it to our [Google Sheet]({sheet_url}) and it will appear here automatically!
-
-## About
-
-This repository is automatically updated every 4 hours using GitHub Actions.
-"""
-
 
 def fetch_csv_data(url: str) -> str:
     """Fetch CSV content from the published Google Sheet URL."""
@@ -202,28 +190,20 @@ def generate_table_row(job: dict) -> str:
     return f"| {company} | {role} | {location} | {apply_cell} |\n"
 
 
-def generate_readme(jobs: list[dict], sheet_url: str = "") -> str:
+def generate_readme(jobs: list[dict]) -> str:
     """Generate the complete README.md content."""
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     readme = README_HEADER.format(timestamp=timestamp)
 
     if jobs:
-        readme += "Preparing for hardware interviews? Check out [LogiCode](https://logi-code.com/)!\n\n"
+        readme += "✨ Preparing for hardware interviews? Check out [LogiCode](https://logi-code.com/)! ✨\n\n"
         readme += "## Internships\n\n"
         readme += README_TABLE_HEADER
         for job in jobs:
             readme += generate_table_row(job)
     else:
         readme += "*No internship listings available yet.*\n"
-
-    # Extract base sheet URL for contributing section
-    if sheet_url:
-        # Convert CSV export URL to regular sheet URL for display
-        base_url = sheet_url.split("/pub")[0] if "/pub" in sheet_url else sheet_url
-        readme += README_FOOTER.format(sheet_url=base_url)
-    else:
-        readme += README_FOOTER.format(sheet_url="#")
 
     return readme
 
@@ -260,7 +240,7 @@ def main():
         sys.exit(1)
 
     print("Generating README...")
-    readme_content = generate_readme(jobs, SHEET_CSV_URL)
+    readme_content = generate_readme(jobs)
 
     # Read existing README if it exists
     readme_path = "README.md"
