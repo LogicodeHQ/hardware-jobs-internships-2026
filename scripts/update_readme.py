@@ -21,15 +21,11 @@ SHEET_CSV_URL = os.environ.get("SHEET_CSV_URL", "")
 SIMPLIFY_README_URL = "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md"
 
 # Expected column headers (case-insensitive matching)
-EXPECTED_COLUMNS = ["company", "role", "location", "apply link", "type"]
+EXPECTED_COLUMNS = ["company", "role", "location", "apply link"]
 
-# Job type categories (order matters - first match wins)
-TYPE_INTERNSHIP = "internship"
-TYPE_NEW_GRAD = "new grad"
+README_HEADER = """# Hardware Internships
 
-README_HEADER = """# Hardware Jobs & Internships
-
-A curated list of hardware engineering jobs and internships.
+A curated list of hardware engineering internships.
 
 **Last updated:** {timestamp}
 
@@ -46,13 +42,11 @@ README_FOOTER = """
 
 ## Contributing
 
-Want to add a job posting? Submit it to our [Google Sheet]({sheet_url}) and it will appear here automatically!
+Want to add an internship? Submit it to our [Google Sheet]({sheet_url}) and it will appear here automatically!
 
 ## About
 
 This repository is automatically updated every 4 hours using GitHub Actions.
-
-Data is sourced from a community-maintained Google Sheet and synced via the published CSV export.
 """
 
 
@@ -156,7 +150,6 @@ def fetch_simplify_hardware_jobs() -> list[dict]:
                 "role": role,
                 "location": location,
                 "apply link": apply_url,
-                "type": "internship"  # All SimplifyJobs entries are internships
             })
 
     return jobs
@@ -209,25 +202,6 @@ def generate_table_row(job: dict) -> str:
     return f"| {company} | {role} | {location} | {apply_cell} |\n"
 
 
-def categorize_jobs(jobs: list[dict]) -> tuple[list[dict], list[dict]]:
-    """Separate jobs into internships and new grad positions."""
-    internships = []
-    new_grad = []
-
-    for job in jobs:
-        job_type = job.get("type", "").lower().strip()
-
-        if "intern" in job_type:
-            internships.append(job)
-        elif "new grad" in job_type or "newgrad" in job_type or "entry" in job_type:
-            new_grad.append(job)
-        else:
-            # Default to new grad if type is unspecified or unrecognized
-            new_grad.append(job)
-
-    return internships, new_grad
-
-
 def generate_readme(jobs: list[dict], sheet_url: str = "") -> str:
     """Generate the complete README.md content."""
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -235,29 +209,12 @@ def generate_readme(jobs: list[dict], sheet_url: str = "") -> str:
     readme = README_HEADER.format(timestamp=timestamp)
 
     if jobs:
-        internships, new_grad = categorize_jobs(jobs)
-
-        # Internships section
         readme += "## Internships\n\n"
-        if internships:
-            readme += README_TABLE_HEADER
-            for job in internships:
-                readme += generate_table_row(job)
-        else:
-            readme += "*No internship listings available yet.*\n"
-
-        readme += "\n"
-
-        # New Grad section
-        readme += "## New Grad Positions\n\n"
-        if new_grad:
-            readme += README_TABLE_HEADER
-            for job in new_grad:
-                readme += generate_table_row(job)
-        else:
-            readme += "*No new grad listings available yet.*\n"
+        readme += README_TABLE_HEADER
+        for job in jobs:
+            readme += generate_table_row(job)
     else:
-        readme += "*No job listings available yet. Check back soon!*\n"
+        readme += "*No internship listings available yet.*\n"
 
     # Extract base sheet URL for contributing section
     if sheet_url:
