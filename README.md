@@ -12,15 +12,3 @@ A curated list of hardware engineering jobs and internships, automatically updat
 
 ---
 
-<<<<<<< HEAD
-=======
-## Contributing
-
-Want to add a job posting? Submit it to our [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9F_aaXqkU2WPKSSeEwQyWvh7_ND5p3yqQj9k4Wr6D4dMl04m3t_LgIFBtBViKFlU7DIVby6o-x96X) and it will appear here automatically!
-
-## About
-
-This repository is automatically updated every 4 hours using GitHub Actions.
-
-Data is sourced from a community-maintained Google Sheet and synced via the published CSV export.
->>>>>>> b8ea730b04ef590f59fdf95eecc7fc1a6fafaf78
