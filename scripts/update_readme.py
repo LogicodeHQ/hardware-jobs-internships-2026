@@ -97,9 +97,9 @@ def generate_table_row(job: dict) -> str:
     role = role.replace("|", "\\|")
     location = location.replace("|", "\\|")
 
-    # Create apply button/link
+    # Create apply button/link (HTML used for target="_blank")
     if apply_link:
-        apply_cell = f"[Apply]({apply_link})"
+        apply_cell = f'<a href="{apply_link}" target="_blank">Apply</a>'
     else:
         apply_cell = "—"
 

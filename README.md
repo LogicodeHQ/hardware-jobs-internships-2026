@@ -36,12 +36,3 @@ The README will automatically update with your job listings!
 
 ---
 
-## Contributing
-
-Want to add a job posting? Submit it to our Google Sheet and it will appear here automatically!
-
-## About
-
-This repository is automatically updated every 4 hours using GitHub Actions.
-
-Data is sourced from a community-maintained Google Sheet and synced via the published CSV export.
