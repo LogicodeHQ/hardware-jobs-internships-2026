@@ -1,8 +1,8 @@
-# Hardware Jobs & Internships
+# Hardware Internships
 
-A curated list of hardware engineering jobs and internships.
+A curated list of hardware engineering internships.
 
-**Last updated:** 2026-01-28 22:27 UTC
+**Last updated:** 2026-01-28 22:28 UTC
 
 ---
 
@@ -130,18 +130,12 @@ A curated list of hardware engineering jobs and internships.
 | Atomic Semi | Automation Software Engineer Intern | SF | <a href="https://jobs.ashbyhq.com/atomicsemi/d5c5f921-67f7-4b01-8e7a-adaf450f8296/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
 | Thermo Fisher Scientific | Field Service Engineer Apprentice | 5 locationsPhiladelphia, PANewark, NJKansas City, MOMassachusettsSan Diego, CA | <a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Field-Service-Engineer-Apprentice---Multiple-Locations_R-01334931?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
 
-## New Grad Positions
-
-*No new grad listings available yet.*
-
 ---
 
 ## Contributing
 
-Want to add a job posting? Submit it to our [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9F_aaXqkU2WPKSSeEwQyWvh7_ND5p3yqQj9k4Wr6D4dMl04m3t_LgIFBtBViKFlU7DIVby6o-x96X) and it will appear here automatically!
+Want to add an internship? Submit it to our [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9F_aaXqkU2WPKSSeEwQyWvh7_ND5p3yqQj9k4Wr6D4dMl04m3t_LgIFBtBViKFlU7DIVby6o-x96X) and it will appear here automatically!
 
 ## About
 
 This repository is automatically updated every 4 hours using GitHub Actions.
-
-Data is sourced from a community-maintained Google Sheet and synced via the published CSV export.
