@@ -21,7 +21,7 @@ SHEET_CSV_URL = os.environ.get("SHEET_CSV_URL", "")
 SIMPLIFY_README_URL = "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md"
 
 # Expected column headers (case-insensitive matching)
-EXPECTED_COLUMNS = ["company", "role", "location", "apply link"]
+EXPECTED_COLUMNS = ["company", "role", "location", "apply link", "age"]
 
 README_HEADER = """# Hardware Internships
 
@@ -33,8 +33,8 @@ A curated list of hardware engineering internships.
 
 """
 
-README_TABLE_HEADER = """| Company | Role | Location | Apply |
-|---------|------|----------|-------|
+README_TABLE_HEADER = """| Company | Role | Location | Apply | Age |
+|---------|------|----------|-------|-----|
 """
 
 
@@ -114,7 +114,7 @@ def fetch_simplify_hardware_jobs() -> list[dict]:
 
         # Extract table cells
         cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
-        if len(cells) < 4:
+        if len(cells) < 5:
             continue
 
         # Cell 0: Company name (in <strong><a href="...">NAME</a></strong>)
@@ -131,6 +131,9 @@ def fetch_simplify_hardware_jobs() -> list[dict]:
         apply_match = re.search(r'<a[^>]*href="([^"]+)"', cells[3])
         apply_url = apply_match.group(1).strip() if apply_match else ""
 
+        # Cell 4: Age (e.g., "2d", "1w")
+        age = re.sub(r'<[^>]+>', '', cells[4]).strip()
+
         # Only include if we have company and role
         if company and role:
             jobs.append({
@@ -138,6 +141,7 @@ def fetch_simplify_hardware_jobs() -> list[dict]:
                 "role": role,
                 "location": location,
                 "apply link": apply_url,
+                "age": age,
             })
 
     return jobs
@@ -175,11 +179,13 @@ def generate_table_row(job: dict) -> str:
     role = job.get("role", "")
     location = job.get("location", "")
     apply_link = job.get("apply link", "")
+    age = job.get("age", "")
 
     # Escape pipe characters in content
     company = company.replace("|", "\\|")
     role = role.replace("|", "\\|")
     location = location.replace("|", "\\|")
+    age = age.replace("|", "\\|")
 
     # Create apply button/link (HTML used for target="_blank")
     if apply_link:
@@ -187,7 +193,7 @@ def generate_table_row(job: dict) -> str:
     else:
         apply_cell = "—"
 
-    return f"| {company} | {role} | {location} | {apply_cell} |\n"
+    return f"| {company} | {role} | {location} | {apply_cell} | {age} |\n"
 
 
 def generate_readme(jobs: list[dict]) -> str:
