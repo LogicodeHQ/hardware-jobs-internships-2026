@@ -6,10 +6,16 @@ A curated list of hardware engineering jobs and internships, automatically updat
 
 ---
 
+## Internships
+
 | Company | Role | Location | Apply |
 |---------|------|----------|-------|
 | Test | Test | Test | <a href="https://www.youtube.com/" target="_blank">Apply</a> |
 | Test | Test | Test | <a href="https://www.youtube.com/" target="_blank">Apply</a> |
+
+## New Grad Positions
+
+*No new grad listings available yet.*
 
 ---
 
