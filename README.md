@@ -1,10 +1,12 @@
 # Hardware Internships
 
-A curated list of hardware engineering internships. Updated daily!
+A curated list of hardware engineering internships.
 
-**Last updated:** 2026-01-28 22:28 UTC
+**Last updated:** 2026-01-28 22:32 UTC
 
 ---
+
+Preparing for hardware interviews? Check out [LogiCode](https://logi-code.com/)!
 
 ## Internships
 
