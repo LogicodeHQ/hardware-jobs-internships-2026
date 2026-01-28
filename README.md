@@ -2,11 +2,11 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-01-28 22:32 UTC
+**Last updated:** 2026-01-28 22:36 UTC
 
 ---
 
-Preparing for hardware interviews? Check out [LogiCode](https://logi-code.com/)!
+✨ Preparing for hardware interviews? Check out [LogiCode](https://logi-code.com/)! ✨
 
 ## Internships
 
@@ -131,13 +131,3 @@ Preparing for hardware interviews? Check out [LogiCode](https://logi-code.com/)!
 | Plexus | Summer Internship 2026 - Engineering Solutions | Livingston, UK | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Livingston-United-Kingdom/Summer-Internship-2026---Engineering-Solutions_R035272?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
 | Atomic Semi | Automation Software Engineer Intern | SF | <a href="https://jobs.ashbyhq.com/atomicsemi/d5c5f921-67f7-4b01-8e7a-adaf450f8296/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
 | Thermo Fisher Scientific | Field Service Engineer Apprentice | 5 locationsPhiladelphia, PANewark, NJKansas City, MOMassachusettsSan Diego, CA | <a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Field-Service-Engineer-Apprentice---Multiple-Locations_R-01334931?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
-
----
-
-## Contributing
-
-Want to add an internship? Submit it to our [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9F_aaXqkU2WPKSSeEwQyWvh7_ND5p3yqQj9k4Wr6D4dMl04m3t_LgIFBtBViKFlU7DIVby6o-x96X) and it will appear here automatically!
-
-## About
-
-This repository is automatically updated every 4 hours using GitHub Actions.
