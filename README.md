@@ -1,6 +1,7 @@
-# Hardware Jobs & Internships
+# 2026 Hardware Internships by Logicode
 
-A curated list of hardware engineering jobs and internships.
+A curated list of hardware engineering internships. Updated Daily!
+
 
 **Last updated:** 2026-01-28 22:27 UTC
 

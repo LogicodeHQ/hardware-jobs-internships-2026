@@ -209,6 +209,7 @@ def generate_readme(jobs: list[dict], sheet_url: str = "") -> str:
     readme = README_HEADER.format(timestamp=timestamp)
 
     if jobs:
+        readme += "Preparing for hardware interviews? Check out [LogiCode](https://logi-code.com/)!\n\n"
         readme += "## Internships\n\n"
         readme += README_TABLE_HEADER
         for job in jobs:
