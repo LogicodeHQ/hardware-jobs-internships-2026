@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering jobs and internships.
 
-**Last updated:** 2026-01-28 22:14 UTC
+**Last updated:** 2026-01-28 22:27 UTC
 
 ---
 
@@ -10,7 +10,6 @@ A curated list of hardware engineering jobs and internships.
 
 | Company | Role | Location | Apply |
 |---------|------|----------|-------|
-| Test | Test | Test | <a href="https://www.youtube.com/" target="_blank">Apply</a> |
 | The Toro Company | Software Engineer Intern - Embedded Software & Telematics | Bloomington, MN | <a href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Software-Engineer-Intern--Embedded-Software---Telematics----The-Toro-Company_JR15152?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
 | Microchip Technology | Intern-Equipment Technician - Bulk Chemical | Fairview, OR | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Technician--Bulk-Chemical-_R2120-25?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
 | Philips | Intern-Embedded Software Engineering-Murrysville - PA-Summer 2026 | Monroeville, PA | <a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern-Embedded-Software-Engineering-Murrysville--PA-Summer-2026_564982?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> |
