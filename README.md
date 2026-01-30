@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-01-30 17:54 UTC
+**Last updated:** 2026-01-30 21:00 UTC
 
 ---
 
@@ -48,7 +48,6 @@ A curated list of hardware engineering internships.
 | Caterpillar Inc. | Software Designer Intern | Laval, QC, Canada | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000346179?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | SK hynix | Intern – CXL Memory Solutions 🎓 | San Jose, CA | <a href="https://job-boards.greenhouse.io/skhynixamerica/jobs/5083144008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Eyebot | Engineering Intern | Boston, MA | <a href="https://jobs.ashbyhq.com/eyebot/153c0c77-a28f-4b41-bdb2-5ea30a65db05/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| Hitachi | Software Analyst Intern - Summer 2026 | Toronto, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Summer-2026-_R1011505?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Graphcore | Intern – Systems Engineering - Compute AI Hardware Platforms | Austin, TX | <a href="https://job-boards.greenhouse.io/graphcore/jobs/8386064002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | HARMAN International | Summer Intern - Hardware Engineering SME | Novi, MI | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Software-Engineering-SME_R-51127-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Rheem | Systems Test Engineering Co-Op | Lewisville, TXFort Smith, AR | <a href="https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3568?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
