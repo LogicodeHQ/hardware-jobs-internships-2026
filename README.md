@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-01-30 09:58 UTC
+**Last updated:** 2026-01-30 14:07 UTC
 
 ---
 
@@ -40,9 +40,9 @@ A curated list of hardware engineering internships.
 | Sphere Entertainment Co. | Sphere Technical Production Summer 2026 Student Associate Program - Las Vegas | Las Vegas, NV | <a href="https://www.sphereentertainmentco.com/job/4961928007?gh_jid=4961928007&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Sandisk | Intern - System Design Engineering | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000105665207?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Silicon Laboratories | Design Engineer Intern | Austin, TX | <a href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20532-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| The Walt Disney Company | Glendale System Software Engineering Internship - Fall 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| The Walt Disney Company | WDW Computer Science / Computer Engineering Interns - Fall 2026 | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Fall-2026_10139784?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
+| The Walt Disney Company | Glendale System Software Engineering Internship - Fall 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Flock Safety | Device Software Engineering Intern | Atlanta, GA | <a href="https://jobs.ashbyhq.com/Flock%20Safety/88a80dbf-1627-420a-a087-1bc8edc894e0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
+| Insulet Corporation | Co-op Embedded Software Test Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/XMLNAME---Co-op--Embedded-Software-Test-Engineering--July-2026---December-2026--Onsite-_REQ-2026-14585?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Clarios | Product Engineering Intern - General Application for Summer 2026 | Milwaukee, WI | <a href="https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Product-Engineering-Intern--General-Application-for-Summer-2026-_WD44741?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC, Canada | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000346179?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | SK hynix | Intern – CXL Memory Solutions 🎓 | San Jose, CA | <a href="https://job-boards.greenhouse.io/skhynixamerica/jobs/5083144008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
@@ -78,7 +78,6 @@ A curated list of hardware engineering internships.
 | ALSO | Software Engineering Intern - Wearables | Palo Alto, CA | <a href="https://jobs.ashbyhq.com/Ridealso/a01b5422-33bb-4436-9ea3-bfa079df3ba0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Ciena | Wavelogic Software Intern - Summer 2026 | Atlanta, GA | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2026-_R029765?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | S&C Electric Company | Product Engineering Support – Co-op | Toronto, ON, Canada | <a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106111?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
-| Northrop Grumman | Intern Product Support Engineer | 4 locationsEscondido, CASan Diego, CAPalmdale, CAEl Segundo, CA | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Product-Support-Engineer_R10219075?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | CACI | Hardware Reverse Engineering Intern | Dulles, VA | <a href="https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Hardware-Reverse-Engineering-Intern---Summer-2026_321045?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | DiDi Global | Architect Engineer Intern - Motion Planning | San Jose, CA | <a href="https://job-boards.greenhouse.io/didi/jobs/7528524?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Ciena | Electrical/Optical Test and Automation Engineer Co-op - 8 month - May 2026 | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electrical-Optical-Test-and-Automation-Engineer-Co-op--8-month---May-2026-_R029724?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
@@ -127,7 +126,6 @@ A curated list of hardware engineering internships.
 | General Dynamics Mission Systems | Intern Engineer – Co-Op - May 2026 Start | Fort Wayne, IN | <a href="https://careers-gdms.icims.com/jobs/69612/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Westinghouse Electric Company | System Test Engineering Intern Summer 2026 | Cranberry Twp, PA | <a href="https://careers.westinghousenuclear.com/job/Warrendale-System-Test-Engineering-Intern-Summer-2026-OR/1341012300/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Meta | Research Scientist Intern, Organic Optoelectronic Materials (PhD) 🎓 🛂 | Redmond, WA | <a href="https://www.metacareers.com/profile/job_details/843617948284299?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Microsoft | Research Intern - FPGA-Based Compute & Memory Modeling | Redmond, WA | <a href="https://apply.careers.microsoft.com/careers/job/1970393556636985?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Nokia | Diagnostics Software Development Intern | Sunnyvale, CA | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28316?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Nokia | Embedded Software Engineer Intern | San Jose, CA | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26678?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Etched.ai | Software Intern - Software | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/605c286d-be56-4e83-83b8-436d29ce17df/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
