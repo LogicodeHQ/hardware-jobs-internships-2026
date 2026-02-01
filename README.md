@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-01 09:02 UTC
+**Last updated:** 2026-02-01 13:55 UTC
 
 ---
 
@@ -12,7 +12,7 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Astranis | Radiation Effects Engineer Intern - Summer 2026 | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4649397006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Moscow, ID | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-19426?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Paccar | Engine Test & Validation Intern | Burlington, WA | <a href="https://jobs.paccar.com/job/Mount-Vernon-Engine-Test-&-Validation-Intern-WA-98273-9671/1289156801/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
