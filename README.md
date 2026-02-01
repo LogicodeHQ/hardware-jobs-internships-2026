@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-01 13:55 UTC
+**Last updated:** 2026-02-01 16:59 UTC
 
 ---
 
@@ -51,8 +51,7 @@ A curated list of hardware engineering internships.
 | Sphere Entertainment Co. | Sphere Technical Production Summer 2026 Student Associate Program - Las Vegas | Las Vegas, NV | <a href="https://www.sphereentertainmentco.com/job/4961928007?gh_jid=4961928007&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Sandisk | Intern - System Design Engineering | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000105665207?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Silicon Laboratories | Design Engineer Intern | Austin, TX | <a href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20532-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| The Walt Disney Company | Glendale System Software Engineering Internship - Fall 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| The Walt Disney Company | WDW Computer Science / Computer Engineering Interns - Fall 2026 | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Fall-2026_10139784?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
+| The Walt Disney Company | Glendale System Software Engineering Internship - Fall 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Flock Safety | Device Software Engineering Intern | Atlanta, GA | <a href="https://jobs.ashbyhq.com/Flock%20Safety/88a80dbf-1627-420a-a087-1bc8edc894e0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Clarios | Product Engineering Intern - General Application for Summer 2026 | Milwaukee, WI | <a href="https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Product-Engineering-Intern--General-Application-for-Summer-2026-_WD44741?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | SK hynix | Intern – CXL Memory Solutions 🎓 | San Jose, CA | <a href="https://job-boards.greenhouse.io/skhynixamerica/jobs/5083144008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
