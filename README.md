@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-02 10:30 UTC
+**Last updated:** 2026-02-02 14:27 UTC
 
 ---
 
@@ -12,10 +12,11 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| The Walt Disney Company | WDI Illusion Maker – Surface Development Intern | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Illusion-Maker---Surface-Development-Intern--Glendale--Summer-2026_10141436?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Emerson Electric | Software Engineer Intern | Shakopee, MNEden Prairie, MN | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26000517?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | RTX | 2026 Software Engineering Intern - Gen4 Radar - Onsite/CA | El Segundo, CA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Software-Engineering-Intern---Gen4-Radar---Onsite--CA-_01820704?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Formlabs | Hardware R&D Engineering Intern - Summer 2026 | Cambridge, MA | <a href="https://careers.formlabs.com/job/7230844/apply/?gh_jid=7230844&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
+| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Astranis | Radiation Effects Engineer Intern - Summer 2026 | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4649397006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Moscow, ID | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-19426?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Paccar | Engine Test & Validation Intern | Burlington, WA | <a href="https://jobs.paccar.com/job/Mount-Vernon-Engine-Test-&-Validation-Intern-WA-98273-9671/1289156801/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -50,11 +51,9 @@ A curated list of hardware engineering internships.
 | The Walt Disney Company | WDI Show Control Hardware Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Hardware-Intern--Orlando--Summer-Fall-2026_10140729-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | MSG Entertainment | Sphere Technical Production Summer 2026 Student Associate Program - Las Vegas | Las Vegas, NV | <a href="https://msgentertainment.com/job/4961973007?gh_jid=4961973007&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Amentum | Hardware/Software Systems Integration Intern | Huntsville, AL | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Hardware-Software-Systems-Integration-Intern_R0152546?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| The Walt Disney Company | Graduate Media Systems Engineer Intern | SF | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Industrial-Light---Magic--Graduate-Media-Systems-Engineer-Intern--Summer-2026_10134292?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Sphere Entertainment Co. | Sphere Technical Production Summer 2026 Student Associate Program - Las Vegas | Las Vegas, NV | <a href="https://www.sphereentertainmentco.com/job/4961928007?gh_jid=4961928007&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Sandisk | Intern - System Design Engineering | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000105665207?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Silicon Laboratories | Design Engineer Intern | Austin, TX | <a href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20532-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| The Walt Disney Company | Glendale System Software Engineering Internship - Fall 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Flock Safety | Device Software Engineering Intern | Atlanta, GA | <a href="https://jobs.ashbyhq.com/Flock%20Safety/88a80dbf-1627-420a-a087-1bc8edc894e0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Insulet Corporation | Co-op Embedded Software Test Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/XMLNAME---Co-op--Embedded-Software-Test-Engineering--July-2026---December-2026--Onsite-_REQ-2026-14585?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Clarios | Product Engineering Intern - General Application for Summer 2026 | Milwaukee, WI | <a href="https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Product-Engineering-Intern--General-Application-for-Summer-2026-_WD44741?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
