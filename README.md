@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-03 10:06 UTC
+**Last updated:** 2026-02-03 14:33 UTC
 
 ---
 
@@ -27,9 +27,10 @@ A curated list of hardware engineering internships.
 | SRI International | Drexel Co-op: Software Engineering | Princeton, NJ | <a href="https://careers-sri.icims.com/jobs/6326/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Regal Rexnord | Engineering Technology Co-op - Summer | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Engineering-Technology-Co-op--Summer-_R26_00461-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | The Walt Disney Company | WDI Show Control Hardware Intern - Glendale - Summer 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-2026_10141979?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| The Walt Disney Company | WDI Illusion Maker – Surface Development Intern | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Illusion-Maker---Surface-Development-Intern--Glendale--Summer-2026_10141436?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | RTX | 2026 Software Engineering Intern - Gen4 Radar - Onsite/CA | El Segundo, CA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Software-Engineering-Intern---Gen4-Radar---Onsite--CA-_01820704?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Formlabs | Hardware R&D Engineering Intern - Summer 2026 | Cambridge, MA | <a href="https://careers.formlabs.com/job/7230844/apply/?gh_jid=7230844&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
+| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Astranis | Radiation Effects Engineer Intern - Summer 2026 | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4649397006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Moscow, ID | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-19426?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Paccar | Engine Test & Validation Intern | Burlington, WA | <a href="https://jobs.paccar.com/job/Mount-Vernon-Engine-Test-&-Validation-Intern-WA-98273-9671/1289156801/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
@@ -66,7 +67,6 @@ A curated list of hardware engineering internships.
 | Sandisk | Intern - System Design Engineering | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000105665207?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Silicon Laboratories | Design Engineer Intern | Austin, TX | <a href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20532-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Flock Safety | Device Software Engineering Intern | Atlanta, GA | <a href="https://jobs.ashbyhq.com/Flock%20Safety/88a80dbf-1627-420a-a087-1bc8edc894e0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Insulet Corporation | Co-op Embedded Software Test Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/XMLNAME---Co-op--Embedded-Software-Test-Engineering--July-2026---December-2026--Onsite-_REQ-2026-14585?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | SK hynix | Intern – CXL Memory Solutions 🎓 | San Jose, CA | <a href="https://job-boards.greenhouse.io/skhynixamerica/jobs/5083144008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Eyebot | Engineering Intern | Boston, MA | <a href="https://jobs.ashbyhq.com/eyebot/153c0c77-a28f-4b41-bdb2-5ea30a65db05/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Graphcore | Intern – Systems Engineering - Compute AI Hardware Platforms | Austin, TX | <a href="https://job-boards.greenhouse.io/graphcore/jobs/8386064002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
