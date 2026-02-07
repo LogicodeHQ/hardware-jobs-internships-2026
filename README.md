@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-07 05:08 UTC
+**Last updated:** 2026-02-07 08:39 UTC
 
 ---
 
@@ -21,7 +21,7 @@ A curated list of hardware engineering internships.
 | Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | Chaska, MNMinneapolis, MN | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Minneapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0213496?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Motorola | Software Engineering Intern | Plantation, FL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2026-Software-Engineering-Summer-Internship_R61822?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Calix | Hardware Engineer | Petaluma, CA | <a href="https://calix.wd1.myworkdayjobs.com/External/job/Petaluma/Hardware-Engineering-Intern_R-11410?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Turion Space | Hardware Engineering Intern | Irvine, CA | <a href="https://jobs.ashbyhq.com/turion-space/650d46de-3bec-45b9-b062-6a9154064277/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Turion Space | Hardware Engineering Intern | Irvine, CA | <a href="https://jobs.ashbyhq.com/turion-space/650d46de-3bec-45b9-b062-6a9154064277/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Applied Materials | Intern - Software Engineer 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Software-Engineer_R2610324?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Insulet Corporation | Co-op – Embedded Software Engineer - July-Dec 2026 | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Embedded-Software-Engineer--July-Dec-2026--Onsite-_REQ-2026-14604?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | RTX | Test Engineering Intern - Summer 2026 | Long Island, New York | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BOHEMIA-355--355-Knickerbocker-Ave--KNICKERBOCKER/Test-Engineering-Intern--Summer-2026--Onsite-_01819311?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
@@ -33,7 +33,7 @@ A curated list of hardware engineering internships.
 | Regal Rexnord | Application Team Co-Op | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Hitachi | Site Deployment – Intern - 4 Months | Toronto, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Site-Deployment---Intern-4-Months-_R1011668?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Parsons | Software Engineer Intern - Summer 2026 | Columbia, MD | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Field-Location/Software-Engineer---Intern--Summer-2026-_R177208-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Draper | Optics-Physics Sensor Engineering Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR002201?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
+| Draper | Optics-Physics Sensor Engineering Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR002201?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Micron Technology | Intern – Design Architecture - Hbm | Richardson, TX | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR89643?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Mastercard | Apprentice - Cabling Engineer | Harrogate, UK | <a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Harrogate-England-Vocalink/Data-Centre-Infrastructure-Apprentice_R-260222?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Skyways | System Engineering Intern | Austin, TX | <a href="https://jobs.lever.co/skyways/e66d836b-11f7-4c67-825b-83a6c9c01b91/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -85,10 +85,10 @@ A curated list of hardware engineering internships.
 | d-Matrix | Software Engineer Intern - Simulation and Modeling | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/0abbd071-4abf-46b8-bcff-242cd4f4e491/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Sandisk | Intern - Firmware Engineer - Physical Storage | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000106151995?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Western Digital | Summer 2026 Intern - Software Engineering - Firmware | Irvine, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000106150335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| The Toro Company | Software Engineer Intern - Embedded Software & Telematics | Bloomington, MN | <a href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Software-Engineer-Intern--Embedded-Software---Telematics----The-Toro-Company_JR15152?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
+| The Toro Company | Software Engineer Intern - Embedded Software & Telematics | Bloomington, MN | <a href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Software-Engineer-Intern--Embedded-Software---Telematics----The-Toro-Company_JR15152?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Microchip Technology | Intern-Equipment Technician - Bulk Chemical | Fairview, OR | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Technician--Bulk-Chemical-_R2120-25?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | HARMAN International | Intern - Systems Engineering | Novi, MI | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Systems-Engineering_R-51281-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
-| The Walt Disney Company | WDI Show Control Hardware Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Hardware-Intern--Orlando--Summer-Fall-2026_10140729-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
+| The Walt Disney Company | WDI Show Control Hardware Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Hardware-Intern--Orlando--Summer-Fall-2026_10140729-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Sandisk | Intern - System Design Engineering | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000105665207?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Silicon Laboratories | Design Engineer Intern | Austin, TX | <a href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20532-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Flock Safety | Device Software Engineering Intern | Atlanta, GA | <a href="https://jobs.ashbyhq.com/Flock%20Safety/88a80dbf-1627-420a-a087-1bc8edc894e0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
