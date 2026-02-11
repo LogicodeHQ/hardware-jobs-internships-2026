@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-11 17:10 UTC
+**Last updated:** 2026-02-11 20:47 UTC
 
 ---
 
@@ -12,7 +12,6 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| Intel | System Simulation Engineer Intern | Remote in Canada | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-Intern_JR0280686?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | CAE | Avionics Software Engineer Intern/Co-op | Arlington, TX | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Avionics-Software-Engineer-Co-op_120485?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Hitachi | Engineering Intern - Research & Development | Valparaiso, IN | <a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Michigan-City-Indiana-United-States/Engineering---Research---Development--R-D----Summer-Internship_R0120062?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | RTX | Software Engineering Intern/Co-op | Tualatin, OR | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-Op--Onsite-_01786693?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -42,7 +41,7 @@ A curated list of hardware engineering internships.
 | Leidos | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00175336?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Paccar | Engine Systems Verification Intern | Burlington, WA | <a href="https://jobs.paccar.com/job/Mount-Vernon-Engine-Systems-Verification-Intern-WA-98273-9671/1291057201/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Western Digital | Intern - Advanced System Development Engineering - Hardware/Software | Irvine, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000107565711?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Regal Rexnord | Application Team Co-Op | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
+| Regal Rexnord | Application Team Co-Op | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Hitachi | Site Deployment – Intern - 4 Months | Toronto, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Site-Deployment---Intern-4-Months-_R1011668?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Parsons | Software Engineer Intern - Summer 2026 | Columbia, MD | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Field-Location/Software-Engineer---Intern--Summer-2026-_R177208-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Draper | Optics-Physics Sensor Engineering Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR002201?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
@@ -50,7 +49,6 @@ A curated list of hardware engineering internships.
 | Skyways | System Engineering Intern | Austin, TX | <a href="https://jobs.lever.co/skyways/e66d836b-11f7-4c67-825b-83a6c9c01b91/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Hitachi | Hardware Test Engineering Intern | North York, ON, CanadaScarborough, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Hardware-Test-Engineering-Intern--Summer-2026--16months-_R1011731?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | onsemi | Imaging Test Engineer Intern | Nampa, ID | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503627?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
-| Aptiv | Engineering Intern | Walnut Creek, CA | <a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_9818?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Jabil | Software Firmware Engineer Intern | Tampa, FLSt. Petersburg, FL | <a href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Software-Firmware-Engineering-Intern_J2438189?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Bio-Techne | Hardware Engineering Intern | San Jose, CA | <a href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101514?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Nidec | Engineering Co-op | Fort Smith, AR | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Engineering-Co-op_R0014019-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -67,7 +65,6 @@ A curated list of hardware engineering internships.
 | Draper | Resilience and Fault Tolerance Intern | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineering-Intern_JR002183?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Varex Imaging Corporation | Software Engineer Intern | Salt Lake City, UT | <a href="https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineering-Intern_R0005576?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | The Boeing Company | Simulator Technician Apprentice | Crawley, UK | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Simulator-Technician-Apprentice--Crawley-_JR2026493372-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Jabil | Product Verification Test Engineer Intern | St. Petersburg, FL | <a href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Product-Verification-Test-Engineering-Intern_J2437746?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | HARMAN International | Summer Intern - Hardware Engineering | Novi, MI | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Hardware-Engineering_R-51418-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Redwood Materials | Test Engineering Intern | SF | <a href="https://boards.greenhouse.io/redwoodmaterials/jobs/5789872004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Regal Rexnord | Engineering Technology Co-op - Summer | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Engineering-Technology-Co-op--Summer-_R26_00461-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
@@ -139,7 +136,7 @@ A curated list of hardware engineering internships.
 | Samsung Research America | Intern - Memory Subsystem | Mountain View, CA | <a href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8347409002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Motorola | Summer 2026 Internship: Hardware Engineer Intern - Electrical or Mechanical | San Mateo, CACulver City, CA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/Summer-2026-Internship--Hardware-Engineer-Intern--Electrical-or-Mechanical-_R60382?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | ASML | Intern - Field Service Engineering | Malta, NY | <a href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Malta-NY-USA/Internship---Field-Service-Engineering_J-00329548?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Geotab | Embedded Developer Intern - Software in the Loop - Summer/May 2026 | Oakville, ON, Canada | <a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5014189008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Geotab | Embedded Developer Intern - Vehicle Data Development & Tooling - Summer/May 2026 | Oakville, ON, CanadaKitchener, ON, Canada | <a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5014242008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | GlobalFoundries | Photonic Test and Measurement Intern - Summer 2026 | Malta, NY | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Photonic-Test-and-Measurement-Intern--Summer-2026-_JR-2504346?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Keysight Technologies | Industrial Intern - Aerospace and Defence Custom Solutions - Software Engineer | Edinburgh, UK | <a href="https://jobs.keysight.com/jobs/51148?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Zoox | System Engineering Intern | San Mateo, CA | <a href="https://jobs.lever.co/zoox/eb2f10b7-300a-46f1-bd35-41167c9f7c63/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -149,4 +146,3 @@ A curated list of hardware engineering internships.
 | Leidos | FPGA Engineer Intern | Arlington, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/FPGA-Engineer-Intern_R-00167328?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Nokia | Lab Assistant Co-op | Annapolis Junction, MDRemote in USA | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28660?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Astranis | CAD Engineer/Librarian Associate - Summer 2026 | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4626416006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Motorola | 2026 Summer Embedded SW Engineering Intern | Hoffman Estates, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2026-Summer-Embedded-SW-Engineering-Intern_R60125?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
