@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-12 17:05 UTC
+**Last updated:** 2026-02-12 20:42 UTC
 
 ---
 
@@ -15,7 +15,6 @@ A curated list of hardware engineering internships.
 | Vertiv | Liquid Cooling Engineering Internship - Summer 2026 | New Albany, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266192?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Aptiv | Engineering Intern | Kitchener, ON, CanadaKanata, Ottawa, ON, Canada | <a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | CFD Research Corporation | Intern – Internship - Prototype - Test & Evaluation | Huntsville, AL | <a href="https://www.cfd-research.com/jobs?gh_jid=4130274009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| NXP Semiconductors | Electronic Repair Engineer | Austin, TX | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Electronic-Repair-Engineer-Intern---Summer-2026_R-10060152-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Boston Dynamics | Technical Operations Co-Op | Waltham, MA | <a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Technical-Operations-Co-Op_R2386?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Teledyne | Software Engineer Co-Op | Mahwah, NJ | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ32641?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Altera Corporation | Validation Software-Undergraduate Intern | San Jose, CA | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Validation-Software-Undergraduate-Intern_R02016?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -53,7 +52,7 @@ A curated list of hardware engineering internships.
 | Ciena | Hardware Design and Verification Co-op - Pcba - Summer 2026 | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Co-op--Summer-2026-_R030043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Leidos | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00175336?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Western Digital | Intern - Advanced System Development Engineering - Hardware/Software | Irvine, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000107565711?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| Regal Rexnord | Application Team Co-Op | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
+| Regal Rexnord | Application Team Co-Op | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Hitachi | Site Deployment – Intern - 4 Months | Toronto, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Site-Deployment---Intern-4-Months-_R1011668?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Parsons | Software Engineer Intern - Summer 2026 | Columbia, MD | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Field-Location/Software-Engineer---Intern--Summer-2026-_R177208-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Draper | Optics-Physics Sensor Engineering Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR002201?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -125,7 +124,6 @@ A curated list of hardware engineering internships.
 | Blue Origin | Non-Destructive Test Inspector Intern | Huntsville, ALMerritt Island, FLSeattle, WA | <a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2026-Non-Destructive-Test-Inspector---Internship_R58722?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | ASML | Intern - Software Engineer | San Diego, CA | <a href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00329701?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Western Digital | Software Engineer Intern - Software Engineering - Firmware | Rochester, MN | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000103777420?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
-| Stanley Black & Decker | Embedded Engineering Summer Intern 2026 | Towson, MD | <a href="https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2026_REQ-1000045296?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | ABB | Product Engineering Intern | Jackson, TN | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Selmer/Product-Engineering-Intern---Selmer--TN---Summer-2026_JR00019144?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | NVIDIA | DFT Intern 🎓 | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Intern---Summer-2026_JR2006274?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | ALSO | Software Engineering Intern - Wearables | Palo Alto, CA | <a href="https://jobs.ashbyhq.com/Ridealso/a01b5422-33bb-4436-9ea3-bfa079df3ba0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
