@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-02-13 08:53 UTC
+**Last updated:** 2026-02-13 13:15 UTC
 
 ---
 
@@ -31,7 +31,6 @@ A curated list of hardware engineering internships.
 | True Anomaly | Flight Software Intern | Long Beach, CADenver, CO | <a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | CAE | Software Engineer Co-op - Flight Controls & Motion | Tampa, FL | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Software-Engineer-Co-op---Flight-Controls---Motion_120325?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Hitachi | Engineering Intern - Research & Development | Valparaiso, IN | <a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Michigan-City-Indiana-United-States/Engineering---Research---Development--R-D----Summer-Internship_R0120062?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| RTX | Software Engineering Intern/Co-op | Tualatin, OR | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-Op--Onsite-_01786693?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Charge Robotics | Engineering Intern - Summer 2026 | San Leandro, CA | <a href="https://jobs.ashbyhq.com/charge-robotics/81799a5b-c23f-4d17-9cce-af01b1d44ad9/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | L3Harris Technologies | Software Engineering Intern - Yorba Linda - CA | Yorba Linda, CA | <a href="https://jobs.l3harris.com/job/Yorba-Linda-Software-Engineering-Intern-(Yorba-Linda,-CA)-CA-92887/1363700000/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Nokia | Optical Test Co-op/Intern | Ottawa, ON, Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31730?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -64,6 +63,7 @@ A curated list of hardware engineering internships.
 | Micron Technology | Intern – Design Architecture - Hbm | Richardson, TX | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR89643?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Skyways | System Engineering Intern | Austin, TX | <a href="https://jobs.lever.co/skyways/e66d836b-11f7-4c67-825b-83a6c9c01b91/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Hitachi | Hardware Test Engineering Intern | North York, ON, CanadaScarborough, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Hardware-Test-Engineering-Intern--Summer-2026--16months-_R1011731?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
+| RTX | Stagiaire en Essais Non-Destructifs – Été 2026 / Non-Destructive Testing Group Intern - Summer 2026 | Longueuil, QC, Canada | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Essais-Non-Destructifs---t-2026---Non-Destructive-Testing-Group-Intern---Summer-2026_01810703-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | onsemi | Imaging Test Engineer Intern | Nampa, ID | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503627?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Jabil | Software Firmware Engineer Intern | Tampa, FLSt. Petersburg, FL | <a href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Software-Firmware-Engineering-Intern_J2438189?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Bio-Techne | Hardware Engineering Intern | San Jose, CA | <a href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101514?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
@@ -84,9 +84,9 @@ A curated list of hardware engineering internships.
 | HARMAN International | Summer Intern - Hardware Engineering | Novi, MI | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Hardware-Engineering_R-51418-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Redwood Materials | Test Engineering Intern | SF | <a href="https://boards.greenhouse.io/redwoodmaterials/jobs/5789872004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Regal Rexnord | Engineering Technology Co-op - Summer | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Engineering-Technology-Co-op--Summer-_R26_00461-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
-| The Walt Disney Company | WDI Show Control Hardware Intern - Glendale - Summer 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-2026_10141979-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
+| The Walt Disney Company | WDI Show Control Hardware Intern - Glendale - Summer 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-2026_10141979-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Formlabs | Hardware R&D Engineering Intern - Summer 2026 | Cambridge, MA | <a href="https://careers.formlabs.com/job/7230844/apply/?gh_jid=7230844&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
-| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
+| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Astranis | Radiation Effects Engineer Intern - Summer 2026 | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4649397006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Applied Materials | 2026 Summer Physicist/Scientist Intern - Bachelor - Santa Clara, CA | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Physicist-Scientist-Intern---Bachelor--Santa-Clara--CA-_R2611467-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Anglian Water | Asset Technician Apprentice - Clean Water | United Kingdom | <a href="https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Stoke-Ferry-Water-Recycling-Centre/Asset-Technician-Apprentice--Clean-Water-_EC026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
