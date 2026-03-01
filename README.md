@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-01 08:39 UTC
+**Last updated:** 2026-03-01 13:02 UTC
 
 ---
 
@@ -34,6 +34,7 @@ A curated list of hardware engineering internships.
 | Liberty University | Broadcast Apprentice | Lynchburg, VA | <a href="https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/Broadcast-Apprentice_R0010029?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Société Générale de Surveillance (SGS) | Project Engineer Intern | Suwanee, GA | <a href="https://jobs.smartrecruiters.com/SGS/744000098083705?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Insulet Corporation | Co-op – Software Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Software-Engineering--July---December-2026--Onsite-_REQ-2026-15078?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| CACI | Engineering/Physics Intern | Fort Belvoir, VA | <a href="https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Fort-Belvoir/Engineering-Physics-Intern---Summer-2026_322467?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | HELLBENDER | Intern - Robotics Software Engineer 🎓 | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/hellbenderinc/jobs/5129080008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | <a href="https://jobs.l3harris.com/job/Fort-Wayne-Software-Engineer-Internship-(Fort-Wayne,-IN)-1-IN-46818/1367951100/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Marvell | Package Engineering Intern - Ph. D Degree 🎓 | Santa Clara, CA | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Package-Engineering-Intern---PhD_2502295?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
@@ -69,7 +70,7 @@ A curated list of hardware engineering internships.
 | Teledyne | Product Validation and Characterization Engineer | Camarillo, CA | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Product-Validation-and-Characterization-Engineering-Intern_REQ33133?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Sandisk | Intern - Flash Systems Engineering | Irvine, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000110427964?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Roku | Software Engineer Intern - Streaming Media | Cambridge, UK | <a href="https://www.weareroku.com/jobs/7626166?gh_jid=7626166&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Motorola | R&D Intern - FPGA/RTL Design Engineer | Irvine, CA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
+| Motorola | R&D Intern - FPGA/RTL Design Engineer | Irvine, CA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Takeda | Lab Intern - DE&C - Device Evaluation and Characterization | Lexington, MA | <a href="https://takeda.wd3.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2026-Summer-Internship-Program--Lab-Intern----DE-C--Device-Evaluation-and-Characterization_R0174913?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Microsoft | Research Intern - Cryptography and Applications 🎓 | Redmond, WA | <a href="https://apply.careers.microsoft.com/careers/job/1970393556768703?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Bio-Techne | Hardware Engineering Intern | San Jose, CA | <a href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
@@ -149,8 +150,8 @@ A curated list of hardware engineering internships.
 | Hewlett Packard Enterprise | Wireless Driver Development Intern - Été 2026 | Montréal, QC, Canada | <a href="https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Wireless-Driver-Development-Intern---Summer-2026----Stagiaire-Dveloppement-de-Pilote-Sans-Fil---t-2026_1193428?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Draper | Resilience and Fault Tolerance Intern | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineering-Intern_JR002183?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | The Boeing Company | Simulator Technician Apprentice | Crawley, UK | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Simulator-Technician-Apprentice--Crawley-_JR2026493372-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
-| The Walt Disney Company | WDI Show Control Hardware Intern - Glendale - Summer 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-2026_10141979-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
-| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
+| The Walt Disney Company | WDI Show Control Hardware Intern - Glendale - Summer 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-2026_10141979-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
+| Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Astranis | Radiation Effects Engineer Intern - Summer 2026 | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4649397006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Anglian Water | Asset Technician Apprentice - Clean Water | United Kingdom | <a href="https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Stoke-Ferry-Water-Recycling-Centre/Asset-Technician-Apprentice--Clean-Water-_EC026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Harbinger Motors | Intern Battery | Westminster, CA | <a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5037873007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
