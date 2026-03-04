@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-04 16:55 UTC
+**Last updated:** 2026-03-04 20:38 UTC
 
 ---
 
@@ -34,7 +34,6 @@ A curated list of hardware engineering internships.
 | Flextronics International | Test Engineering Intern | Austin, TX | <a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Test-Engineering-Intern_WD216485?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Advanced Energy | Intern Firmware Engineer | 4 locationsMinnesotaMassachusettsColoradoCalifornia | <a href="https://jobs.advanced-energy.com/job/Wilmington-Intern-Firmware-Engineer-Summer-2026-MA-01887/1369220600/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Dover | Intern – Product Engineering | Grand Rapids, MI | <a href="https://careers.dovercorporation.com/job/Grand-Rapids-Intern-Product-Engineering-MI-49503/1369203733/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Radiance Technologies | Hardware Engineer Intern | Huntsville, AL | <a href="https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Hardware-Engineer-Intern_HR102030?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | L3Harris Technologies | Software Engineering Intern | Burlington, MA | <a href="https://jobs.l3harris.com/job/Wilmington-Software-Engineering-Intern-MA-01887/1369365900/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Comstock Companies | AV Internship | Reston, VA | <a href="https://job-boards.greenhouse.io/comstock/jobs/4115457009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | The Boeing Company | Millennium Space Systems Intern Program | El Segundo, CA | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Assembly--Test--and-Launch--ATLO--Operations_JR2026498295?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
@@ -145,9 +144,8 @@ A curated list of hardware engineering internships.
 | Etched.ai | Chipsim Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Voyager Technologies | 2026 Voyager Summer Internship - Computer Engineering | Folsom, CA | <a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4117034009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Impinj | Firmware Engineering Intern | Seattle, WA | <a href="https://job-boards.greenhouse.io/impinjexternal/jobs/4656151005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| HARMAN International | Intern - Software Engineering | Novi, MI | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Software-Engineering_R-51519-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Ciena | Hardware Design and Verification Co-op - Pcba - Summer 2026 | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Co-op--Summer-2026-_R030043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
-| Regal Rexnord | Application Team Co-Op | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
+| Regal Rexnord | Application Team Co-Op | Vandalia, OH | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Draper | Optics-Physics Sensor Engineering Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR002201?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Hewlett Packard (HP) | Technology & Innovation Organization Hardware Engineering Intern | Corvallis, OR | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Personal-Technology---Innovation-Organization-Hardware-Engineering-Internship_3154457?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Micron Technology | Intern – Design Architecture - Hbm | Richardson, TX | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR89643?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
