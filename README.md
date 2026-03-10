@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-10 17:00 UTC
+**Last updated:** 2026-03-10 20:41 UTC
 
 ---
 
@@ -60,7 +60,7 @@ A curated list of hardware engineering internships.
 | Sandisk | Intern - System Design Engineering | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000112797759?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Marvell | Hardware Design Engineer - Application Engineering - Bachelor's Degree | Santa Clara, CA | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Design-Engineer-Intern---Bachelor-s-Degree_2502451?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Johnson Controls | Software Engineering Intern | Milwaukee, WI | <a href="https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineering-Intern_WD30262593?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Hewlett Packard (HP) | Software Engineering Intern - Systems - Hp IQ | SF | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Systems---HP-IQ_3160452?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
+| Hewlett Packard (HP) | Software Engineering Intern - Wireless - HP IQ | SF | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Wireless---HP-IQ_3160499-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Alarm.com | Device Engineering Intern | Vienna, VA | <a href="https://job-boards.greenhouse.io/alarmcom/jobs/8420530002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Calix | Optical Engineering Intern | Minneapolis, MN | <a href="https://calix.wd1.myworkdayjobs.com/External/job/Minneapolis/Optical-Engineering-Intern_R-11517?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Moog | Intern – Systems Engineering | Carson, CA | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Systems-Engineering_R-25-13772?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
@@ -167,6 +167,7 @@ A curated list of hardware engineering internships.
 | ABB | Integrated Motor Drive SW Co-op | Greenville, SC | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Co-Op---Summer-2026_JR00024809?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | ASSA ABLOY | Firmware Engineering Intern | Lake Forest, CA | <a href="https://assaabloy.jobs2web.com/job/Lake-Forest-Firmware-Engineering-Intern-CA-92610/1293009801/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | True Anomaly | Flight Software Intern | Long Beach, CADenver, CO | <a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
+| CAE | Integration Specialist Intern Co-Op | Tampa, FL | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Integration-Specialist-Co-Op_120461?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Charge Robotics | Engineering Intern - Summer 2026 | San Leandro, CA | <a href="https://jobs.ashbyhq.com/charge-robotics/81799a5b-c23f-4d17-9cce-af01b1d44ad9/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Nokia | Optical Test Co-op/Intern | Ottawa, ON, Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31730?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Veolia | Apprentice Service Engineer | Stoke-on-Trent, UK | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000108452814?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
