@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-10 08:53 UTC
+**Last updated:** 2026-03-10 13:16 UTC
 
 ---
 
@@ -124,7 +124,7 @@ A curated list of hardware engineering internships.
 | Teledyne | Product Validation and Characterization Engineer | Camarillo, CA | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Product-Validation-and-Characterization-Engineering-Intern_REQ33133?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Sandisk | Intern - Flash Systems Engineering | Irvine, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000110427964?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Roku | Software Engineer Intern - Streaming Media | Cambridge, UK | <a href="https://www.weareroku.com/jobs/7626166?gh_jid=7626166&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
-| Motorola | R&D Intern - FPGA/RTL Design Engineer | Irvine, CA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
+| Motorola | R&D Intern - FPGA/RTL Design Engineer | Irvine, CA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Microsoft | Research Intern - Cryptography and Applications 🎓 | Redmond, WA | <a href="https://apply.careers.microsoft.com/careers/job/1970393556768703?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Micron Technology | Intern – Asic Gen-AI | Folsom, CASan Jose, CA | <a href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Gen-AI_JR91646?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Formlabs | Machine Shop Intern | Cambridge, MA | <a href="https://careers.formlabs.com/job/7635990/apply/?gh_jid=7635990&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
