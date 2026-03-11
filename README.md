@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-11 08:52 UTC
+**Last updated:** 2026-03-11 13:16 UTC
 
 ---
 
@@ -12,6 +12,7 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| Monolithic Power Systems | Application Engineer Intern | San Jose, CA | <a href="https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Western Digital | Intern - Material Scientist / Thin Film Processes Engineer - Ph.D. Only 🎓 | Fremont, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113857350?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Skydio | Manufacturing Test Engineering Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/95f038dc-1a1a-4059-a5be-910fb62498de/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Meta | ASIC Engineer Intern | Sunnyvale, CA | <a href="https://www.metacareers.com/jobs/921705200549034?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -23,13 +24,12 @@ A curated list of hardware engineering internships.
 | Teleo | Firmware Engineering Intern/Co-op | Palo Alto, CA | <a href="https://jobs.lever.co/teleo/63fe96ee-74dc-41eb-80bc-6f80133c9ffa/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Voyager Technologies | Intern - Systems Engineering | San Diego, CA | <a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4115400009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Becton Dickinson | Intern – R&D Intern - Software Engineering | San Diego, CA | <a href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-TC-Bldg-CD/Summer-Intern---R-D-Intern--Software-Engineering_R-540383?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Western Digital | Intern – HAMR device fabrication Intern 🎓 | Fremont, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113815787?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Western Digital | Intern - Software Engineering - Firmware | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113755157?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | General Dynamics Mission Systems | Engineer Intern | Bridgewater, MA | <a href="https://careers-gdms.icims.com/jobs/71347/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Ciena | Hardware Design Engineer Intern | Atlanta, GA | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Hardware-Design-Engineer-Intern--Summer-2026-_R030340?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Amentum | Software Programmer Intern | Detroit, MI | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0156070?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Spectrum Control | Engineering Intern/Co-op | Philadelphia, PA | <a href="https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101305?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Axon | DFx Engineering Intern | Scottsdale, AZ | <a href="https://job-boards.greenhouse.io/axon/jobs/7245404003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Western Digital | Intern - Software Engineering - Firmware | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113629548?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
+| Axon | DFx Engineering Intern | Scottsdale, AZ | <a href="https://job-boards.greenhouse.io/axon/jobs/7245404003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Trackonomy | Embedded Firmware Engineer Intern | San Jose, CA | <a href="https://trackonomysystems.com/career-details/?gh_jid=5822643004&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Taara | FPGA Intern | Sunnyvale, CA | <a href="https://jobs.ashbyhq.com/taaraconnect/9d46074e-4fa8-44ce-9b2e-59296f6bf2e9/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | GE Healthcare | Surgery Field Engineer Apprentice | California | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
