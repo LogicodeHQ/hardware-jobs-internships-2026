@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-12 02:41 UTC
+**Last updated:** 2026-03-12 05:18 UTC
 
 ---
 
@@ -22,6 +22,7 @@ A curated list of hardware engineering internships.
 | Advanced Energy | Intern Firmware Engineer 🎓 | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Summer-2026-CO-80525/1372518000/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Smiths Detection Group | Imaging and Algorithms Intern | Gunpowder, MD | <a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000114074937?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Rockwell Automation | Co-op Hardware Development Engineer | Mayfield Heights, OH | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--May---Dec-2026-_R25-7363?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Ultra | Software Engineering Intern | Chantilly, VA | <a href="https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Chantilly-VA-United-States/Software-Engineering-Intern--Summer-2026-_REQ-11492?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Verkada | Embedded Intern - Security | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4915313007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Western Digital | Intern - Material Scientist / Thin Film Processes Engineer - Ph.D. Only 🎓 | Fremont, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113857350?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Skydio | Manufacturing Test Engineering Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/95f038dc-1a1a-4059-a5be-910fb62498de/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
@@ -34,7 +35,6 @@ A curated list of hardware engineering internships.
 | Voyager Technologies | Intern - Systems Engineering | San Diego, CA | <a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4115400009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Becton Dickinson | Intern – R&D Intern - Software Engineering | San Diego, CA | <a href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-TC-Bldg-CD/Summer-Intern---R-D-Intern--Software-Engineering_R-540383?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Western Digital | Intern - Software Engineering - Firmware | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113755157?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| General Dynamics Mission Systems | Engineer Intern | Bridgewater, MA | <a href="https://careers-gdms.icims.com/jobs/71347/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Amentum | Software Programmer Intern | Detroit, MI | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0156070?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Spectrum Control | Engineering Intern/Co-op | Philadelphia, PA | <a href="https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101305?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Axon | DFx Engineering Intern | Scottsdale, AZ | <a href="https://job-boards.greenhouse.io/axon/jobs/7245404003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
