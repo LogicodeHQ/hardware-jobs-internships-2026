@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-12 08:53 UTC
+**Last updated:** 2026-03-12 13:16 UTC
 
 ---
 
@@ -12,6 +12,10 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| RTX | Intern – Software Engineer Intern | Indianapolis, IN | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--IN-_01829309?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Netflix | Software Engineer PhD Intern - Streaming Algorithms 🎓 | Los Gatos, CA | <a href="https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-PhD-Intern--Streaming-Algorithms--Summer-2026-_JR37687?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Northrop Grumman | Intern Software Engineer | 5 locationsPalmdale, CAOklahoma City, OKGrand Forks, NDSan Diego, CAEl Segundo, CA | <a href="https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Software-Engineer_R10217175-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Nightwing Intelligence Solutions | Radio Frequency Engineering Intern | Dulles, VA | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Western Digital | Intern - Failure Analysis Engineering | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000114157217?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Rolls-Royce | Controls Engineer - Software and Systems | West Lafayette, IN | <a href="https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/West-Lafayette/Controls-Engineer-Intern--Software-and-Systems-_JR6151727?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Hewlett Packard (HP) | Hardware Engineering – Radio Frequency Intern - HP IQ | SF | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Hardware-Engineering--Radio-Frequency-Intern---HP-IQ_3160779-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -43,7 +47,7 @@ A curated list of hardware engineering internships.
 | Western Digital | Intern - Software Engineering - Firmware | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113755157?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Amentum | Software Programmer Intern | Detroit, MI | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0156070?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Spectrum Control | Engineering Intern/Co-op | Philadelphia, PA | <a href="https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101305?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Axon | DFx Engineering Intern | Scottsdale, AZ | <a href="https://job-boards.greenhouse.io/axon/jobs/7245404003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
+| Axon | DFx Engineering Intern | Scottsdale, AZ | <a href="https://job-boards.greenhouse.io/axon/jobs/7245404003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Trackonomy | Embedded Firmware Engineer Intern | San Jose, CA | <a href="https://trackonomysystems.com/career-details/?gh_jid=5822643004&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Taara | FPGA Intern | Sunnyvale, CA | <a href="https://jobs.ashbyhq.com/taaraconnect/9d46074e-4fa8-44ce-9b2e-59296f6bf2e9/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | GE Healthcare | Surgery Field Engineer Apprentice | California | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -119,7 +123,6 @@ A curated list of hardware engineering internships.
 | Société Générale de Surveillance (SGS) | Project Engineer Intern | Suwanee, GA | <a href="https://jobs.smartrecruiters.com/SGS/744000098083705?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Insulet Corporation | Co-op – Software Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Software-Engineering--July---December-2026--Onsite-_REQ-2026-15078?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | HELLBENDER | Intern - Robotics Software Engineer 🎓 | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/hellbenderinc/jobs/5129080008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
-| L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | <a href="https://jobs.l3harris.com/job/Fort-Wayne-Software-Engineer-Internship-(Fort-Wayne,-IN)-1-IN-46818/1367951100/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Marvell | Package Engineering Intern - Ph. D Degree 🎓 | Santa Clara, CA | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Package-Engineering-Intern---PhD_2502295?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Westinghouse Electric Company | Software Engineering Intern | Cranberry Twp, PA | <a href="https://careers.westinghousenuclear.com/job/Warrendale-Software-Engineering-Intern-Summer-2026-OR/1368068700/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Applied Materials | 2026 Summer Global Product Support Engineer Intern - Bachelor's - Kalispell MT | Kalispell, MT | <a href="https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/XMLNAME-2026-Summer-Global-Product-Support-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2613404?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
