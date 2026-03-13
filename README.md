@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-13 02:39 UTC
+**Last updated:** 2026-03-13 05:15 UTC
 
 ---
 
@@ -67,7 +67,6 @@ A curated list of hardware engineering internships.
 | Rolls Royce | Total Vehicle System Integration and Validation Co-op | Spartanburg, SC | <a href="https://jobs.bmwgroup.com/job/Spartanburg-Total-Vehicle-System-Integration-and-Validation-Co-Op-(Fall-2026)-Sout/1371004133/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | d-Matrix | HW Design Verification Intern 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/a1d69a8b-49bb-4561-91f7-a2536eb3e6df/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Verkada | Industrial Design Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/5070008007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
-| RTX | Intern Systems Engineer - Setc | Tewksbury, MA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026---Intern-Systems-Engineer---SETC--Onsite-_01813431-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Ciena | Photonic Hardware Intern | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern_R030313?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Lumentum | Failure Analysis Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-Intern_2026264?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Zeiss | Intern Systems Engineer | Dublin, CA | <a href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Intern--Systems-Engineering_JR_1047720-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -98,7 +97,6 @@ A curated list of hardware engineering internships.
 | Scout Motors | Intern Engineer - R&D - Vehicle & Validation | Charlotte, NC | <a href="https://job-boards.greenhouse.io/scoutmotors/jobs/5065701007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Creation Technologies | Engineering Intern | Dallas, TX | <a href="https://creationtech.wd1.myworkdayjobs.com/Creation/job/Dallas-US/Engineering-Intern_JR6254?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Samsung Research America | Intern - GPU Architecture Modeling - Summer/Fall 🎓 | Mountain View, CA | <a href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8439936002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| L3Harris Technologies | Software Engineer | Anaheim, CA | <a href="https://jobs.l3harris.com/job/Anaheim-Software-Engineer-Intern-CA-92805/1369707900/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Coherent | Intern Firmware Engineer | Fremont, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010917?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Leonardo | Manufacturing Technician Apprentice | Southampton, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Manufacturing-Technician-Apprentice_R0022670?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | The Boeing Company | Mission Assurance Intern | El Segundo, CA | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Mission-Assurance-Intern_JR2026498893-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
@@ -204,7 +202,6 @@ A curated list of hardware engineering internships.
 | ABB | Software Engineer Intern | Bartlesville, OK | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00021639?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Applied Materials | 2026 Summer Software Engineer Intern - Bachelor's - Kalispell','MT | Kalispell, MT | <a href="https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/XMLNAME-2026-Summer-Software-Engineer-Intern---Bachelor-s--Kalispell--MT-_R2611643?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Hewlett Packard Enterprise | Wireless Driver Development Intern - Été 2026 | Montréal, QC, Canada | <a href="https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Wireless-Driver-Development-Intern---Summer-2026----Stagiaire-Dveloppement-de-Pilote-Sans-Fil---t-2026_1193428?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| The Boeing Company | Simulator Technician Apprentice | Crawley, UK | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Simulator-Technician-Apprentice--Crawley-_JR2026493372-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | The Walt Disney Company | WDI Show Control Hardware Intern - Glendale - Summer 2026 | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Show-Control-Hardware-Intern--Glendale--Summer-2026_10141979-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Seagate Technology | Test Process & Firmware Engineering Intern - Summer 2026 | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Anglian Water | Asset Technician Apprentice - Clean Water | United Kingdom | <a href="https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Stoke-Ferry-Water-Recycling-Centre/Asset-Technician-Apprentice--Clean-Water-_EC026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
