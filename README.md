@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-14 02:37 UTC
+**Last updated:** 2026-03-14 05:13 UTC
 
 ---
 
@@ -93,7 +93,6 @@ A curated list of hardware engineering internships.
 | Overview Energy | Hardware Development Intern - Mechanical | Ashburn, VA | <a href="https://jobs.ashbyhq.com/overviewenergy/81114355-7b12-4cad-9a35-7f7f351dcb62/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | d-Matrix | AI Software Architect 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/4f6086f0-8c90-46cb-bb87-36b9ea89842c/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Pure Storage | Hardware Engineer Intern | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/purestorage/jobs/7681144?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Cummins | Product Systems Validation Co-Op Positions | Columbus, IN | <a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426259?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Ciena | NPI Hardware Co-op | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---May-2026-_R029723-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Ambarella | Software Architecture Engineer Intern | United States | <a href="https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Tenstorrent | Memory Architecture Intern 🎓 | United States | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5038984007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
@@ -208,7 +207,6 @@ A curated list of hardware engineering internships.
 | Impinj | Firmware Engineering Intern | Seattle, WA | <a href="https://job-boards.greenhouse.io/impinjexternal/jobs/4656151005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Draper | Optics-Physics Sensor Engineering Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR002201?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Hewlett Packard (HP) | Technology & Innovation Organization Hardware Engineering Intern | Corvallis, OR | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Personal-Technology---Innovation-Organization-Hardware-Engineering-Internship_3154457?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Hitachi | Hardware Test Engineering Intern | North York, ON, CanadaScarborough, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Hardware-Test-Engineering-Intern--Summer-2026--16months-_R1011731?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | onsemi | Imaging Test Engineer Intern | Nampa, ID | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503627?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Samsung | Interoperability – Test Engineering Intern - Iodt 🎓 | Plano, TX | <a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Interoperability--IoDT--Test-Engineering-Intern_R114003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | ABB | Software Engineer Intern | Bartlesville, OK | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00021639?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
