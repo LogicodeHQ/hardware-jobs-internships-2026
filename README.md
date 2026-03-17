@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-17 09:00 UTC
+**Last updated:** 2026-03-17 13:26 UTC
 
 ---
 
@@ -34,11 +34,11 @@ A curated list of hardware engineering internships.
 | GE Healthcare | Field Engineer Apprentice | Fort Wayne, INSouth Bend, IN | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northern-Indiana--South-Bend---Fort-Wayne-_R4036702-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Johnson Controls | Controls Engineering Intern | Roanoke, VA | <a href="https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Controls-Engineering-Intern_WD30261739?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | GE Healthcare | Surgery Field Engineer Apprentice | Salt Lake City, UT | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Surgery-Field-Engineer-Apprentice---Utah_R4035261-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| Teledyne | Software Engineer Co-Op | Mahwah, NJ | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ33472?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| KBR | National Security Solutions Intern – Test & Evaluation Intern | El Segundo, CA | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| KLA | Optical Systems Engineering 🎓 | Milpitas, CA | <a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Optical-Systems-Engineering-Intern_2532174?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| Magna International | Quality Intern | Muskegon, MI | <a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| ABB | Product Development Engineering Intern | Hartford, CT | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/Product-Development-Engineering-Intern---Summer-2026_JR00012836?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
+| Teledyne | Software Engineer Co-Op | Mahwah, NJ | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ33472?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| KBR | National Security Solutions Intern – Test & Evaluation Intern | El Segundo, CA | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| KLA | Optical Systems Engineering 🎓 | Milpitas, CA | <a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Optical-Systems-Engineering-Intern_2532174?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| Magna International | Quality Intern | Muskegon, MI | <a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| ABB | Product Development Engineering Intern | Hartford, CT | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/Product-Development-Engineering-Intern---Summer-2026_JR00012836?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Telix Pharmaceuticals | Electronics/Mechatronics Co-op | Burnaby, BC, Canada | <a href="https://telixpharma.com/careers/find-a-job/?region=telixus&gh_jid=4660681006&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Valeo | Resident Lighting Engineer Intern | Troy, MI | <a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Resident-Lighting-Engineer-Intern--Summer-2026-_REQ2026069919?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | NXP Semiconductors | Test Engineering Intern | Austin, TX | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Test-Engineering-Intern---Summer-2026_R-10060439-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
