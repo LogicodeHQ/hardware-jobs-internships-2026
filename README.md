@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-17 17:10 UTC
+**Last updated:** 2026-03-17 20:49 UTC
 
 ---
 
@@ -14,6 +14,7 @@ A curated list of hardware engineering internships.
 |---------|------|----------|-------|-----|
 | Danaher Corporation | Intern - System Engineer | San Jose, CA | <a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Jose-California-United-States/Internship---System-Engineer_R1307356?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Curtiss-Wright Corporation | Engineering Intern/Co-op | Cincinnati, OH | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OH-Cincinnati-Nuclear/Engineering-Co-Op-Intern_JR11440?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Safran | Software Engineering Intern | Rochester, NY | <a href="https://safransed.bamboohr.com/careers/1058/?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Tandem Diabetes Care | Electrical Test Engineer Intern | San Diego, CA | <a href="https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Electrical-Test-Engineering-Intern_JR100887?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Altera Corporation | Graduate Silicon Validation Intern 🎓 | Austin, TX | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Austin-Texas-United-States/Silicon-Validation-Graduate-Intern_R02156-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Coherent | Intern Laser Application Engineer | Santa Clara, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011354?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
