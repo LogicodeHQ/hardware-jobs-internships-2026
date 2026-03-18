@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-18 02:47 UTC
+**Last updated:** 2026-03-18 05:37 UTC
 
 ---
 
@@ -17,6 +17,7 @@ A curated list of hardware engineering internships.
 | Texas Rangers | Broadcast Operations & Engineering Intern | Arlington, TX | <a href="https://rangersmlb.wd5.myworkdayjobs.com/Rangers/job/Arlington-TX/Broadcast-Operations---Engineering-Intern_R2248?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Particle Measuring Systems | Software Engineer Intern | Longmont, CO | <a href="https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/Niwot-CO/Software-Engineering-Intern_17610?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Curtiss-Wright Corporation | Software Development Engineer Intern | Eden Prairie, MN | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MN-Chanhassen-Exlar/Software-Development-Engineer-Intern_JR11449?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Becton Dickinson | MMS R&D Engineering Intern | San Diego, CA | <a href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-TC-Bldg-CD/MMS-R-D-Engineering-Intern_R-540018?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Terran Orbital | Electrical Test Engineer Intern | Irvine, CA | <a href="https://job-boards.greenhouse.io/terranorbitalcorporation/jobs/4179908009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Qorvo | Mechanical CAD Intern | Richardson, TX | <a href="https://careers.qorvo.com/job/Richardson-Mechanical-CAD-Intern-TX-75081/1374272000/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Robert Bosch Venture Capital | Co-op - Powertrain Testing | Southfield, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000115240881?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -215,6 +216,7 @@ A curated list of hardware engineering internships.
 | Intel | Software Engineering Intern - Bachelor’s | 5 locationsHillsboro, ORFolsom, CAPhoenix, AZAustin, TXSanta Clara, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering----Intern--Bachelor-s_JR0281131?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Viavi Solutions | Hardware Engineering Intern/Co-op | Germantown, MD | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260004326-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Western Digital | Summer 2026 Co-Op - Read/Write Channel Integration | Irvine, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000110016896?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
+| Stellant Systems | Engineering Intern | Carson, CA | <a href="https://careers-stellantsystems.icims.com/jobs/2053/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Applied Materials | Machine Control Software Developer Intern | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Machine-Control-Software-Developer-Intern_R2612947?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Amentum | PLSS Project Engineer Intern | Houston, TX | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/PLSS-Project-Engineer-Intern_R0154279?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Fresenius Kabi | Intern – R & D | Lake Zurich, IL | <a href="https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---R---D_R-10210291?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
