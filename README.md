@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-19 02:49 UTC
+**Last updated:** 2026-03-19 05:24 UTC
 
 ---
 
@@ -12,6 +12,7 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| Moog | Intern – Product Engineering | Buffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13921?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Vishay Intertechnology | Design Drafter Engineering Intern | Norfolk, NE | <a href="https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Columbus-NE/Design-Drafter-Engineering-Intern_JR-15009-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | RTX | Test & Validation Engineering Intern | Akron, OH | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Test---Validation-Engineering-Intern--Summer-2026--Onsite-_01794857?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | CFD Research Corporation | Intern – Technician Intern | Huntsville, AL | <a href="https://www.cfd-research.com/jobs?gh_jid=4186505009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -154,7 +155,7 @@ A curated list of hardware engineering internships.
 | Overview Energy | Hardware Development Intern - Mechanical | Ashburn, VA | <a href="https://jobs.ashbyhq.com/overviewenergy/81114355-7b12-4cad-9a35-7f7f351dcb62/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | d-Matrix | AI Software Architect 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/4f6086f0-8c90-46cb-bb87-36b9ea89842c/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Pure Storage | Hardware Engineer Intern | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/purestorage/jobs/7681144?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
-| Ciena | NPI Hardware Co-op | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---May-2026-_R029723-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
+| Ciena | NPI Hardware Co-op | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---May-2026-_R029723-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Ambarella | Software Architecture Engineer Intern | United States | <a href="https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Tenstorrent | Memory Architecture Intern 🎓 | United States | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5038984007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Cirque du Soleil | Technical Services Intern | Las Vegas, NV | <a href="https://jobs.lever.co/cirquedusoleil/1d648e5d-7c82-4f3b-bac4-61c50ba34f1e/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
