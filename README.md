@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-21 02:33 UTC
+**Last updated:** 2026-03-21 05:09 UTC
 
 ---
 
@@ -168,7 +168,7 @@ A curated list of hardware engineering internships.
 | Overview Energy | Hardware Development Intern - Mechanical | Ashburn, VA | <a href="https://jobs.ashbyhq.com/overviewenergy/81114355-7b12-4cad-9a35-7f7f351dcb62/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | d-Matrix | AI Software Architect 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/4f6086f0-8c90-46cb-bb87-36b9ea89842c/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Pure Storage | Hardware Engineer Intern | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/purestorage/jobs/7681144?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
-| Ciena | NPI Hardware Co-op | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---May-2026-_R029723-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
+| Ciena | NPI Hardware Co-op | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---May-2026-_R029723-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Ambarella | Software Architecture Engineer Intern | United States | <a href="https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Tenstorrent | Memory Architecture Intern 🎓 | United States | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5038984007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Cirque du Soleil | Technical Services Intern | Las Vegas, NV | <a href="https://jobs.lever.co/cirquedusoleil/1d648e5d-7c82-4f3b-bac4-61c50ba34f1e/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
