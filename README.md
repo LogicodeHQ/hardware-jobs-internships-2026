@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-24 02:41 UTC
+**Last updated:** 2026-03-24 05:25 UTC
 
 ---
 
@@ -12,12 +12,12 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| Cadence Design Systems | Software Engineer 🎓 | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-Intern_R53146?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Thermo Fisher Scientific | Product Applications Intern/Co-op | Hillsboro, OR | <a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Sr-Product-Applications-Co-op_R-01328160?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Fresenius Medical Care | Embedded Software Engineer | Andover, MA | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Engineering-Co-op_R0240653-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | General Motors | Chassis Controls Software Developer – Co-op | Markham, ON, Canada | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Chassis-Controls-Software-Developer--Co-op-_JR-202606122?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Slate Auto | Body Systems Intern - Exteriors | Troy, MI | <a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Body-Systems-Intern---Exteriors_JR100336?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Robert Bosch Venture Capital | Engineering Intern - Vehicle Motion | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000116242964?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Cadence Design Systems | Software Engineer 🎓 | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-Intern_R53146-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Bloom Energy | Embedded Software Engineering Intern - Controls 🎓 | San Jose, CA | <a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Embedded-Software-Engineering-Intern--Controls-_JR-22020?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Flextronics International | Test Engineering Intern | Milpitas, CA | <a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Milpitas/Test-Engineering-Intern---Summer-2026_WD217862?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Lumentum | Failure Analysis and New Product Qualification Intern 🎓 | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026266?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
