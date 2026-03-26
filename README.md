@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-26 17:11 UTC
+**Last updated:** 2026-03-26 20:41 UTC
 
 ---
 
@@ -32,7 +32,6 @@ A curated list of hardware engineering internships.
 | Johnson & Johnson | Performance Evaluation R&D | Bridgewater Township, NJ | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Performance-Evaluation-R-D-Co-op_R-055648?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Roku | Security Researcher Intern - Trust Engineering | Cambridge, UK | <a href="https://www.weareroku.com/jobs/7745675?gh_jid=7745675&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Cadence Design Systems | Software Engineer 🎓 | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-Intern_R53146?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| Thermo Fisher Scientific | Product Applications Intern/Co-op | Hillsboro, OR | <a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Sr-Product-Applications-Co-op_R-01328160?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | General Motors | Chassis Controls Software Developer – Co-op | Markham, ON, Canada | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Chassis-Controls-Software-Developer--Co-op-_JR-202606122?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Slate Auto | Body Systems Intern - Exteriors | Troy, MI | <a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Body-Systems-Intern---Exteriors_JR100336?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Robert Bosch Venture Capital | Engineering Intern - Vehicle Motion | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000116242964?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -136,7 +135,7 @@ A curated list of hardware engineering internships.
 | Western Digital | Co-op - SoC/ASIC Development Engineer | Rochester, MN | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000113396537?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Snap-on | Automotive Technology Intern | Vernon Hills, IL | <a href="https://careers-snapon.icims.com/jobs/19863/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | NVIDIA | AI for Chip Design Intern | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-for-Chip-Design-Intern---Summer-2026_JR2011182?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
-| Hermeus | Flight Software Engineering Intern 🇺🇸 | Atlanta, GA | <a href="https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
+| Hermeus | Flight Software Engineering Intern 🇺🇸 | Atlanta, GA | <a href="https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | Rolls Royce | Total Vehicle System Integration and Validation Co-op | Spartanburg, SC | <a href="https://jobs.bmwgroup.com/job/Spartanburg-Total-Vehicle-System-Integration-and-Validation-Co-Op-(Fall-2026)-Sout/1371004133/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | d-Matrix | HW Design Verification Intern 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/a1d69a8b-49bb-4561-91f7-a2536eb3e6df/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | Verkada | Industrial Design Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/5070008007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
