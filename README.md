@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-27 02:55 UTC
+**Last updated:** 2026-03-27 05:44 UTC
 
 ---
 
@@ -12,6 +12,8 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| DiDi Global | Software Engineer – Intern - Simulation | San Jose, CA | <a href="https://job-boards.greenhouse.io/didi/jobs/7760340?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| AeroVironment | Engineering Intern | Dayton, OH | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/WPAFB/Engineering-Intern_7273?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | KION Group | AMR Engineering Intern | Grand Rapids, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AMR-Engineering-Intern_JR-0072534-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Fresenius Medical Care | R&D Engineering Co-op | Andover, MA | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/R-D-Engineering-Co-op_R0239273?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Oshkosh | Engineering Apprentice | Hagerstown, MD | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Engineering-Apprentice_R42743?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -49,7 +51,6 @@ A curated list of hardware engineering internships.
 | Flextronics International | Test Engineering Intern | Milpitas, CA | <a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Milpitas/Test-Engineering-Intern---Summer-2026_WD217862?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Lumentum | Failure Analysis and New Product Qualification Intern 🎓 | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026266?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Extreme Networks | Intern - Hardware Engineering | Salem, NH | <a href="https://jobs.lever.co/extremenetworks/5fb55102-f2f4-43c5-bde8-1cf8c5ad335c/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| Otter Products | Test Engineering Intern | Fort Collins, CO | <a href="https://careers-otterproducts.icims.com/jobs/6855/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | AirCapture | Test Engineering Intern | Berkeley, CA | <a href="https://job-boards.greenhouse.io/aircapture/jobs/4665737006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | ABB | R&D Lab Material Analyst Intern-Contractor | Memphis, TN | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/R-D-Lab-Material-Analyst-Intern--Summer-2026_JR00017040-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Coherent | Intern – NPI lab and VCSEL R&D | Celina, TX | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011254?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
