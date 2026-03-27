@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-27 17:01 UTC
+**Last updated:** 2026-03-27 20:48 UTC
 
 ---
 
@@ -64,7 +64,6 @@ A curated list of hardware engineering internships.
 | GE Vernova | Embedded Systems / Firmware Engineering Intern-1 | Stoke-on-Trent, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-1_R5035165-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Draper | HWIL & Real Time Simulation Intern | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern_JR002327?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Vishay Intertechnology | Design Drafter Engineering Intern | Norfolk, NE | <a href="https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Columbus-NE/Design-Drafter-Engineering-Intern_JR-15009-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| RTX | Test & Validation Engineering Intern | Akron, OH | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Test---Validation-Engineering-Intern--Summer-2026--Onsite-_01794857?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | CFD Research Corporation | Intern – Technician Intern | Huntsville, AL | <a href="https://www.cfd-research.com/jobs?gh_jid=4186505009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | CACI | Optical Engineering Intern | Fort Belvoir, VA | <a href="https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Fort-Belvoir/Optical-Engineering-Intern---Summer-2026_323368?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | TRUMPF | R&D Production Development Intern | Cranbury, NJ | <a href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Cranbury-NJ/R-D-Production-Development-Intern_R00038278?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
@@ -95,8 +94,6 @@ A curated list of hardware engineering internships.
 | Applied Materials | Intern System Engineer-PhD 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | The Walt Disney Company | WDI Special Effects Designer Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Summer-Fall-2026_10141299-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | GE Healthcare | Field Engineer Apprentice | Fort Wayne, INSouth Bend, IN | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northern-Indiana--South-Bend---Fort-Wayne-_R4036702-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
-| Johnson Controls | Controls Engineering Intern | Roanoke, VA | <a href="https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Controls-Engineering-Intern_WD30261739?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
-| GE Healthcare | Surgery Field Engineer Apprentice | Salt Lake City, UT | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Surgery-Field-Engineer-Apprentice---Utah_R4035261-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Teledyne | Software Engineer Co-Op | Mahwah, NJ | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ33472?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | KBR | National Security Solutions Intern – Test & Evaluation Intern | El Segundo, CA | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Magna International | Quality Intern | Muskegon, MI | <a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
@@ -228,7 +225,6 @@ A curated list of hardware engineering internships.
 | The Walt Disney Company | WDI Illusion Maker – Surface Development Intern | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Illusion-Maker---Surface-Development-Intern--Glendale--Summer-2026_10141436-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Harbinger Motors | Intern – Software Engineering - Firmware | Westminster, CA | <a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5039108007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Astranis | Software Defined Radio Hardware Intern - Summer 2026 | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4646558006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Rugged Robotics | Robotic Software Intern/Co-op | Houston, TX | <a href="https://job-boards.greenhouse.io/ruggedrobotics/jobs/4655015005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Pivotal Software | Software Engineer Intern - Software Engineer | Palo Alto, CA | <a href="https://jobs.lever.co/pivotal/0caba08c-85c4-478a-a6ea-9fbf5b9725c9/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Insulet Corporation | Intern/Co-op Systems Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Systems-Engineering--July---December-2026--Hybrid-_REQ-2026-14621?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | d-Matrix | Software Engineer Intern - Simulation and Modeling | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/0abbd071-4abf-46b8-bcff-242cd4f4e491/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
