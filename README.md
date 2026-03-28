@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-28 16:41 UTC
+**Last updated:** 2026-03-28 20:39 UTC
 
 ---
 
@@ -147,6 +147,7 @@ A curated list of hardware engineering internships.
 | Rolls Royce | Total Vehicle System Integration and Validation Co-op | Spartanburg, SC | <a href="https://jobs.bmwgroup.com/job/Spartanburg-Total-Vehicle-System-Integration-and-Validation-Co-Op-(Fall-2026)-Sout/1371004133/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | d-Matrix | HW Design Verification Intern 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/a1d69a8b-49bb-4561-91f7-a2536eb3e6df/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Verkada | Industrial Design Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/5070008007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
+| Ciena | Photonic Hardware Intern | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern_R030313?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Lumentum | Failure Analysis Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-Intern_2026264?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Span | Hardware Test Intern | SF | <a href="https://jobs.ashbyhq.com/span/104d2d21-9b7a-43cd-8cd1-ca0643b49252/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Skydio | Wireless Hardware Engineer Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/5e1057a4-214f-4783-b676-c1315cfa81ea/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
