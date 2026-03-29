@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-29 03:18 UTC
+**Last updated:** 2026-03-29 05:45 UTC
 
 ---
 
@@ -42,7 +42,7 @@ A curated list of hardware engineering internships.
 | Garrett Motion | Garrett Engineering Intern - Air Foil Bearing | Carson, CA | <a href="https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14157?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Saronic | Systems Software Engineer Intern | Austin, TX | <a href="https://jobs.lever.co/saronic/ae36dcf1-1dbe-4ef0-94f4-b5f0c91b0e75/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Moog | Intern – Software Engineering | Cheektowaga, NYBuffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-16800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| GE Healthcare | Field Engineer Intern | Cleveland, OH | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northwest-OH--Preferably-Cleveland-_R4034611-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| GE Healthcare | Field Engineer Intern | Cleveland, OH | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northwest-OH--Preferably-Cleveland-_R4034611-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Philips | Intern Manufacturing Technician | Tarentum, PA | <a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern-Manufacturing-Technician-New-Kensington--PA-Summer-2026_579677?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | NXP Semiconductors | Digital Verification Intern | Chandler, AZ | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Verification-Intern---Summer-2026_R-10062453?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Stellant Systems | Engineering Intern | Plainview, NY | <a href="https://careers-stellantsystems.icims.com/jobs/2081/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
@@ -154,8 +154,8 @@ A curated list of hardware engineering internships.
 | Skydio | Wireless Hardware Engineer Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/5e1057a4-214f-4783-b676-c1315cfa81ea/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Overview Energy | Hardware Development Intern - Mechanical | Ashburn, VA | <a href="https://jobs.ashbyhq.com/overviewenergy/81114355-7b12-4cad-9a35-7f7f351dcb62/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Pure Storage | Hardware Engineer Intern | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/purestorage/jobs/7681144?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
-| Ambarella | Software Architecture Engineer Intern | United States | <a href="https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
-| Tenstorrent | Memory Architecture Intern 🎓 | United States | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5038984007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
+| Ambarella | Software Architecture Engineer Intern | United States | <a href="https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
+| Tenstorrent | Memory Architecture Intern 🎓 | United States | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5038984007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Cirque du Soleil | Technical Services Intern | Las Vegas, NV | <a href="https://jobs.lever.co/cirquedusoleil/1d648e5d-7c82-4f3b-bac4-61c50ba34f1e/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Marvell | Hardware Design Engineer - Application Engineering - Bachelor's Degree | Santa Clara, CA | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Design-Engineer-Intern---Bachelor-s-Degree_2502451?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Alarm.com | Device Engineering Intern | Vienna, VA | <a href="https://job-boards.greenhouse.io/alarmcom/jobs/8420530002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
@@ -169,7 +169,7 @@ A curated list of hardware engineering internships.
 | Alamar Biosciences | Internship - System Engineering | Fremont, CA | <a href="https://job-boards.greenhouse.io/alamarbiosciences/jobs/5816837004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Advanced Energy | Intern Firmware Engineer | 4 locationsMinnesotaMassachusettsColoradoCalifornia | <a href="https://jobs.advanced-energy.com/job/Wilmington-Intern-Firmware-Engineer-Summer-2026-MA-01887/1369220600/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Comstock Companies | AV Internship | Reston, VA | <a href="https://job-boards.greenhouse.io/comstock/jobs/4115457009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
-| HARMAN International | Intern - Software Engineer - VR Domain | Novi, MI | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Software-Engineering--VR-Domain_R-51549-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
+| HARMAN International | Intern - Software Engineer - VR Domain | Novi, MI | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Software-Engineering--VR-Domain_R-51549-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Cadence Design Systems | AI & Chip Design Intern - Summer 2026 | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/AI---Chip-Design-Intern--Summer-2026-_R53278-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Globus Medical | CNC Model Maker Intern | King of Prussia, PA | <a href="https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/CNC-Model-Maker-intern_JR105849?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Cadence Design Systems | AI & Chip Design Intern | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/AI---Chip-Design-Intern--Summer-2026-_R53278-3?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
