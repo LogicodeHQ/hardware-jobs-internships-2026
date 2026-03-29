@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-29 16:42 UTC
+**Last updated:** 2026-03-29 20:40 UTC
 
 ---
 
@@ -68,7 +68,6 @@ A curated list of hardware engineering internships.
 | Coherent | Intern Opto-Mechanical System Engineer | Hartford, CT | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010693?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | GE Vernova | Embedded Systems / Firmware Engineering Intern-1 | Stoke-on-Trent, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-1_R5035165-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Draper | HWIL & Real Time Simulation Intern | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern_JR002327?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
-| Vishay Intertechnology | Design Drafter Engineering Intern | Norfolk, NE | <a href="https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Columbus-NE/Design-Drafter-Engineering-Intern_JR-15009-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | CFD Research Corporation | Intern – Technician Intern | Huntsville, AL | <a href="https://www.cfd-research.com/jobs?gh_jid=4186505009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | CACI | Optical Engineering Intern | Fort Belvoir, VA | <a href="https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Fort-Belvoir/Optical-Engineering-Intern---Summer-2026_323368?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | TRUMPF | R&D Production Development Intern | Cranbury, NJ | <a href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Cranbury-NJ/R-D-Production-Development-Intern_R00038278?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
