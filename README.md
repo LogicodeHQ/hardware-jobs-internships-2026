@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-30 17:03 UTC
+**Last updated:** 2026-03-30 20:54 UTC
 
 ---
 
@@ -12,11 +12,11 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| Becton Dickinson | MMS R&D Engineering Intern | San Diego, CA | <a href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/MMS-R-D-Engineering-Intern_R-541540?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | General Dynamics Mission Systems | Intern Engineer - Multiple Teams | Scottsdale, AZ | <a href="https://careers-gdms.icims.com/jobs/71717/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Hudl | Intern – Hardware Operatons | Lincoln, NE | <a href="https://job-boards.greenhouse.io/hudl/jobs/7746558?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | ChampionX | Intern | Knoxville, TN | <a href="https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Tennessee---Knoxville/Intern_R00135420?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Microchip Technology | Intern - Engineer | Boulder, CO | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R983-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| NXP Semiconductors | Semiconductor Packaging Engineering Intern | Austin, TX | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Semiconductor-Packaging-Engineering-Intern---Summer-2026_R-10062457?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
+| NXP Semiconductors | Design For Test – Engineer Intern | Chandler, AZ | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Design-For-Test--DFT--Engineer-Intern---Summer-2026_R-10062477?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Shield AI | Electrical Engineering Intern - Hardware Test | Dallas, TX | <a href="https://jobs.lever.co/shieldai/1c88f1db-4372-42a7-a0a4-0fa1919be3de/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Robert Bosch Venture Capital | ADAS Hardware Optics Development Intern/Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000117325527?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Pella Corporation | Product Engineer Intern | Ocala, FL | <a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/250555?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -32,7 +32,6 @@ A curated list of hardware engineering internships.
 | ChargePoint | Hardware Engineering Intern | Los Gatos, CA | <a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8472137002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Western Digital | Intern - Test Development Engineer | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000117054485?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| Cirrus Logic | Intern - Formal Verification 🎓 | Austin, TX | <a href="https://jobs.eu.lever.co/cirrus/85ca886a-381b-46d4-b0ad-49db426a1209/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | MAT Holdings | Product Engineering Intern | Lake Zurich, IL | <a href="https://jobs.smartrecruiters.com/MATHoldings/744000117063117?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Hitachi | Software Analyst Intern | Scarborough, ON, Canada | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Summer-2026-_R1012230?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Thorlabs | Engineering Intern | Branchville, NJ | <a href="https://apply.workable.com/thorlabs/j/313D67D856/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
@@ -58,8 +57,6 @@ A curated list of hardware engineering internships.
 | Lumentum | Failure Analysis and New Product Qualification Intern 🎓 | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026266?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | AirCapture | Test Engineering Intern | Berkeley, CA | <a href="https://job-boards.greenhouse.io/aircapture/jobs/4665737006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Coherent | Intern – NPI lab and VCSEL R&D | Celina, TX | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011254?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| Magna | Intern – Engineering ADAS Features | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235439?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| Coherent | Intern Product Engineering - CO2 Lasers | Hartford, CT | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010642?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Lennox International | Lab Technician Intern | Columbia, SC | <a href="https://uscareers-lennox.icims.com/jobs/52058/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Insulet Corporation | Life Cycle Engineering - Systems | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Life-Cycle-Engineering---Systems--July---December-2026--Hybrid-_REQ-2026-14941?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Moog | Intern Hardware Design Engineer | Aledo, TX | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-16558-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
@@ -116,11 +113,11 @@ A curated list of hardware engineering internships.
 | Red Bull Advanced Technologies | Level 3 Metrology Apprentice | Milton Keynes, UK | <a href="https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Quality-Engineering-Apprentice_R0007261-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | NXP Semiconductors | Product Engineer Intern | Chandler, AZ | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Product-Engineer-Intern---Summer-2026_R-10062241?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Analog Devices | Digital Design Engineer Intern | Lowell, MALinden, NJ | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/Digital-Design-Engineer-Intern_R257717?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
-| BorgWarner | Emotor Engineering Intern | Auburn Hills, MI | <a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/eMotor-Engineering-Intern_R2026-0831?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Spectrum Control | Electromechanical Design Apprentice | Gloucester, UK | <a href="https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Gloucester-UK/Electromechanical-Design-Apprentice_JR101268?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Lucid Motors | Intern – Embedded Firmware Engineer - Battery Software 🎓 | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/4953706007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Becton Dickinson | Intern – R&D Intern - Software Engineering | San Diego, CA | <a href="https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-TC-Bldg-CD/Summer-Intern---R-D-Intern--Software-Engineering_R-540385?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Netflix | Software Engineer PhD Intern - Streaming Algorithms 🎓 | Los Gatos, CA | <a href="https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-PhD-Intern--Streaming-Algorithms--Summer-2026-_JR37687?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
+| Northrop Grumman | Intern Software Engineer | 5 locationsPalmdale, CAOklahoma City, OKGrand Forks, NDSan Diego, CAEl Segundo, CA | <a href="https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Software-Engineer_R10217175-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Nightwing Intelligence Solutions | Radio Frequency Engineering Intern | Dulles, VA | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Hewlett Packard (HP) | Hardware Engineering – Radio Frequency Intern - HP IQ | SF | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Hardware-Engineering--Radio-Frequency-Intern---HP-IQ_3160779-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Microchip Technology | Intern Technician - Electronics | Carlisle, PA | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
@@ -205,7 +202,6 @@ A curated list of hardware engineering internships.
 | General Dynamics Mission Systems | Manufacturing Engineer Intern - Electrical Testing Support | Greensboro, NC | <a href="https://careers-gdms.icims.com/jobs/70926/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Roku | Software Engineer Intern - Embedded | Manchester, UK | <a href="https://www.weareroku.com/jobs/7618730?gh_jid=7618730&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Oshkosh | Testing & Development Rotational Intern | Wixom, MI | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Testing---Development-Rotational-Intern_R44455?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Aurora Innovation | Hardware Engineering Intern - Lidar - MS or PhD 🎓 | Mountain View, CA | <a href="https://aurora.tech/jobs/8340326002?gh_jid=8340326002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Sandisk | Intern - NAND Interface Design and Validation | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000109322315?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Bose | Software Engineer Co-op - Audio Tech | Framingham, MA | <a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op---Audio-Tech_R28702?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Nissan Global | Intern Software Engineer 🎓 | Santa Clara, CA | <a href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Connected-Car-Software-Engineer-Intern---Silicon-Valley--CA---Summer-2026_R00201319?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
