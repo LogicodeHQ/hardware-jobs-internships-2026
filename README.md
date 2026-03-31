@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-31 17:06 UTC
+**Last updated:** 2026-03-31 20:50 UTC
 
 ---
 
@@ -35,7 +35,6 @@ A curated list of hardware engineering internships.
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Thorlabs | Engineering Intern | Branchville, NJ | <a href="https://apply.workable.com/thorlabs/j/313D67D856/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Amentum | Electronics Technician Intern | Bedford, IN | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electronics-Technician---Intern_R0155935?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Wabtec | Digital Intern | 9 locationsGermantown, MDVillanova, PAMelbourne, FLFort Worth, TXNorcross, GAJacksonville, FLErie, PACedar Rapids, IAGrove City, PA | <a href="https://jobs.smartrecruiters.com/Wabtec/3743990010828806?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Garrett Motion | Garrett Engineering Intern - Air Foil Bearing | Carson, CA | <a href="https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14157?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Saronic | Systems Software Engineer Intern | Austin, TX | <a href="https://jobs.lever.co/saronic/ae36dcf1-1dbe-4ef0-94f4-b5f0c91b0e75/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Moog | Intern – Software Engineering | Cheektowaga, NYBuffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-16800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
@@ -101,7 +100,6 @@ A curated list of hardware engineering internships.
 | SharkNinja | Firmware Engineering Intern - Advanced Development | Needham, MA | <a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4600803006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Foundation | Controls Engineer Intern | SF | <a href="https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Westinghouse Electric Company | Systems Engineering Intern | Cranberry Twp, PA | <a href="https://careers.westinghousenuclear.com/job/Warrendale-Systems-Engineering-Intern-Summer-2026-OR/1373323500/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
-| Aevex Aerospace | Software Engineering Intern | Encinitas, CA | <a href="https://job-boards.greenhouse.io/aevexaerospace/jobs/5152866008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | University of Rochester | Co-op Research Student 1 | Rochester, NY | <a href="https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-I_R263737?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Red Bull Advanced Technologies | Level 3 Metrology Apprentice | Milton Keynes, UK | <a href="https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Quality-Engineering-Apprentice_R0007261-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | NXP Semiconductors | Product Engineer Intern | Chandler, AZ | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Product-Engineer-Intern---Summer-2026_R-10062241?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
@@ -166,6 +164,7 @@ A curated list of hardware engineering internships.
 | CAE | CAE Tech Program Intern | Montreal, QC, Canada | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Programme-CAE-Tech---prends-un-envol-dans-ta-carrire---Stage-et-bourse-d-tudes_120714?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Culture Biosciences | Hardware Intern | San Bruno, CA | <a href="https://culturebiosciences.com/careers?gh_jid=7646424003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Bose | Application Software Development Co-op | Bloomfield Hills, MI | <a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Application-Software-Development-Co-op_R28701?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Société Générale de Surveillance (SGS) | Project Engineer Intern | Suwanee, GA | <a href="https://jobs.smartrecruiters.com/SGS/744000098083705?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Insulet Corporation | Co-op – Software Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Software-Engineering--July---December-2026--Onsite-_REQ-2026-15078?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | HELLBENDER | Intern - Robotics Software Engineer 🎓 | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/hellbenderinc/jobs/5129080008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Zoox | Lidar Engineer Intern | San Mateo, CA | <a href="https://jobs.lever.co/zoox/b28f4bc1-226d-471d-a868-1062bbe85614/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
