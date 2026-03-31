@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-03-31 02:54 UTC
+**Last updated:** 2026-03-31 05:46 UTC
 
 ---
 
@@ -100,7 +100,7 @@ A curated list of hardware engineering internships.
 | Magna | Engineering Intern | Muskegon, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newaygo-Michigan-US/Engineering-Intern---Summer-2026_R00227892?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Applied Materials | Intern System Engineer-PhD 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | The Walt Disney Company | WDI Special Effects Designer Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Summer-Fall-2026_10141299-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
-| GE Healthcare | Field Engineer Apprentice | Fort Wayne, INSouth Bend, IN | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northern-Indiana--South-Bend---Fort-Wayne-_R4036702-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
+| GE Healthcare | Surgery Field Engineer Apprentice | Salt Lake City, UT | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Surgery-Field-Engineer-Apprentice---Utah_R4035261-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Teledyne | Software Engineer Co-Op | Mahwah, NJ | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ33472?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | KBR | National Security Solutions Intern – Test & Evaluation Intern | El Segundo, CA | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Magna International | Quality Intern | Muskegon, MI | <a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
