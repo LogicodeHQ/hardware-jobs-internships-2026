@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-01 03:25 UTC
+**Last updated:** 2026-04-01 05:59 UTC
 
 ---
 
@@ -97,7 +97,6 @@ A curated list of hardware engineering internships.
 | Altera Corporation | Graduate Silicon Validation Intern 🎓 | Austin, TX | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Austin-Texas-United-States/Silicon-Validation-Graduate-Intern_R02156-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Coherent | Intern Laser Application Engineer | Santa Clara, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011354?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | GE Vernova | Engineering Intern | Peterborough, ON, Canada | <a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Peterborough-CAN/GE-Vernova-Engineering-Intern---Summer-2026_R5035476-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
-| General Motors | SW Developer Intern | Markham, ON, Canada | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/SW-Developer-Intern_JR-202604176?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | General Dynamics Mission Systems | Engineering Intern | McKeesport, PA | <a href="https://careers-gdms.icims.com/jobs/71307/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Coherent | Intern – Failure Analysis | Fremont, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011293?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | GE Vernova | Software / Systems Engineering Intern 1 | Stoke-on-Trent, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Software---Systems-Engineering-Intern-1_R5035167-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
