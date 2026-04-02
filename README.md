@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-02 17:02 UTC
+**Last updated:** 2026-04-02 20:41 UTC
 
 ---
 
@@ -113,7 +113,6 @@ A curated list of hardware engineering internships.
 | Applied Materials | Intern System Engineer-PhD 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | The Walt Disney Company | WDI Special Effects Designer Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Summer-Fall-2026_10141299-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | GE Healthcare | Surgery Field Engineer Apprentice | Salt Lake City, UT | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Surgery-Field-Engineer-Apprentice---Utah_R4035261-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
-| Teledyne | Software Engineer Co-Op | Mahwah, NJ | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ33472?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | KBR | National Security Solutions Intern – Test & Evaluation Intern | El Segundo, CA | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | Magna International | Quality Intern | Muskegon, MI | <a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | ABB | Product Development Engineering Intern | Hartford, CT | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/Product-Development-Engineering-Intern---Summer-2026_JR00012836?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
