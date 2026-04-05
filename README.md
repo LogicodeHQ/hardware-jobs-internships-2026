@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-05 03:20 UTC
+**Last updated:** 2026-04-05 05:47 UTC
 
 ---
 
@@ -68,7 +68,6 @@ A curated list of hardware engineering internships.
 | Varian | Materials Development and Engineering Intern | United States | <a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/IQH/Materials-Development-and-Engineering-Intern_R-27705?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Zayo | Intern Test and Acceptance | Denver, CO | <a href="https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/Remote---CO/Intern-Test---Acceptance-1_R0016181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | DiDi Global | Software Engineer – Intern - Simulation | San Jose, CA | <a href="https://job-boards.greenhouse.io/didi/jobs/7760340?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| AeroVironment | Engineering Intern | Dayton, OH | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/WPAFB/Engineering-Intern_7273?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | KION Group | AMR Engineering Intern | Grand Rapids, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AMR-Engineering-Intern_JR-0072534-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Magna | Software Engineer | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235442?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
