@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-06 16:57 UTC
+**Last updated:** 2026-04-06 20:44 UTC
 
 ---
 
@@ -19,7 +19,6 @@ A curated list of hardware engineering internships.
 | Lumentum | Test Development Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Test-Development-Intern_2026256?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Hitachi | Engineering Apprentice | London, UK | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/London/Engineering-Apprentice---London_R1011714?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| Bloom Energy | Failure Analysis Engineering Intern | San Jose, CA | <a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Failure-Analysis-Engineering-Intern_JR-21213?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Berkshire Grey | Hardware Quality Co-op | Bedford, MA | <a href="https://berkshiregrey.bamboohr.com/careers/714/?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Moog | Intern Test Engineer | Buffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-16130?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Onto Innovation | Software Engineer Intern | Bloomington, MN | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Software-Engineer-Internship_R-5707?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -206,7 +205,6 @@ A curated list of hardware engineering internships.
 | TRIC Robotics | Robot Technician Intern | Santa Maria, CA | <a href="https://tricrobotics.bamboohr.com/careers/53/?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Moog | Intern – Product Engineering | Buffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13655?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Viavi Solutions | Hardware Engineering Intern/Co-op | Germantown, MD | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260004326-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Western Digital | Summer 2026 Co-Op - Read/Write Channel Integration | Irvine, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000110016896?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Roku | Software Engineer Intern - Advanced Development | Cambridge, UK | <a href="https://www.weareroku.com/jobs/7619098?gh_jid=7619098&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Werfen | Intern – Software Engineering | San Diego, CA | <a href="https://careers-werfen.icims.com/jobs/9949/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Roku | Software Engineer Intern - Embedded | Manchester, UK | <a href="https://www.weareroku.com/jobs/7618730?gh_jid=7618730&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
