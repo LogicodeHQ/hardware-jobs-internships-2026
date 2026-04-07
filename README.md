@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-07 02:56 UTC
+**Last updated:** 2026-04-07 05:49 UTC
 
 ---
 
@@ -57,7 +57,6 @@ A curated list of hardware engineering internships.
 | Cohu | Software Engineer Intern | Sorrento Valley, San Diego, CA | <a href="https://hcbo.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/302226?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Leonardo | Manufacturing Technician Apprentice | Essex, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Manufacturing-Technician-Apprentice_R0028335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Qorvo | Applications Engineering Intern | Richardson, TX | <a href="https://careers.qorvo.com/job/Richardson-Applications-Engineering-Intern-TX-75081/1322646000/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| Moog | Intern - Test Engineering | Cheektowaga, NYBuffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-16911?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Shield AI | Embedded Software Engineer Intern | Boston, MA | <a href="https://jobs.lever.co/shieldai/6b9de151-1090-47c0-a245-85b601295966/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | KLA | Laser Engineer | Milpitas, CA | <a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Laser-Engineer-Intern_2634943-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Lumentum | Failure Analysis and New Product Qualification Intern 🎓 | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026369?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
