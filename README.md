@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-08 03:16 UTC
+**Last updated:** 2026-04-08 05:50 UTC
 
 ---
 
@@ -50,7 +50,6 @@ A curated list of hardware engineering internships.
 | ASSA ABLOY | Engineering Intern | Cypress, CA | <a href="https://assaabloy.jobs2web.com/job/Cypress-Engineering-Intern-CA-90630/1367932733/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | L3Harris Technologies | Embedded Software Engineering Intern | Ottawa, ON, Canada | <a href="https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1379049700/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Applied Materials | AI Application Engineer for Quantum Development Intern - Masters/PhD 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Application-Enginer-for-Quantum-Development-Intern--Masters-PhD---Santa-Clara--CA-_R2616483?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| Moog | Intern Design Engineer | Cleveland, OH | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Cleveland-OH/Intern--Design-Engineering_R-26-16772?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Robert Bosch Venture Capital | Requirements Engineering Intern 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000118244288?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | X Development | PhD Residency - Multiple Teams 🎓 | Mountain View, CA | <a href="https://x.company/careers/8489428002?gh_jid=8489428002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | RTX | Software Engineering Intern | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2026---Onsite-_01789440-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
