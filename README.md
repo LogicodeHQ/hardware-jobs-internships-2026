@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-08 17:12 UTC
+**Last updated:** 2026-04-08 20:53 UTC
 
 ---
 
@@ -96,7 +96,6 @@ A curated list of hardware engineering internships.
 | Cadence Design Systems | Software Engineer 🎓 | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-Intern_R53146?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Robert Bosch Venture Capital | Engineering Intern - Vehicle Motion | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000116242964?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Bloom Energy | Embedded Software Engineering Intern - Controls 🎓 | San Jose, CA | <a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Embedded-Software-Engineering-Intern--Controls-_JR-22020?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
-| AirCapture | Test Engineering Intern | Berkeley, CA | <a href="https://job-boards.greenhouse.io/aircapture/jobs/4665737006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | X Development | PhD / Master’s Residency - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project 🎓 | Mountain View, CA | <a href="https://x.company/careers/8472640002?gh_jid=8472640002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Coherent | Intern – NPI lab and VCSEL R&D | Celina, TX | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011254?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Magna | Intern – Engineering ADAS Features | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235439?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
@@ -133,7 +132,6 @@ A curated list of hardware engineering internships.
 | GE Healthcare | Surgery Field Engineer Apprentice | Salt Lake City, UT | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Surgery-Field-Engineer-Apprentice---Utah_R4035261-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | KBR | National Security Solutions Intern – Test & Evaluation Intern | El Segundo, CA | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Magna International | Quality Intern | Muskegon, MI | <a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| Valeo | Resident Lighting Engineer Intern | Troy, MI | <a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Resident-Lighting-Engineer-Intern--Summer-2026-_REQ2026069919?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Rockwell Automation | Intern – Power Hardware Development | Mequon, WI | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Power-Hardware-Development_R26-1513-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Lumentum | Optical Component Evaluation Engineering Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Optical-Component-Evaluation-Engineering-Intern_2026308?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Draper | Software Engineer | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering-Intern_JR002298?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
