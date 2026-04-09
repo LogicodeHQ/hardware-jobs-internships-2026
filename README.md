@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-09 02:52 UTC
+**Last updated:** 2026-04-09 05:51 UTC
 
 ---
 
@@ -29,7 +29,6 @@ A curated list of hardware engineering internships.
 | Emerson Electric | Software Engineering Intern | Austin, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004161?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Western Digital | Intern - Surface Science & Analytical Research 🎓 | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000119175242?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | BorgWarner | System and Software Development Co-Op | Auburn Hills, MIArden, NC | <a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/System-and-Software-Development-Co-Op_R2026-1254?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Moog | Intern - Design Engineering | Cleveland, OH | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Cleveland-OH/Intern--Design-Engineering_R-26-17057?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | GE Vernova | System & Electronics Engineering | Belfast, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Lisburn/System---Electricronics-Engineering-Intern_R5037346?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | SiFive | Intern Firesim Development | Berkeley, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | CACI | Embedded Software Engineering Intern | Colorado Springs, CO | <a href="https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Embedded-Software-Engineering-Intern---Summer-2026_324258?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
