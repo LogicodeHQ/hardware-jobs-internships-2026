@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-10 16:56 UTC
+**Last updated:** 2026-04-10 20:47 UTC
 
 ---
 
@@ -128,7 +128,7 @@ A curated list of hardware engineering internships.
 | General Dynamics Mission Systems | Engineering Intern | McKeesport, PA | <a href="https://careers-gdms.icims.com/jobs/71307/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Coherent | Intern – Failure Analysis | Fremont, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011293?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | GE Vernova | Controls Application Engineering Intern | Stoke-on-Trent, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Controls-Application-Engineering-Intern_R5035278-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| Hewlett Packard (HP) | Software Engineering Intern - HP IQ | SF | <a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences---HP-IQ_3160497-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
+| Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridge, UK | <a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Magna | Engineering Intern | Muskegon, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newaygo-Michigan-US/Engineering-Intern---Summer-2026_R00227892?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Applied Materials | Intern System Engineer-PhD 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | The Walt Disney Company | WDI Special Effects Designer Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Summer-Fall-2026_10141299-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
@@ -144,7 +144,6 @@ A curated list of hardware engineering internships.
 | Spectrum Control | Electromechanical Design Apprentice | Gloucester, UK | <a href="https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Gloucester-UK/Electromechanical-Design-Apprentice_JR101268?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Lucid Motors | Intern – Embedded Firmware Engineer - Battery Software 🎓 | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/4953706007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Netflix | Software Engineer PhD Intern - Streaming Algorithms 🎓 | Los Gatos, CA | <a href="https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-PhD-Intern--Streaming-Algorithms--Summer-2026-_JR37687?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
-| Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridge, UK | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Microchip Technology | Intern Technician - Electronics | Carlisle, PA | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Fresenius Medical Care | 5 & 5 Engineering Co-op | Andover, MA | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/V---V-Engineering-Co-op_R0240963-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Worthington Enterprises | Engineering Intern | Warwick, RI | <a href="https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43012?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
