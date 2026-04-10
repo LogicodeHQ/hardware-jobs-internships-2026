@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-10 03:24 UTC
+**Last updated:** 2026-04-10 06:02 UTC
 
 ---
 
@@ -15,7 +15,6 @@ A curated list of hardware engineering internships.
 | Paccar | Embedded Software Engineering | Lewisville, TXKirkland, WA | <a href="https://jobs.paccar.com/job/Lewisville-Embedded-Software-Engineering-Intern-Autonomous-Vehicle-Program-TX-75067/1382442433/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | KION Group | RSD Intern - Test Engineering | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Intuitive Surgical | Manufacturing Software Engineer Intern | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/Intuitive/744000119712947?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Intel | Physical Design Graduate Intern 🎓 | Santa Clara, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Physical-Design-Graduate-Intern_JR0282584?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Inogen | Firmware Engineering Intern | Plano, TX | <a href="https://jobs.jobvite.com/inogen/job/ouRVzfwz?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | RTX | Software Engineering Intern - Summer 2026 | Huntsville, AL | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2026---Onsite-_01833504?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Altera Corporation | FPGA Digital Design & Verification – Intern | San Jose, CA | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Digital-Design---Verification---Intern_R02354-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
