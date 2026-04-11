@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-11 02:48 UTC
+**Last updated:** 2026-04-11 05:26 UTC
 
 ---
 
@@ -54,7 +54,6 @@ A curated list of hardware engineering internships.
 | Viavi Solutions | Engineering Intern 🎓 | Germantown, MDChandler, AZ | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Johnson & Johnson | Surgery Design & Development Co-op | Cincinnati, OH | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Design---Dev-Co-op--Summer-2026_R-056996-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Caterpillar Inc. | Instrumentation Lab Apprentice | Tucson, AZ | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/TPG-Instrumentation-Lab-Apprentice_R0000360299?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| Lumentum | Test Development Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Test-Development-Intern_2026256?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Hitachi | Engineering Apprentice | London, UK | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/London/Engineering-Apprentice---London_R1011714?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | GE Healthcare | Field Engineer Intern | Louisville, KYColumbus, OH | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Louisville--KY--Columbus--OH-_R4035200-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
@@ -164,7 +163,6 @@ A curated list of hardware engineering internships.
 | Amentum | Software Programmer Intern | Detroit, MI | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0156070?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Trackonomy | Embedded Firmware Engineer Intern | San Jose, CA | <a href="https://trackonomysystems.com/career-details/?gh_jid=5822643004&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Taara | FPGA Intern | Sunnyvale, CA | <a href="https://jobs.ashbyhq.com/taaraconnect/9d46074e-4fa8-44ce-9b2e-59296f6bf2e9/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| ASSA ABLOY | Firmware Engineer Intern | New Haven, CT | <a href="https://assaabloy.jobs2web.com/job/New-Haven-Firmware-Engineer-Intern-CT-06511/1371726333/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Snap-on | Automotive Technology Intern | Vernon Hills, IL | <a href="https://careers-snapon.icims.com/jobs/19863/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | NVIDIA | AI for Chip Design Intern | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-for-Chip-Design-Intern---Summer-2026_JR2011182?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Hermeus | Flight Software Engineering Intern 🇺🇸 | Atlanta, GA | <a href="https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
