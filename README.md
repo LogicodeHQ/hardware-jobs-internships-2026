@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-12 03:28 UTC
+**Last updated:** 2026-04-12 05:58 UTC
 
 ---
 
@@ -38,7 +38,6 @@ A curated list of hardware engineering internships.
 | GE Healthcare | Surgery Field Engineer Apprentice | Raleigh, NC | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Raleigh-Durham-Area--NC-_R4039150-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | NOV | Electrical Engineer Intern | Houston, TX | <a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/40521?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Anduril | Software Engineer Intern - Anduril Frontier Systems | Irvine, CA | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5029463007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| Moog | Intern Development & Additive Manufacturing - Fastworks | Buffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Development---Additive-Manufacturing---FastWorks_R-26-16033?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Formlabs | Hardware Systems Integration Intern | Cambridge, MA | <a href="https://careers.formlabs.com/job/7514061/apply/?gh_jid=7514061&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Lumentum | Optical Verification Technician Intern/Co-op | Ottawa, ON, Canada | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_2026376?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Johnson & Johnson | Engineering Co-op | Cincinnati, OH | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Engineering-Co-op_R-063875?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
