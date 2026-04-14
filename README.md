@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-14 03:24 UTC
+**Last updated:** 2026-04-14 06:04 UTC
 
 ---
 
@@ -47,7 +47,7 @@ A curated list of hardware engineering internships.
 | Johnson & Johnson | Engineering Co-op | Cincinnati, OH | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Engineering-Co-op_R-063875?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Phoenix Contact | Product Engineering Intern | Irvine, CA | <a href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7692199003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Emerson Electric | Software Engineering Intern | Austin, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004161?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| Western Digital | Intern - Surface Science & Analytical Research 🎓 | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000119175242?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
+| Western Digital | Intern - HAMR Component Testing 🎓 | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000119177062?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | GE Vernova | System & Electronics Engineering | Belfast, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Lisburn/System---Electricronics-Engineering-Intern_R5037346?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | SiFive | Intern Firesim Development | Berkeley, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | CACI | Embedded Software Engineering Intern | Colorado Springs, CO | <a href="https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Embedded-Software-Engineering-Intern---Summer-2026_324258?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
