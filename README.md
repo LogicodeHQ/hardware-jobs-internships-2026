@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-14 17:17 UTC
+**Last updated:** 2026-04-14 21:01 UTC
 
 ---
 
@@ -46,7 +46,6 @@ A curated list of hardware engineering internships.
 | Johnson & Johnson | Engineering Co-op | Cincinnati, OH | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Engineering-Co-op_R-063875?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Phoenix Contact | Product Engineering Intern | Irvine, CA | <a href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7692199003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Emerson Electric | Software Engineering Intern | Austin, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004161?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| Western Digital | Intern - HAMR Component Testing 🎓 | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000119177062?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | GE Vernova | System & Electronics Engineering | Belfast, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Lisburn/System---Electricronics-Engineering-Intern_R5037346?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | SiFive | Intern Firesim Development | Berkeley, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | CACI | Embedded Software Engineering Intern | Colorado Springs, CO | <a href="https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Embedded-Software-Engineering-Intern---Summer-2026_324258?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -144,7 +143,6 @@ A curated list of hardware engineering internships.
 | TripleRing | Software Embedded Engineering Intern | Newark, CA | <a href="https://www.tripleringtech.com/careers?gh_jid=4673135005&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Foundation | Controls Engineer Intern | SF | <a href="https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Westinghouse Electric Company | Systems Engineering Intern | Cranberry Twp, PA | <a href="https://careers.westinghousenuclear.com/job/Warrendale-Systems-Engineering-Intern-Summer-2026-OR/1373323500/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Analog Devices | Digital Design Engineer Intern | Lowell, MALinden, NJ | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/Digital-Design-Engineer-Intern_R257717?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Spectrum Control | Electromechanical Design Apprentice | Gloucester, UK | <a href="https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Gloucester-UK/Electromechanical-Design-Apprentice_JR101268?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Lucid Motors | Intern – Embedded Firmware Engineer - Battery Software 🎓 | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/4953706007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Netflix | Software Engineer PhD Intern - Streaming Algorithms 🎓 | Los Gatos, CA | <a href="https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-PhD-Intern--Streaming-Algorithms--Summer-2026-_JR37687?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -204,4 +202,3 @@ A curated list of hardware engineering internships.
 | Werfen | Intern – Software Engineering | San Diego, CA | <a href="https://careers-werfen.icims.com/jobs/9949/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Roku | Software Engineer Intern - Embedded | Manchester, UK | <a href="https://www.weareroku.com/jobs/7618730?gh_jid=7618730&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Oshkosh | Testing & Development Rotational Intern | Wixom, MI | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Testing---Development-Rotational-Intern_R44455?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Sandisk | Intern - NAND Interface Design and Validation | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/Sandisk/744000109322315?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
