@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-15 17:13 UTC
+**Last updated:** 2026-04-15 20:58 UTC
 
 ---
 
@@ -38,7 +38,6 @@ A curated list of hardware engineering internships.
 | Magna | Intern Failure Analysis & Validation Engineering | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Dover | Software Engineer - Embedded Intern | Austin, TX | <a href="https://careers.dovercorporation.com/job/Austin-Engineer,-SW-Embedded-Intern-TX-78728/1382730733/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | KION Group | RSD Intern - Test Engineering | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Intuitive Surgical | Manufacturing Software Engineer Intern | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/Intuitive/744000119712947?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Altera Corporation | FPGA Digital Design & Verification – Intern | San Jose, CA | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Digital-Design---Verification---Intern_R02354-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | General Dynamics Mission Systems | Engineer Intern | Reston, VA | <a href="https://careers-gdms.icims.com/jobs/71898/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | KLA Corporation | Algorithm Engineer Intern 🎓 | Milpitas, CA | <a href="https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer-Intern_2635538-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
@@ -126,7 +125,6 @@ A curated list of hardware engineering internships.
 | Vishay Intertechnology | Design Drafter Engineering Intern | Norfolk, NE | <a href="https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Columbus-NE/Design-Drafter-Engineering-Intern_JR-15009-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | General Dynamics Mission Systems | Intern Engineer | Pittsfield, MA | <a href="https://careers-gdms.icims.com/jobs/71195/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Particle Measuring Systems | Software Engineer Intern | Longmont, CO | <a href="https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/Niwot-CO/Software-Engineering-Intern_17610?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
-| Curtiss-Wright Corporation | Software Development Engineer Intern | Eden Prairie, MN | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MN-Chanhassen-Exlar/Software-Development-Engineer-Intern_JR11449?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Robert Bosch Venture Capital | Co-op - Powertrain Testing | Southfield, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000115240881?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Coherent | Firmware Engineer Intern | Fremont, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011322?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | onsemi | Applications Intern | Phoenix, AZ | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505017?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
