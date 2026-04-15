@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-15 03:22 UTC
+**Last updated:** 2026-04-15 06:04 UTC
 
 ---
 
@@ -80,7 +80,6 @@ A curated list of hardware engineering internships.
 | Trane Technologies | Technical Applications and HW Apprentice | Manchester, NH | <a href="https://careers.tranetechnologies.com/global/en/job/92600686?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Rockwell Automation | Apprentice Repair Technician | Milton Keynes, UK | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milton-Keynes-England-United-Kingdom/Apprentice-Repair-Technician_R26-1603?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | WindBorne Systems | Firmware Intern | San Carlos, CA | <a href="https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
-| Samsara | Firmware Engineer Co-Op | SF | <a href="https://www.samsara.com/company/careers/roles/7608911?gh_jid=7608911&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | PsiQuantum | Intern – System Commissioning | Milpitas, CA | <a href="https://www.psiquantum.com/apply?gh_jid=7685879003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | NXP Semiconductors | Firmware Engineer Intern 🎓 | Chandler, AZ | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Firmware-Engineer-Intern---Summer-2026_R-10062597?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Teledyne | Engineering Intern | Newark, CA | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Newark-CA/Engineering-Intern_REQ33479?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
