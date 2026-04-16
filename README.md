@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-16 17:21 UTC
+**Last updated:** 2026-04-16 20:56 UTC
 
 ---
 
@@ -33,7 +33,6 @@ A curated list of hardware engineering internships.
 | Thorlabs | Intern | Branchville, NJ | <a href="https://apply.workable.com/thorlabs/j/2E65C95B04/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Etched | DFT Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Marvell | Model Correlation & SI Intern - PhD Degree 🎓 | Ottawa, ON, Canada | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Model-Correlation---SI-Intern---Ph-D-Degree_2502364?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| RTX | Production Test Engineering Intern | El Paso, TX | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-FORT-BLISS-11005-CUST--11005-Fort-Bliss--BLDG-11005-External-Site/XMLNAME-2026-Intern---Production-Test-Engineering-Intern---Onsite--TX-_01837277?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | KLA | System Engineering Intern | Milpitas, CA | <a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Engineering-Intern_2532514-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Hyundai Motor Company | Infotainment Software Engineering Intern | Ann Arbor, MI | <a href="https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-(Internship-Summer-2026)-MI-48198/1335957800/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Dover | Engineer – Software Intern | Austin, TX | <a href="https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382945133/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
