@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-17 16:59 UTC
+**Last updated:** 2026-04-17 20:54 UTC
 
 ---
 
@@ -114,7 +114,6 @@ A curated list of hardware engineering internships.
 | Moog | Intern – Software Engineering | Cheektowaga, NYBuffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-16800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | GE Healthcare | Field Engineer Intern | Cleveland, OH | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northwest-OH--Preferably-Cleveland-_R4034611-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | Dublin, OH | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
-| NXP Semiconductors | Digital Verification Intern | Chandler, AZ | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Verification-Intern---Summer-2026_R-10062453?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Stellant Systems | Engineering Intern | Plainview, NY | <a href="https://careers-stellantsystems.icims.com/jobs/2081/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Roku | Security Researcher Intern - Trust Engineering | Cambridge, UK | <a href="https://www.weareroku.com/jobs/7745675?gh_jid=7745675&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Fresenius Medical Care | Embedded Software Engineer | Andover, MA | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Engineering-Co-op_R0240653-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
