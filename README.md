@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-20 10:04 UTC
+**Last updated:** 2026-04-20 13:58 UTC
 
 ---
 
@@ -20,8 +20,8 @@ A curated list of hardware engineering internships.
 | Microchip Technology | Engineer Intern | Boulder, CO | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R981-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | ENOVIS | Product Development Co-Op | Atlanta, GA | <a href="https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Georgia-Atlanta/Product-Development-Co-Op_R0031502?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Draper | Software Modeling – & Validation Co-op - Analysis | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Modeling--Analysis----Validation-Co-op_JR002218?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Pennsylvania State University | Electronic Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| St. Luke's University Health Network | Healthcare Technology Management Intern | Allentown, PABethlehem, PA | <a href="https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Bethlehem-PA---800-Ostrum-St/Healthcare-Technology-Management-Intern--Cover-letter-required-_R138700?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
+| Pennsylvania State University | Electronic Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
+| St. Luke's University Health Network | Healthcare Technology Management Intern | Allentown, PABethlehem, PA | <a href="https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Bethlehem-PA---800-Ostrum-St/Healthcare-Technology-Management-Intern--Cover-letter-required-_R138700?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Stryker | Systems R&D Engineer Co-op | Burnaby, BC, Canada | <a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Burnaby-Canada/Systems-R-D-Engineer-Co-Op_R562620?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Intertek | Engineering Intern | Homer, NY | <a href="https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14565?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | ReCor Medical | R&D Intern | Palo Alto, CA | <a href="https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/RecorExternal/job/Palo-Alto/R-D-Intern_R11867?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -57,7 +57,7 @@ A curated list of hardware engineering internships.
 | Hyundai Motor Company | Infotainment Software Engineering Intern | Ann Arbor, MI | <a href="https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-(Internship-Summer-2026)-MI-48198/1335957800/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Dover | Engineer – Software Intern | Austin, TX | <a href="https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382945133/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Parsons | Software Engineer Intern | Camarillo, CA | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CA-Camarillo/Software-Engineer-Intern_R179340-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Magna | Destruct Lab Intern | Oak Ridge, TN | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Clinton-Tennessee-US/Quality-Intern--Destruct-Lab_R00237578?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
+| Magna | Destruct Lab Intern | Oak Ridge, TN | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Clinton-Tennessee-US/Quality-Intern--Destruct-Lab_R00237578?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Workstream | Wearables Prototype Engineer Intern - Hardware + Software | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/workstream/jobs/5924391004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Masco | Software Engineering Intern | Oceanside, CA | <a href="https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Vista/Intern--Software-Engineering_REQ52776?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Magna | Intern Failure Analysis & Validation Engineering | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
@@ -82,10 +82,10 @@ A curated list of hardware engineering internships.
 | Rehlko | Engineering Test Lab Co-op | Manitowoc, WI | <a href="https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Engineering-Test-Lab-Co-Op-Summer-2026_R03448?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Western Digital | Intern - HDD Testing | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000118957417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Seurat Technologies | Software Engineer Intern | Burlington, MA | <a href="https://job-boards.greenhouse.io/seurat/jobs/4680924005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
-| Viavi Solutions | Engineering Intern 🎓 | Germantown, MDChandler, AZ | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
-| Caterpillar Inc. | Instrumentation Lab Apprentice | Tucson, AZ | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/TPG-Instrumentation-Lab-Apprentice_R0000360299?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
-| Lumentum | Test Development Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Test-Development-Intern_2026256?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
-| Insulet Corporation | Co-op – Systems Engineering-Design Verification | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Systems-Engineering--Design-Verification--July---December-2026--Onsite-_REQ-2026-15209?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
+| Viavi Solutions | Engineering Intern 🎓 | Germantown, MDChandler, AZ | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
+| Caterpillar Inc. | Instrumentation Lab Apprentice | Tucson, AZ | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/TPG-Instrumentation-Lab-Apprentice_R0000360299?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
+| Lumentum | Test Development Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Test-Development-Intern_2026256?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
+| Insulet Corporation | Co-op – Systems Engineering-Design Verification | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Systems-Engineering--Design-Verification--July---December-2026--Onsite-_REQ-2026-15209?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Onto Innovation | Software Engineer Intern | Bloomington, MN | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Software-Engineer-Internship_R-5707?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
