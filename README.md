@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-20 17:12 UTC
+**Last updated:** 2026-04-20 20:56 UTC
 
 ---
 
@@ -42,7 +42,6 @@ A curated list of hardware engineering internships.
 | Lightmatter | Reliability Test – Intern | Mountain View, CA | <a href="https://boards.greenhouse.io/lightmatter/jobs/4980400008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Hewlett Packard (HP) | Software Security Research Intern | Bristol, UK | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Rolls-Royce Motorcars | System Integration and Validation Co-op | Spartanburg, SC | <a href="https://jobs.bmwgroup.com/job/Spartanburg-System-Integration-and-Validation-Co-op-(Fall-2026)-Sout/1384277333/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
-| Robert Bosch Venture Capital | Chassis Control Intern | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000120957218?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | ChargePoint | Systems Integration and Test – Intern | Los Gatos, CA | <a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8502231002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Yai | Assistive Technology Intern | Union City, NJ | <a href="https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Assistive-Technology-Intern_R024452?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Applied Materials | Intern - Optical Transceiver Engineer 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
@@ -121,7 +120,6 @@ A curated list of hardware engineering internships.
 | MAT Holdings | Product Engineering Intern | Lake Zurich, IL | <a href="https://jobs.smartrecruiters.com/MATHoldings/744000117063117?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Thorlabs | Engineering Intern | Branchville, NJ | <a href="https://apply.workable.com/thorlabs/j/313D67D856/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Wabtec | Digital Intern | 9 locationsGermantown, MDVillanova, PAMelbourne, FLFort Worth, TXNorcross, GAJacksonville, FLErie, PACedar Rapids, IAGrove City, PA | <a href="https://jobs.smartrecruiters.com/Wabtec/3743990010828806?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| Saronic | Systems Software Engineer Intern | Austin, TX | <a href="https://jobs.lever.co/saronic/ae36dcf1-1dbe-4ef0-94f4-b5f0c91b0e75/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Moog | Intern – Software Engineering | Cheektowaga, NYBuffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-16800?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | GE Healthcare | Field Engineer Intern | Cleveland, OH | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northwest-OH--Preferably-Cleveland-_R4034611-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | Dublin, OH | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
