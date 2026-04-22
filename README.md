@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-22 03:25 UTC
+**Last updated:** 2026-04-22 09:26 UTC
 
 ---
 
@@ -29,6 +29,7 @@ A curated list of hardware engineering internships.
 | Nightwing Intelligence Solutions | Radio Frequency Engineering Intern | Dulles, VA | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101396?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Viavi Solutions | Engineering Intern | Leesburg, VA | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Paeonian-Springs-VA-USA/Engineering-Intern_260004553-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Robert Bosch Venture Capital | Software Engineering Intern/Co-op | Simpsonville, SC | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000121879097?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
+| Cadence Design Systems | Design Verification Engineer Intern | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Design-Verification-Engineer-Intern_R54313-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Johnson & Johnson | Heart Recovery Product Development Engineer Co-Op | Peabody, MA | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Heart-Recovery-Product-Development-Engineer-Co-Op---Fall-2026_R-060299?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | HARMAN International | Hardware Engineering Intern | Richardson, TX | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Richardson---Texas-USA/summer-intern-hardware-engineering_R-52705-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
@@ -88,7 +89,7 @@ A curated list of hardware engineering internships.
 | Lumentum | Field Application Engineer Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Field-Application-Engineer-Intern_2026409?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Emerson Electric | Software Engineering Intern | Austin, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004161?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | GE Vernova | System & Electronics Engineering | Belfast, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Lisburn/System---Electricronics-Engineering-Intern_R5037346?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
-| SiFive | Intern Firesim Development | Berkeley, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
+| SiFive | Intern Firesim Development | Berkeley, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | onsemi | Applications Engineer Intern | Scottsdale, AZ | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505143?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Rehlko | Engineering Test Lab Co-op | Manitowoc, WI | <a href="https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Engineering-Test-Lab-Co-Op-Summer-2026_R03448?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Western Digital | Intern - HDD Testing | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000118957417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
@@ -98,7 +99,7 @@ A curated list of hardware engineering internships.
 | Lumentum | Test Development Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Test-Development-Intern_2026256?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Insulet Corporation | Co-op – Systems Engineering-Design Verification | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Systems-Engineering--Design-Verification--July---December-2026--Onsite-_REQ-2026-15209?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
-| Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
+| Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Onto Innovation | Software Engineer Intern | Bloomington, MN | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Software-Engineer-Internship_R-5707?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Efficient Computer | Intern – Embedded Systems | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/efficientcomputer/jobs/4206809009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | Magna | Intern Validation Engineer | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
@@ -118,7 +119,7 @@ A curated list of hardware engineering internships.
 | Microchip Technology | Intern - Engineer | Boulder, CO | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R983-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Robert Bosch Venture Capital | ADAS Hardware Optics Development Intern/Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000117325527?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Pella Corporation | Product Engineer Intern | Ocala, FL | <a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/250555?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
+| SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Zayo | Intern Test and Acceptance | Denver, CO | <a href="https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/Remote---CO/Intern-Test---Acceptance-1_R0016181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | KION Group | AMR Engineering Intern | Grand Rapids, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AMR-Engineering-Intern_JR-0072534-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Magna | Software Engineer | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235442?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
@@ -126,7 +127,7 @@ A curated list of hardware engineering internships.
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | MAT Holdings | Product Engineering Intern | Lake Zurich, IL | <a href="https://jobs.smartrecruiters.com/MATHoldings/744000117063117?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Thorlabs | Engineering Intern | Branchville, NJ | <a href="https://apply.workable.com/thorlabs/j/313D67D856/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
-| Wabtec | Digital Intern | 9 locationsGermantown, MDVillanova, PAMelbourne, FLFort Worth, TXNorcross, GAJacksonville, FLErie, PACedar Rapids, IAGrove City, PA | <a href="https://jobs.smartrecruiters.com/Wabtec/3743990010828806?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
+| Wabtec | Digital Intern | 9 locationsGermantown, MDVillanova, PAMelbourne, FLFort Worth, TXNorcross, GAJacksonville, FLErie, PACedar Rapids, IAGrove City, PA | <a href="https://jobs.smartrecruiters.com/Wabtec/3743990010828806?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | GE Healthcare | Field Engineer Intern | Cleveland, OH | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northwest-OH--Preferably-Cleveland-_R4034611-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | Dublin, OH | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Stellant Systems | Engineering Intern | Plainview, NY | <a href="https://careers-stellantsystems.icims.com/jobs/2081/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
