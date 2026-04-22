@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-22 17:09 UTC
+**Last updated:** 2026-04-22 21:02 UTC
 
 ---
 
@@ -15,7 +15,6 @@ A curated list of hardware engineering internships.
 | Analog Devices | Systems Integration Intern 🎓 | Burlington, MA | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Systems-Integration-Intern_R256312?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Magna | Engineering Intern | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-ADAS-Vehicle-Integration_R00238341?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Baxter International | Hardware Product Development Intern - R&D | Johnsburg, IL | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Intern---R-D--Hardware-Product-Development-Intern_JR-200242?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Ciena | NPI Product Engineer Intern | Montreal, QC, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/NPI-Product-Engineer-Intern_R030650?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | ABB | Software Intern | Pointe-Claire, QC, Canada | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dorval-Quebec-Canada/Software-Intern---Summer-2026_JR00031678-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Viavi Solutions | Software Development Intern | Germantown, MD | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Development-Intern_260004594-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | DiDi Global | Software Engineer – Intern - Simulation | San Jose, CA | <a href="https://job-boards.greenhouse.io/didi/jobs/7835330?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
@@ -28,8 +27,6 @@ A curated list of hardware engineering internships.
 | Nightwing Intelligence Solutions | Radio Frequency Engineering Intern | Dulles, VA | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101396?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Viavi Solutions | Engineering Intern | Leesburg, VA | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Paeonian-Springs-VA-USA/Engineering-Intern_260004553-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Robert Bosch Venture Capital | Software Engineering Intern/Co-op | Simpsonville, SC | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000121879097?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Cadence Design Systems | Design Verification Engineer Intern | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Design-Verification-Engineer-Intern_R54313-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Johnson & Johnson | Heart Recovery Product Development Engineer Co-Op | Peabody, MA | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Heart-Recovery-Product-Development-Engineer-Co-Op---Fall-2026_R-060299?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | HARMAN International | Hardware Engineering Intern | Richardson, TX | <a href="https://harman.wd3.myworkdayjobs.com/HARMAN/job/Richardson---Texas-USA/summer-intern-hardware-engineering_R-52705-2026?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Lumentum | Optical Module Integration Engineering Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Optical-Module-Integration-Engineering-Intern_2026296?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
