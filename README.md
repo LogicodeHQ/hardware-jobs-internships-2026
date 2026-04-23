@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-23 03:28 UTC
+**Last updated:** 2026-04-23 06:10 UTC
 
 ---
 
@@ -147,7 +147,6 @@ A curated list of hardware engineering internships.
 | onsemi | Applications Intern | Phoenix, AZ | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505017?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tandem Diabetes Care | Electrical Test Engineer Intern | San Diego, CA | <a href="https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Electrical-Test-Engineering-Intern_JR100887?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Altera Corporation | Graduate Silicon Validation Intern 🎓 | Austin, TX | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Austin-Texas-United-States/Silicon-Validation-Graduate-Intern_R02156-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Coherent | Intern Laser Application Engineer | Santa Clara, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011354?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | General Dynamics Mission Systems | Engineering Intern | McKeesport, PA | <a href="https://careers-gdms.icims.com/jobs/71307/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Coherent | Intern – Failure Analysis | Fremont, CA | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011293?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridge, UK | <a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -188,7 +187,6 @@ A curated list of hardware engineering internships.
 | Advanced Energy | Intern Firmware Engineer | 4 locationsMinnesotaMassachusettsColoradoCalifornia | <a href="https://jobs.advanced-energy.com/job/Wilmington-Intern-Firmware-Engineer-Summer-2026-MA-01887/1369220600/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Comstock Companies | AV Internship | Reston, VA | <a href="https://job-boards.greenhouse.io/comstock/jobs/4115457009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Sandisk | Intern – SSD System Design Engineer | Longmont, CO | <a href="https://jobs.smartrecruiters.com/Sandisk/744000111948180?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| CAE | CAE Tech Program Intern | Montreal, QC, Canada | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Programme-CAE-Tech---prends-un-envol-dans-ta-carrire---Stage-et-bourse-d-tudes_120714?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Société Générale de Surveillance (SGS) | Project Engineer Intern | Suwanee, GA | <a href="https://jobs.smartrecruiters.com/SGS/744000098083705?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Insulet Corporation | Co-op – Software Engineering | Acton, MA | <a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Software-Engineering--July---December-2026--Onsite-_REQ-2026-15078?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | HELLBENDER | Intern - Robotics Software Engineer 🎓 | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/hellbenderinc/jobs/5129080008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
