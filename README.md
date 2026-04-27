@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-27 03:41 UTC
+**Last updated:** 2026-04-27 06:33 UTC
 
 ---
 
@@ -91,14 +91,14 @@ A curated list of hardware engineering internships.
 | Lumentum | Field Application Engineer Intern | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Field-Application-Engineer-Intern_2026409?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | Emerson Electric | Software Engineering Intern | Austin, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004161?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | GE Vernova | System & Electronics Engineering | Belfast, UK | <a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Lisburn/System---Electricronics-Engineering-Intern_R5037346?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
-| SiFive | Intern Firesim Development | Berkeley, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
+| SiFive | Intern Firesim Development | Berkeley, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Berkeley-California-United-States/Intern---Firesim-Development_R-101079?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | onsemi | Applications Engineer Intern | Scottsdale, AZ | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505143?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | Rehlko | Engineering Test Lab Co-op | Manitowoc, WI | <a href="https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Engineering-Test-Lab-Co-Op-Summer-2026_R03448?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | Seurat Technologies | Software Engineer Intern | Burlington, MA | <a href="https://job-boards.greenhouse.io/seurat/jobs/4680924005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | Viavi Solutions | Engineering Intern 🎓 | Germantown, MDChandler, AZ | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Caterpillar Inc. | Instrumentation Lab Apprentice | Tucson, AZ | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/TPG-Instrumentation-Lab-Apprentice_R0000360299?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
-| Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
+| Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Onto Innovation | Software Engineer Intern | Bloomington, MN | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Software-Engineer-Internship_R-5707?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Magna | Intern Validation Engineer | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | SoloPulse | Systems Engineering Intern | Norcross, GA | <a href="https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
@@ -114,7 +114,7 @@ A curated list of hardware engineering internships.
 | Lumentum | Failure Analysis and New Product Qualification Intern 🎓 | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026369?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Microchip Technology | Intern - Engineer | Boulder, CO | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R983-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | Robert Bosch Venture Capital | ADAS Hardware Optics Development Intern/Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000117325527?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
-| SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
+| SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Zayo | Intern Test and Acceptance | Denver, CO | <a href="https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/Remote---CO/Intern-Test---Acceptance-1_R0016181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | KION Group | AMR Engineering Intern | Grand Rapids, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AMR-Engineering-Intern_JR-0072534-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Magna | Software Engineer | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235442?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -180,4 +180,3 @@ A curated list of hardware engineering internships.
 | Comstock Companies | AV Internship | Reston, VA | <a href="https://job-boards.greenhouse.io/comstock/jobs/4115457009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | General Motors | AV Software Safety Team – Co-op | Markham, ON, Canada | <a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Team---Co-op_JR-202603687?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | CAE | CAE Tech Program Intern | Montreal, QC, Canada | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Programme-CAE-Tech---prends-un-envol-dans-ta-carrire---Stage-et-bourse-d-tudes_120714?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Société Générale de Surveillance (SGS) | Project Engineer Intern | Suwanee, GA | <a href="https://jobs.smartrecruiters.com/SGS/744000098083705?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
