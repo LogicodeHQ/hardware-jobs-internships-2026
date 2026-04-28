@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-28 10:21 UTC
+**Last updated:** 2026-04-28 14:28 UTC
 
 ---
 
@@ -70,6 +70,7 @@ A curated list of hardware engineering internships.
 | Marvell | Model Correlation & SI Intern - PhD Degree 🎓 | Ottawa, ON, Canada | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Model-Correlation---SI-Intern---Ph-D-Degree_2502364?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Hyundai Motor Company | Infotainment Software Engineering Intern | Ann Arbor, MI | <a href="https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-(Internship-Summer-2026)-MI-48198/1335957800/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Parsons | Software Engineer Intern | Camarillo, CA | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CA-Camarillo/Software-Engineer-Intern_R179340-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
+| Magna | Destruct Lab Intern | Oak Ridge, TN | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Clinton-Tennessee-US/Quality-Intern--Destruct-Lab_R00237578?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Workstream | Wearables Prototype Engineer Intern - Hardware + Software | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/workstream/jobs/5924391004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Magna | Intern Failure Analysis & Validation Engineering | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | KION Group | RSD Intern - Test Engineering | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
@@ -85,7 +86,7 @@ A curated list of hardware engineering internships.
 | onsemi | Applications Engineer Intern | Scottsdale, AZ | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505143?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Rehlko | Engineering Test Lab Co-op | Manitowoc, WI | <a href="https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Engineering-Test-Lab-Co-Op-Summer-2026_R03448?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Seurat Technologies | Software Engineer Intern | Burlington, MA | <a href="https://job-boards.greenhouse.io/seurat/jobs/4680924005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
-| Viavi Solutions | Engineering Intern 🎓 | Germantown, MDChandler, AZ | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
+| Viavi Solutions | Engineering Intern 🎓 | Germantown, MDChandler, AZ | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Onto Innovation | Software Engineer Intern | Bloomington, MN | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Software-Engineer-Internship_R-5707?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
@@ -93,6 +94,7 @@ A curated list of hardware engineering internships.
 | SoloPulse | Systems Engineering Intern | Norcross, GA | <a href="https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | ASSA ABLOY | Engineering Intern | Cypress, CA | <a href="https://assaabloy.jobs2web.com/job/Cypress-Engineering-Intern-CA-90630/1367932733/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Robert Bosch Venture Capital | Requirements Engineering Intern 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000118244288?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
+| Trane Technologies | Technical Applications and HW Apprentice | Manchester, NH | <a href="https://careers.tranetechnologies.com/global/en/job/92600686?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Rockwell Automation | Apprentice Repair Technician | Milton Keynes, UK | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milton-Keynes-England-United-Kingdom/Apprentice-Repair-Technician_R26-1603?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | WindBorne Systems | Firmware Intern | San Carlos, CA | <a href="https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | NXP Semiconductors | Firmware Engineer Intern 🎓 | Chandler, AZ | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Firmware-Engineer-Intern---Summer-2026_R-10062597?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
