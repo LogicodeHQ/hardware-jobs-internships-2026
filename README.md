@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-04-28 17:51 UTC
+**Last updated:** 2026-04-28 21:12 UTC
 
 ---
 
@@ -51,7 +51,6 @@ A curated list of hardware engineering internships.
 | DNV | Electrical and Mechanical Degree Apprenticeship Intern - Energy Industry | Workington, UK | <a href="https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6045?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Bose | Product Certifications and Marking Co-Op | Framingham, MA | <a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Product-Certifications-and-Marking-Co-Op_R28749-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | CesiumAstro | Embedded Software Engineering Intern | Austin, TX | <a href="https://jobs.lever.co/CesiumAstro/9fcbcbaf-9c95-4d48-b7c8-521ac052ff39/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
-| Microchip Technology | Product Development Engineering Intern | Lowell, MA | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lowell/Intern--Product-Development-Engineering-_R1546-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | iRhythm Technologies | Electrical Test Engineering Co-op | SF | <a href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op_JR1305?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Skydio | Product Support Engineer Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/8df0689e-a489-4c72-a1f7-09dfe59745b8/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Trane Technologies | Technician Intern | Winona, MN | <a href="https://careers.tranetechnologies.com/global/en/job/JR-644?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
@@ -61,7 +60,6 @@ A curated list of hardware engineering internships.
 | ChargePoint | Systems Integration and Test – Intern | Los Gatos, CA | <a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8502231002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Yai | Assistive Technology Intern | Union City, NJ | <a href="https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Assistive-Technology-Intern_R024452?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Applied Materials | Intern - Optical Transceiver Engineer 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
-| Analytical Mechanics Associates | Surface Radiation – Aerosol and Meteorological Measurements and Analysis Intern | 52 locationsNew MexicoWashingtonKansasPennsylvaniaNorth DakotaOregonDelawareIowaCaliforniaWashington, DCVermontWyomingTexasMontanaJackson Township, NJFloridaWaterbury, CTNevadaSouth CarolinaSouth DakotaGeorgiaHampton, VAArizonaConcord, NHMississippiTennesseeVirginiaArkansasMinnesotaColoradoNebraskaRhode IslandUtahKentuckyWest VirginiaNYCMarylandHawaiiWisconsinMaineMassachusettsNorth CarolinaOklahomaMissouriOhioIndianaLouisianaAlaskaMichiganIllinoisAlabamaIdaho | <a href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Surface-Radiation--Aerosol-and-Meteorological-Measurements-and-Analysis-Intern_R-100557?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | onsemi | Physical Failure Analysis Intern | Phoenix, AZ | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505129?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Magna | Infrared Systems & Test Engineering Intern | Goleta, CA | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Engineering_R00235410?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Veralto | Engineering Intern - Hardware Engineering | Loveland, CO | <a href="https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Loveland-Colorado-United-States/Engineering-Intern---Hardware-Engineering_R10265730-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
@@ -128,7 +126,6 @@ A curated list of hardware engineering internships.
 | Altera Corporation | Graduate Silicon Validation Intern 🎓 | Austin, TX | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Austin-Texas-United-States/Silicon-Validation-Graduate-Intern_R02156-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridge, UK | <a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | The Walt Disney Company | WDI Special Effects Designer Intern | Celebration, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Summer-Fall-2026_10141299-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| KBR | National Security Solutions Intern – Test & Evaluation Intern | El Segundo, CA | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Draper | Software Engineer | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering-Intern_JR002298?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | TripleRing | Software Embedded Engineering Intern | Newark, CA | <a href="https://www.tripleringtech.com/careers?gh_jid=4673135005&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Foundation | Controls Engineer Intern | SF | <a href="https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
