@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-01 17:03 UTC
+**Last updated:** 2026-05-01 20:59 UTC
 
 ---
 
@@ -14,7 +14,6 @@ A curated list of hardware engineering internships.
 |---------|------|----------|-------|-----|
 | Anduril | Firmware Engineer Intern | Newport Beach, CA | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5121683007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | CAE | DNI Software Engineering Co-op | Tampa, FL | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Tampa/DNI-Software-Engineering-Co-op_121708-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Hologic | Software Engineering Co-op | Marlborough, MA | <a href="https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11528?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Intelcom \| Dragonfly | Embedded Software Development Intern | Montreal, QC, Canada | <a href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Apptronik | Robotics Software Intern - Real-Time Controls | Austin, TX | <a href="https://boards.greenhouse.io/apptronik/jobs/5985132004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | RTX | Software Engineering Intern | Salt Lake City, UTWest Valley City, UT | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338-Ast-Salt-Lake-City/Software-Engineering-Intern----Summer-2026----Onsite-_01842000?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
@@ -40,7 +39,6 @@ A curated list of hardware engineering internships.
 | Robert Bosch Venture Capital | Automotive Technician Intern | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000113214232?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | CAE | Apprentice Simulator Technician Intern | Eagan, MN | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Apprentice-Simulator-Technician_121166?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Emerson Electric | ACC Scholars Hardware Technician Apprentice Intern - Test & Measurement | Austin, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004762?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
-| Leggett & Platt | Hardware Engineer Intern | Detroit, MI | <a href="https://careers.leggett.com/job/Detroit-Hardware-Engineer-Intern-MI/1385086900/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | General Dynamics Mission Systems | Engineering Intern | Manassas, VA | <a href="https://careers-gdms.icims.com/jobs/72226/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Two Six Technologies | Research Intern | Arlington, VA | <a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/5842048004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Space Kinetic | Software Engineering Intern | El Segundo, CA | <a href="https://job-boards.greenhouse.io/spacekinetic/jobs/4885803008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
@@ -53,7 +51,7 @@ A curated list of hardware engineering internships.
 | Nightwing Intelligence Solutions | Radio Frequency Engineering Intern | Dulles, VA | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101396?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Viavi Solutions | Intern | Germantown, MD | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Intern_250004136-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Robert Bosch Venture Capital | Software Engineering Intern/Co-op | Simpsonville, SC | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000121879097?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
-| Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
+| Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | KION Group | Mobile Robots Intern - Mechatronics Vehicle Feature | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Legrand | Engineering Firmware Intern | Wayne, NJ | <a href="https://milestone.wd1.myworkdayjobs.com/en-US/Milestone_External/job/NJ-Fairfield/Intern---Engineering-Firmware_R03567?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Microchip Technology | Engineer Intern | Boulder, CO | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R981-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
@@ -102,11 +100,9 @@ A curated list of hardware engineering internships.
 | Teledyne | Engineering Intern | Newark, CA | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Newark-CA/Engineering-Intern_REQ33479?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | Cohu | Software Engineer Intern | Sorrento Valley, San Diego, CA | <a href="https://hcbo.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/302226?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | Shield AI | Embedded Software Engineer Intern | Boston, MA | <a href="https://jobs.lever.co/shieldai/6b9de151-1090-47c0-a245-85b601295966/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Lumentum | Failure Analysis and New Product Qualification Intern 🎓 | San Jose, CA | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026369?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Microchip Technology | Intern - Engineer | Boulder, CO | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R983-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Robert Bosch Venture Capital | ADAS Hardware Optics Development Intern/Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000117325527?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Zayo | Intern Test and Acceptance | Denver, CO | <a href="https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/Remote---CO/Intern-Test---Acceptance-1_R0016181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Magna | Software Engineer | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235442?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | ChargePoint | Hardware Engineering Intern | Los Gatos, CA | <a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8472137002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
