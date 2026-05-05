@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-05 17:42 UTC
+**Last updated:** 2026-05-05 21:08 UTC
 
 ---
 
@@ -19,7 +19,6 @@ A curated list of hardware engineering internships.
 | iRhythm Technologies | Embedded Software Development Engineer in Test Co-op | SF | <a href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Embedded-SDET-CO-Op_JR1356?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Intel | Design Verification Engineer Intern | Remote in Canada | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Verification-Engineering-Intern_JR0283524?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Envista | R&D Computer Scientist Intern | Brea, CA | <a href="https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Brea/R-D-Computer-Scientist-Intern_R5026276?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| Northrop Grumman | Software Engineer Intern | Melbourne, FL | <a href="https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Florida-Melbourne/XMLNAME-2026-Intern-Software-Engineer_R10204604-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Motorola | Web Interface Software Engineer Intern | LA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC, Canada | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Anduril | Firmware Engineer Intern | Newport Beach, CA | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5121683007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
@@ -100,13 +99,11 @@ A curated list of hardware engineering internships.
 | Robert Bosch Venture Capital | ADAS Hardware Optics Development Intern/Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000117325527?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Magna | Software Engineer | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235442?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| ChargePoint | Hardware Engineering Intern | Los Gatos, CA | <a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8472137002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | MAT Holdings | Product Engineering Intern | Lake Zurich, IL | <a href="https://jobs.smartrecruiters.com/MATHoldings/744000117063117?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Thorlabs | Engineering Intern | Branchville, NJ | <a href="https://apply.workable.com/thorlabs/j/313D67D856/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Wabtec | Digital Intern | 9 locationsGermantown, MDVillanova, PAMelbourne, FLFort Worth, TXNorcross, GAJacksonville, FLErie, PACedar Rapids, IAGrove City, PA | <a href="https://jobs.smartrecruiters.com/Wabtec/3743990010828806?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | Dublin, OH | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Fresenius Medical Care | Embedded Software Engineer | Andover, MA | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Engineering-Co-op_R0240653-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | X Development | PhD / Master’s Residency - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project 🎓 | Mountain View, CA | <a href="https://x.company/careers/8472640002?gh_jid=8472640002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Coherent | Intern Product Engineering - CO2 Lasers | Hartford, CT | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010642?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | TRUMPF | R&D Production Development Intern | Cranbury, NJ | <a href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Cranbury-NJ/R-D-Production-Development-Intern_R00038278?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -121,7 +118,6 @@ A curated list of hardware engineering internships.
 | Foundation | Controls Engineer Intern | SF | <a href="https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Westinghouse Electric Company | Systems Engineering Intern | Cranberry Twp, PA | <a href="https://careers.westinghousenuclear.com/job/Warrendale-Systems-Engineering-Intern-Summer-2026-OR/1373323500/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Microchip Technology | Intern Technician - Electronics | Carlisle, PA | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Worthington Enterprises | Engineering Intern | Warwick, RI | <a href="https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43012?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Smiths Detection Group | Imaging and Algorithms Intern | Gunpowder, MD | <a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000114074937?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Monolithic Power Systems | Application Engineer Intern | San Jose, CA | <a href="https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Analog Devices | System and Firmware Engineer Intern 🎓 | Somerset County, NJ | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NJ-Somerset/System-and-Firmware-Engineer-Intern_R258554?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
