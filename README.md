@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-09 03:38 UTC
+**Last updated:** 2026-05-09 06:22 UTC
 
 ---
 
@@ -73,7 +73,6 @@ A curated list of hardware engineering internships.
 | Trane Technologies | Technician Intern | Winona, MN | <a href="https://careers.tranetechnologies.com/global/en/job/JR-644?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Lightmatter | Reliability Test – Intern | Mountain View, CA | <a href="https://boards.greenhouse.io/lightmatter/jobs/4980400008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Hewlett Packard (HP) | Software Security Research Intern | Bristol, UK | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
-| Yai | Assistive Technology Intern | Union City, NJ | <a href="https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Assistive-Technology-Intern_R024452?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Applied Materials | Intern - Optical Transceiver Engineer 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | onsemi | Physical Failure Analysis Intern | Phoenix, AZ | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505129?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Magna | Infrared Systems & Test Engineering Intern | Goleta, CA | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Engineering_R00235410?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
