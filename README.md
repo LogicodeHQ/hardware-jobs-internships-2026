@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-14 10:25 UTC
+**Last updated:** 2026-05-14 14:28 UTC
 
 ---
 
@@ -28,7 +28,6 @@ A curated list of hardware engineering internships.
 | Rockwell Automation | Embedded Software Engineer Co-op | Mayfield Heights, OH | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Embedded-Software-Engineer--May-2026---December-2026-_R25-7668-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Advanced Energy | Electronics Service Intern | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | DiDi Global | Software Engineer Intern - Simulation | San Jose, CA | <a href="https://job-boards.greenhouse.io/didi/jobs/7906174?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| RTX | Systems Engineer Co-op | Aurora, CO | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | HRL Laboratories | Mechanical Assembly Integration and Test Intern | Malibu, CA | <a href="https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Entrust | Firmware Engineer Intern | Shakopee, MN | <a href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | MKS Instruments | Electrical Compliance Co-op | Rochester, NY | <a href="https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2026-Summer---Fall-Electrical-Compliance-Co-op_R14780?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -73,10 +72,12 @@ A curated list of hardware engineering internships.
 | Etched | DFT Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | Marvell | Model Correlation & SI Intern - PhD Degree 🎓 | Ottawa, ON, Canada | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Model-Correlation---SI-Intern---Ph-D-Degree_2502364?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | Workstream | Wearables Prototype Engineer Intern - Hardware + Software | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/workstream/jobs/5924391004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Magna | Intern Failure Analysis & Validation Engineering | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | KION Group | RSD Intern - Test Engineering | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Altera Corporation | FPGA Digital Design & Verification – Intern | San Jose, CA | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Digital-Design---Verification---Intern_R02354-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | Design Verification Engineer Intern | Boston, MA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Littelfuse | R&D Engineering Intern | Rapid City, SD | <a href="https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Rapid-City/Engineering-Intern_JR-110935-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Nightwing Intelligence Solutions | Radio Frequency Engineering Intern | Dulles, VA | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101565?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Nidec | Engineering Co-Op | St. Louis, MO | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---Automation-MO/Engineering-Co-Op_R0015134?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
