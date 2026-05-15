@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-15 10:32 UTC
+**Last updated:** 2026-05-15 14:22 UTC
 
 ---
 
@@ -12,6 +12,7 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| Leonardo | Technical Apprentice | Welwyn Garden City, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Microchip Technology | Engineering Intern | Chandler, AZ | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern-Engineering--HPS-_R1930-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Brunswick | Systems Engineer Intern | Urbana, IL | <a href="https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Systems-Engineering-Intern_JR-050137?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | L3Harris Technologies | Associate Member Engineering Staff Intern - Software | Philadelphia, PA | <a href="https://jobs.l3harris.com/job/Camden-Associate-Member-Engineering-Staff-Software-(Internship)-NJ-08103/1391044800/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -87,7 +88,6 @@ A curated list of hardware engineering internships.
 | Magna | Intern Validation Engineer | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | SoloPulse | Systems Engineering Intern | Norcross, GA | <a href="https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Applied Materials | AI Application Engineer for Quantum Development Intern - Masters/PhD 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Application-Enginer-for-Quantum-Development-Intern--Masters-PhD---Santa-Clara--CA-_R2616483?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Robert Bosch Venture Capital | Requirements Engineering Intern 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000118244288?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Trane Technologies | Technical Applications and HW Apprentice | Manchester, NH | <a href="https://careers.tranetechnologies.com/global/en/job/92600686?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Rockwell Automation | Apprentice Repair Technician | Milton Keynes, UK | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milton-Keynes-England-United-Kingdom/Apprentice-Repair-Technician_R26-1603?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | WindBorne Systems | Firmware Intern | San Carlos, CA | <a href="https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
