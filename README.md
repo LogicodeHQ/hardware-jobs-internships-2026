@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-19 15:38 UTC
+**Last updated:** 2026-05-19 18:10 UTC
 
 ---
 
@@ -62,7 +62,7 @@ A curated list of hardware engineering internships.
 | Slate Auto | Vehicle Safety & Testing Intern | Troy, MI | <a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Vehicle-Safety---Testing-Intern_JR100477?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Magna | Engineering Intern | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-ADAS-Vehicle-Integration_R00238341?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | CSA Group | Co-op Opportunity | Cleveland, OH | <a href="https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Summer-Co-op-Opportunity--May-2026-_R004721?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
-| Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
+| Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Marvell | Model Correlation & SI Intern - Ph. D Degree 🎓 | Ottawa, ON, Canada | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Model-Correlation---SI-Intern---Master-s-Degree_2502364?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | KION Group | Mobile Robots Intern - Mechatronics Vehicle Feature | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Legrand | Engineering Firmware Intern | Wayne, NJ | <a href="https://milestone.wd1.myworkdayjobs.com/en-US/Milestone_External/job/NJ-Fairfield/Intern---Engineering-Firmware_R03567?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
