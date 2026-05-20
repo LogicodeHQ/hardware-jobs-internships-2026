@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-20 10:57 UTC
+**Last updated:** 2026-05-20 15:39 UTC
 
 ---
 
@@ -39,7 +39,7 @@ A curated list of hardware engineering internships.
 | Advanced Energy | Electronics Service Intern | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | DiDi Global | Software Engineer Intern - Simulation | San Jose, CA | <a href="https://job-boards.greenhouse.io/didi/jobs/7906174?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
 | HRL Laboratories | Mechanical Assembly Integration and Test Intern | Malibu, CA | <a href="https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
-| Entrust | Firmware Engineer Intern | Shakopee, MN | <a href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
+| Entrust | Firmware Engineer Intern | Shakopee, MN | <a href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Société Générale de Surveillance (SGS) | Project Engineer Intern | Suwanee, GA | <a href="https://jobs.smartrecruiters.com/SGS/744000124949224?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Robert Bosch Venture Capital | Engineer Intern | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000124921593?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Semtech | Product Engineer Intern | Burlington, ON, Canada | <a href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3328?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
@@ -59,7 +59,7 @@ A curated list of hardware engineering internships.
 | Lunar Energy | Test Engineering Intern | Mountain View, CA | <a href="https://job-boards.greenhouse.io/lunarenergy/jobs/5983884004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | IDEX | Engineering Intern | Farmington, CT | <a href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Farmington-Connecticut/Intern---Engineering---SIC_R-08918?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Oshkosh | Testing & Development Rotational Intern | Wixom, MI | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Testing---Development-Rotational-Intern_R46186?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
-| Curtiss-Wright Corporation | Engineering Intern | Newtown, PA | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
+| Curtiss-Wright Corporation | Engineering Intern | Newtown, PA | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Magna | Software Engineering Intern | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | KBR | National Security Solutions – Software Engineering Intern - Nss | Columbia, MD | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | CAE | Apprentice Simulator Technician Intern | Eagan, MN | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Apprentice-Simulator-Technician_121166?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
