@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-20 15:39 UTC
+**Last updated:** 2026-05-20 22:00 UTC
 
 ---
 
@@ -30,7 +30,6 @@ A curated list of hardware engineering internships.
 | Trimble | Firmware Engineer Intern | Sunnyvale, CA | <a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CA-Sunnyvale/Firmware-Engineer-Intern_R56042?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Teledyne | Electronics Technician Apprentice | Whiteley, UK | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Fareham/Apprentice-Electronics-Technician_REQ32793-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Robert Bosch Venture Capital | Engineering Technician Intern | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000126331461?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| ABB | R&D Product Development Engineer Intern | Hartford, CT | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Product-Development-Engineering-Intern---Summer-2026_JR00013133?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Heron Power | Medium Voltage Test Engineering Intern | Santa Cruz, CA | <a href="http://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Apex | Software Engineering Intern - Embedded Systems | LA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Wabtec | Mechatronics Engineer Intern | London, ON, Canada | <a href="https://jobs.smartrecruiters.com/Wabtec/3743990013068286?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
