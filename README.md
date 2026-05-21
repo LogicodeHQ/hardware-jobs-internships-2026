@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-21 15:41 UTC
+**Last updated:** 2026-05-21 18:04 UTC
 
 ---
 
@@ -41,7 +41,6 @@ A curated list of hardware engineering internships.
 | DiDi Global | Software Engineer Intern - Simulation | San Jose, CA | <a href="https://job-boards.greenhouse.io/didi/jobs/7906174?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | HRL Laboratories | Mechanical Assembly Integration and Test Intern | Malibu, CA | <a href="https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Société Générale de Surveillance (SGS) | Project Engineer Intern | Suwanee, GA | <a href="https://jobs.smartrecruiters.com/SGS/744000124949224?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
-| Robert Bosch Venture Capital | Engineer Intern | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000124921593?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Semtech | Product Engineer Intern | Burlington, ON, Canada | <a href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3328?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Intel | Design Methodology Engineer Intern | Remote in Canada | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Methodology-Engineering-Intern_JR0283526?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | Robert Bosch Venture Capital | Engine / Vehicle Embedded Controls Intern | Southfield, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000124682895?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
@@ -58,7 +57,6 @@ A curated list of hardware engineering internships.
 | Intelcom \| Dragonfly | Embedded Software Development Intern | Montreal, QC, Canada | <a href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Intel | AI Software Engineering Intern | Hillsboro, ORFolsom, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Lunar Energy | Test Engineering Intern | Mountain View, CA | <a href="https://job-boards.greenhouse.io/lunarenergy/jobs/5983884004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
-| IDEX | Engineering Intern | Farmington, CT | <a href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Farmington-Connecticut/Intern---Engineering---SIC_R-08918?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Oshkosh | Testing & Development Rotational Intern | Wixom, MI | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Testing---Development-Rotational-Intern_R46186?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Curtiss-Wright Corporation | Engineering Intern | Newtown, PA | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Magna | Software Engineering Intern | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
