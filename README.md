@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-21 18:04 UTC
+**Last updated:** 2026-05-21 21:41 UTC
 
 ---
 
@@ -91,7 +91,6 @@ A curated list of hardware engineering internships.
 | Trane Technologies | Technical Applications and HW Apprentice | Manchester, NH | <a href="https://careers.tranetechnologies.com/global/en/job/92600686?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Rockwell Automation | Apprentice Repair Technician | Milton Keynes, UK | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milton-Keynes-England-United-Kingdom/Apprentice-Repair-Technician_R26-1603?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | WindBorne Systems | Firmware Intern | San Carlos, CA | <a href="https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Teledyne | Engineering Intern | Newark, CA | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Newark-CA/Engineering-Intern_REQ33479?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Robert Bosch Venture Capital | ADAS Hardware Optics Development Intern/Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000117325527?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
