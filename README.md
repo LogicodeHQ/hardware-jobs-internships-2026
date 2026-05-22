@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-22 14:54 UTC
+**Last updated:** 2026-05-22 21:16 UTC
 
 ---
 
@@ -19,8 +19,6 @@ A curated list of hardware engineering internships.
 | BorgWarner | Validation Intern | Kokomo, IN | <a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Motorola | Systems Engineer Co-op | Vancouver, BC, Canada | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Systems-Engineer--Co-Op_R65120-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Magna | Engineering Optics Intern | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Optics_R00243622?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Ultra | Engineer Intern | San Diego, CA | <a href="https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Ultra Intelligence and Communications | Engineer Intern | San Diego, CA | <a href="https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Robert Bosch Venture Capital | Chassis Control Intern Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000127510818?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Nuro | Vehicle Reliability Intern | San Jose, CAMountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=7673849&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Altera Corporation | FPGA Software Engineer Intern | Toronto, ON, Canada | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R02502?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
