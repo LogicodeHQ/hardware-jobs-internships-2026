@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-23 09:59 UTC
+**Last updated:** 2026-05-23 13:49 UTC
 
 ---
 
@@ -14,7 +14,7 @@ A curated list of hardware engineering internships.
 |---------|------|----------|-------|-----|
 | Quadric | AI Kernel Engineer Intern - Kernel Optimization 🎓 | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | MAG Aerospace | Systems Analyst Apprentice | California | <a href="https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
-| PlusAI | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | <a href="https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| PlusAI | Software Engineer Intern - Robotics | Santa Clara, CA | <a href="https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Cadence Design Systems | Product Engineering Intern - Simulation and Verification 🎓 | Burlington, MA | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Persistent Systems | Embedded Software Engineer Intern | NYC | <a href="https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Apple | Undergrad Engineering Intern | United States | <a href="https://jobs.apple.com/en-us/details/200663968?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
@@ -60,11 +60,12 @@ A curated list of hardware engineering internships.
 | Intelcom \| Dragonfly | Embedded Software Development Intern | Montreal, QC, Canada | <a href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Oshkosh | Testing & Development Rotational Intern | Wixom, MI | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Testing---Development-Rotational-Intern_R46186?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Curtiss-Wright Corporation | Engineering Intern | Newtown, PA | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
+| Magna | Software Engineering Intern | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | KBR | National Security Solutions – Software Engineering Intern - Nss | Columbia, MD | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | CAE | Apprentice Simulator Technician Intern | Eagan, MN | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Apprentice-Simulator-Technician_121166?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Slate Auto | Vehicle Safety & Testing Intern | Troy, MI | <a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Vehicle-Safety---Testing-Intern_JR100477?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | CSA Group | Co-op Opportunity | Cleveland, OH | <a href="https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Summer-Co-op-Opportunity--May-2026-_R004721?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| KION Group | Mobile Robots Intern - Mechatronics Vehicle Feature | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| KION Group | Mobile Robots Intern - Mechatronics Vehicle Feature | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Legrand | Engineering Firmware Intern | Wayne, NJ | <a href="https://milestone.wd1.myworkdayjobs.com/en-US/Milestone_External/job/NJ-Fairfield/Intern---Engineering-Firmware_R03567?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Pennsylvania State University | R&D Engineer Intern | State College, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Bose | Product Certifications and Marking Co-Op | Framingham, MA | <a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Product-Certifications-and-Marking-Co-Op_R28749-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -81,6 +82,7 @@ A curated list of hardware engineering internships.
 | Nidec | Engineering Co-Op | St. Louis, MO | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---Automation-MO/Engineering-Co-Op_R0015134?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Onto Innovation | Optical Systems Engineer Intern | Milpitas, CA | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Optical-Systems-Engineer-Internship_R-5704?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Magna | Intern Validation Engineer | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | SoloPulse | Systems Engineering Intern | Norcross, GA | <a href="https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Applied Materials | AI Application Engineer for Quantum Development Intern - Masters/PhD 🎓 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Application-Enginer-for-Quantum-Development-Intern--Masters-PhD---Santa-Clara--CA-_R2616483?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Trane Technologies | Technical Applications and HW Apprentice | Manchester, NH | <a href="https://careers.tranetechnologies.com/global/en/job/92600686?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
