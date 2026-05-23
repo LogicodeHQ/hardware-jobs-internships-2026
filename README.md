@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-23 17:08 UTC
+**Last updated:** 2026-05-23 21:00 UTC
 
 ---
 
@@ -26,6 +26,7 @@ A curated list of hardware engineering internships.
 | Magna | Engineering Optics Intern | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Optics_R00243622?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Robert Bosch Venture Capital | Chassis Control Intern Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000127510818?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Nuro | Vehicle Reliability Intern | San Jose, CAMountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=7673849&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| Altera Corporation | FPGA Software Engineer Intern | Toronto, ON, Canada | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R02502?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | nVent | Lab Intern | Andover, MN | <a href="https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Lab-Internship_R21815?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Astranis | Reliability Design Associate Intern | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4681415006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Quadric | Design Verification Intern | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
@@ -54,9 +55,11 @@ A curated list of hardware engineering internships.
 | XPENG Motors | VLA Deployment AI Intern | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | General Dynamics Mission Systems | Intern Engineer Co-op - May 2026 Start | Fort Wayne, IN | <a href="https://careers-gdms.icims.com/jobs/72244/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | iRhythm Technologies | Embedded Software Development Engineer in Test Co-op | SF | <a href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Embedded-SDET-CO-Op_JR1356?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
+| Intel | Design Verification Engineer Intern | Remote in Canada | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Verification-Engineering-Intern_JR0283524?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Envista | R&D Computer Scientist Intern | Brea, CA | <a href="https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Brea/R-D-Computer-Scientist-Intern_R5026276?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Motorola | Web Interface Software Engineer Intern | LA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC, Canada | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
+| CAE | DNI Software Engineering Co-op | Tampa, FL | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Tampa/DNI-Software-Engineering-Co-op_121708-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Hologic | Software Engineering Co-op | Marlborough, MA | <a href="https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11528?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Intelcom \| Dragonfly | Embedded Software Development Intern | Montreal, QC, Canada | <a href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Intel | AI Software Engineering Intern | Hillsboro, ORFolsom, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
@@ -66,6 +69,7 @@ A curated list of hardware engineering internships.
 | KBR | National Security Solutions – Software Engineering Intern - Nss | Columbia, MD | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | CAE | Apprentice Simulator Technician Intern | Eagan, MN | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Apprentice-Simulator-Technician_121166?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Slate Auto | Vehicle Safety & Testing Intern | Troy, MI | <a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Vehicle-Safety---Testing-Intern_JR100477?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
+| Magna | Engineering Intern | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-ADAS-Vehicle-Integration_R00238341?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | CSA Group | Co-op Opportunity | Cleveland, OH | <a href="https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Summer-Co-op-Opportunity--May-2026-_R004721?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Marvell | Model Correlation & SI Intern - Ph. D Degree 🎓 | Ottawa, ON, Canada | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Model-Correlation---SI-Intern---Master-s-Degree_2502364?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -94,5 +98,6 @@ A curated list of hardware engineering internships.
 | Rockwell Automation | Apprentice Repair Technician | Milton Keynes, UK | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milton-Keynes-England-United-Kingdom/Apprentice-Repair-Technician_R26-1603?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | WindBorne Systems | Firmware Intern | San Carlos, CA | <a href="https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Robert Bosch Venture Capital | ADAS Hardware Optics Development Intern/Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000117325527?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| SiFive | CPU Design Intern 🎓 | Santa Clara, CA | <a href="https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | Acceleration Kernel Developer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | Dublin, OH | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
