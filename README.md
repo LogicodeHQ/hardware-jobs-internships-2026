@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-26 15:55 UTC
+**Last updated:** 2026-05-26 18:32 UTC
 
 ---
 
@@ -27,7 +27,6 @@ A curated list of hardware engineering internships.
 | Robert Bosch Venture Capital | Chassis Control Intern Co-op | Plymouth, MI | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000127510818?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Nuro | Vehicle Reliability Intern | San Jose, CAMountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=7673849&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Altera Corporation | FPGA Software Engineer Intern | Toronto, ON, Canada | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R02502?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| nVent | Lab Intern | Andover, MN | <a href="https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Lab-Internship_R21815?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Astranis | Reliability Design Associate Intern | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4681415006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Quadric | Design Verification Intern | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Western Digital | Heat-Assisted Magnetic Recording Component Testing Intern 🎓 | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000127040192?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -56,7 +55,6 @@ A curated list of hardware engineering internships.
 | General Dynamics Mission Systems | Intern Engineer Co-op - May 2026 Start | Fort Wayne, IN | <a href="https://careers-gdms.icims.com/jobs/72244/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | iRhythm Technologies | Embedded Software Development Engineer in Test Co-op | SF | <a href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Embedded-SDET-CO-Op_JR1356?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Intel | Design Verification Engineer Intern | Remote in Canada | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Verification-Engineering-Intern_JR0283524?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
-| Envista | R&D Computer Scientist Intern | Brea, CA | <a href="https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Brea/R-D-Computer-Scientist-Intern_R5026276?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Motorola | Web Interface Software Engineer Intern | LA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC, Canada | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | CAE | DNI Software Engineering Co-op | Tampa, FL | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Tampa/DNI-Software-Engineering-Co-op_121708-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
