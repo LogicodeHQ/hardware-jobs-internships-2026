@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-27 15:59 UTC
+**Last updated:** 2026-05-27 18:31 UTC
 
 ---
 
@@ -19,14 +19,13 @@ A curated list of hardware engineering internships.
 | Amentum | Space Hardware Project Engineer Intern | Houston, TX | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---Space-Hardware-Project-Engineer-intern_R0162032?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Marvell | Physical Design Intern 🎓 | Santa Clara, CA | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Intern---Ph-D-Degree_2601126?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Quadric | AI Kernel Engineer Intern - Kernel Optimization 🎓 | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
-| MAG Aerospace | Systems Analyst Apprentice | California | <a href="https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
+| SunSource | Electronics Intern - Electronic Drives - PC Boards | Batavia, IL | <a href="https://jobs.lever.co/sunsrce/8070e6a5-d767-463d-8268-c18a39b4192b/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | PlusAI | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | <a href="https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Cadence Design Systems | Product Engineering Intern - Simulation and Verification 🎓 | Burlington, MA | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Persistent Systems | Embedded Software Engineer Intern | NYC | <a href="https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Apple | Undergrad Engineering Intern | United States | <a href="https://jobs.apple.com/en-us/details/200663968?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | d-Matrix | ASIC Functional Test Engineer Intern 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/5e90beb2-1c51-4daa-8739-7ad7d1f83f79/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Base Power | Hardware Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| BorgWarner | Validation Intern | Kokomo, IN | <a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Magna | Engineering Optics Intern | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Optics_R00243622?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Rocket Lab USA | Additive Manufacturing Intern | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7730636003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Nuro | Vehicle Reliability Intern | San Jose, CAMountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=7673849&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -73,14 +72,12 @@ A curated list of hardware engineering internships.
 | Pennsylvania State University | Electronic Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | iRhythm Technologies | Electrical Test Engineering Co-op | SF | <a href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op_JR1305?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Skydio | Product Support Engineer Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/8df0689e-a489-4c72-a1f7-09dfe59745b8/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Lightmatter | Reliability Test – Intern | Mountain View, CA | <a href="https://boards.greenhouse.io/lightmatter/jobs/4980400008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Hewlett Packard (HP) | Software Security Research Intern | Bristol, UK | <a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Etched | DFT Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Marvell | Model Correlation & SI Intern - PhD Degree 🎓 | Ottawa, ON, Canada | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Model-Correlation---SI-Intern---Ph-D-Degree_2502364?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Magna | Intern Failure Analysis & Validation Engineering | Southfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | KION Group | RSD Intern - Test Engineering | Grand Rapids, MIHolland, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | Design Verification Engineer Intern | Boston, MA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Nidec | Engineering Co-Op | St. Louis, MO | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---Automation-MO/Engineering-Co-Op_R0015134?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Draper | Electro-Mechanical Instrument Co-op | Cambridge, MA | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op_JR002200?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Vertex Pharmaceuticals | Vertex Co-op - Instrumentation Engineer | San Diego, CA | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Instrumentation-Engineer_REQ-28216-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Onto Innovation | Optical Systems Engineer Intern | Milpitas, CA | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Optical-Systems-Engineer-Internship_R-5704?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
