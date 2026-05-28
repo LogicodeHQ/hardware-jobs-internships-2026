@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-05-28 11:43 UTC
+**Last updated:** 2026-05-28 16:14 UTC
 
 ---
 
@@ -24,7 +24,6 @@ A curated list of hardware engineering internships.
 | SunSource | Electronics Intern - Electronic Drives - PC Boards | Batavia, IL | <a href="https://jobs.lever.co/sunsrce/8070e6a5-d767-463d-8268-c18a39b4192b/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | PlusAI | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | <a href="https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Cadence Design Systems | Product Engineering Intern - Simulation and Verification 🎓 | Burlington, MA | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Persistent Systems | Embedded Software Engineer Intern | NYC | <a href="https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Apple | Undergrad Engineering Intern | United States | <a href="https://jobs.apple.com/en-us/details/200663968?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | d-Matrix | ASIC Functional Test Engineer Intern 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/5e90beb2-1c51-4daa-8739-7ad7d1f83f79/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Base Power | Hardware Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
@@ -34,9 +33,9 @@ A curated list of hardware engineering internships.
 | Altera Corporation | FPGA Software Engineer Intern | Toronto, ON, Canada | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R02502?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Astranis | Reliability Design Associate Intern | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4681415006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Quadric | Design Verification Intern | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| GE Healthcare | Surgery Field Engineer Apprentice | Pittsburgh, PA | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
+| GE Healthcare | Surgery Field Engineer Apprentice | Pittsburgh, PA | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
 | Interstates | Manufacturing Intern | Fort Collins, CO | <a href="https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
-| Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
+| Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Leonardo | Technical Apprentice | Welwyn Garden City, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Rivian | Research Park Intern - Hardware Functional Safety | Urbana, IL | <a href="https://careers.rivian.com/jobs/30493?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Trimble | Firmware Engineer Intern | Sunnyvale, CA | <a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CA-Sunnyvale/Firmware-Engineer-Intern_R56042?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
@@ -61,7 +60,7 @@ A curated list of hardware engineering internships.
 | Intelcom \| Dragonfly | Embedded Software Development Intern | Montreal, QC, Canada | <a href="https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Cisco | Associate Application Engineer 2 Co-op | Acton, MA | <a href="https://careers.cisco.com/global/en/job/2011705?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Intel | AI Software Engineering Intern | Hillsboro, ORFolsom, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
-| Curtiss-Wright Corporation | Engineering Intern | Newtown, PA | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
+| Curtiss-Wright Corporation | Engineering Intern | Newtown, PA | <a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Magna | Software Engineering Intern | Auburn Hills, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | KBR | National Security Solutions – Software Engineering Intern - Nss | Columbia, MD | <a href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Pennsylvania State University | Embedded Systems and Hardware Co-Op | Horsham, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
