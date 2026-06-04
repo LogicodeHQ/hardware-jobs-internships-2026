@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-04 15:30 UTC
+**Last updated:** 2026-06-04 21:46 UTC
 
 ---
 
@@ -37,7 +37,6 @@ A curated list of hardware engineering internships.
 | Interstates | Manufacturing Intern | Fort Collins, CO | <a href="https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | Leonardo | Technical Apprentice | Welwyn Garden City, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
-| Rivian | Research Park Intern - Hardware Functional Safety | Urbana, IL | <a href="https://careers.rivian.com/jobs/30493?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
 | Teledyne | Electronics Technician Apprentice | Whiteley, UK | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Fareham/Apprentice-Electronics-Technician_REQ32793-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Heron Power | Hardware Test Engineering Intern | Santa Cruz, CA | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Apex | Software Engineering Intern - Embedded Systems | LA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
