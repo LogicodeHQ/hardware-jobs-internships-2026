@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-06 13:57 UTC
+**Last updated:** 2026-06-06 17:20 UTC
 
 ---
 
@@ -38,13 +38,14 @@ A curated list of hardware engineering internships.
 | Astranis | Reliability Design Associate Intern | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4681415006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Quadric | Design Verification Intern | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Interstates | Manufacturing Intern | Fort Collins, CO | <a href="https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
-| Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
+| Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Leonardo | Technical Apprentice | Welwyn Garden City, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Teledyne | Electronics Technician Apprentice | Whiteley, UK | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Fareham/Apprentice-Electronics-Technician_REQ32793-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Heron Power | Hardware Test Engineering Intern | Santa Cruz, CA | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Apex | Software Engineering Intern - Embedded Systems | LA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Advanced Energy | Electronics Service Intern | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | HRL Laboratories | Mechanical Assembly Integration and Test Intern | Malibu, CA | <a href="https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
+| Tesla | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/269819?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Lumentum | Chip Design Verification Intern | Daventry, UK | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/United-Kingdom---Towcester-Northamptonshire/Chip-Design-Verification-Intern_2026572?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | XPENG Motors | VLA Deployment AI Intern | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Oura | Hardware Research & Development Intern | SF | <a href="https://job-boards.greenhouse.io/oura/jobs/4238605009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
