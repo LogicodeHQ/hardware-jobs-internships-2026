@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-06 10:10 UTC
+**Last updated:** 2026-06-06 13:57 UTC
 
 ---
 
@@ -22,7 +22,7 @@ A curated list of hardware engineering internships.
 | ByteDance | Research Intern - Virtual Network 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7537164763424606482/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Fluxergy | Firmware Engineer Intern | Irvine, CA | <a href="https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Veolia | Firmware Engineer Intern | Montreal, QC, Canada | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
-| Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | Kansas City, MO | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Kansas-City/Automotive-ADAS-Calibration-Technician-Apprentice_R0214453?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
+| Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | Kansas City, MO | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Kansas-City/Automotive-ADAS-Calibration-Technician-Apprentice_R0214453?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Intel | Silicon Performance Validation and Characterization Intern | Phoenix, AZ | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | By Light Professional IT Services | Simulation Tech Intern | Jacksonville, NC | <a href="https://jobs-bylight.icims.com/jobs/11008/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Ciena | Hardware Design and Verification Intern - Printed Circuit Board Assembly | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
