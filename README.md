@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-07 10:33 UTC
+**Last updated:** 2026-06-07 14:07 UTC
 
 ---
 
@@ -22,8 +22,7 @@ A curated list of hardware engineering internships.
 | ByteDance | Research Intern - Virtual Network 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7537164763424606482/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Fluxergy | Firmware Engineer Intern | Irvine, CA | <a href="https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Veolia | Firmware Engineer Intern | Montreal, QC, Canada | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | Kansas City, MO | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Kansas-City/Automotive-ADAS-Calibration-Technician-Apprentice_R0214453?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
-| Magna | Tools Engineering Intern | Auburn Hills, MISouthfield, MI | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
+| Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | Kansas City, MO | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Kansas-City/Automotive-ADAS-Calibration-Technician-Apprentice_R0214453?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Intel | Silicon Performance Validation and Characterization Intern | Phoenix, AZ | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | By Light Professional IT Services | Simulation Tech Intern | Jacksonville, NC | <a href="https://jobs-bylight.icims.com/jobs/11008/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Ciena | Hardware Design and Verification Intern - Printed Circuit Board Assembly | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
@@ -40,7 +39,7 @@ A curated list of hardware engineering internships.
 | Quadric | Design Verification Intern | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | Interstates | Manufacturing Intern | Fort Collins, CO | <a href="https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
-| Leonardo | Technical Apprentice | Welwyn Garden City, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
+| Leonardo | Technical Apprentice | Welwyn Garden City, UK | <a href="https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
 | Teledyne | Electronics Technician Apprentice | Whiteley, UK | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Fareham/Apprentice-Electronics-Technician_REQ32793-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Heron Power | Hardware Test Engineering Intern | Santa Cruz, CA | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Apex | Software Engineering Intern - Embedded Systems | LA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
