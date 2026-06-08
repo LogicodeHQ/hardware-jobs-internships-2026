@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-08 18:28 UTC
+**Last updated:** 2026-06-08 21:54 UTC
 
 ---
 
@@ -33,7 +33,6 @@ A curated list of hardware engineering internships.
 | PlusAI | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | <a href="https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Cadence Design Systems | Product Engineering Intern - Simulation and Verification 🎓 | Burlington, MA | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Apple | Undergrad Engineering Intern | United States | <a href="https://jobs.apple.com/en-us/details/200663968?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
-| d-Matrix | ASIC Functional Test Engineer Intern 🎓 | Santa Clara, CA | <a href="https://jobs.ashbyhq.com/d-Matrix/5e90beb2-1c51-4daa-8739-7ad7d1f83f79/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Base Power | Hardware Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
 | Rocket Lab USA | Additive Manufacturing Intern | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7730636003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | Nuro | Vehicle Reliability Intern | San Jose, CAMountain View, CA | <a href="https://nuro.ai/careersitem?gh_jid=7673849&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
@@ -46,7 +45,6 @@ A curated list of hardware engineering internships.
 | Heron Power | Hardware Test Engineering Intern | Santa Cruz, CA | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Apex | Software Engineering Intern - Embedded Systems | LA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Advanced Energy | Electronics Service Intern | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
-| HRL Laboratories | Mechanical Assembly Integration and Test Intern | Malibu, CA | <a href="https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tesla | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/269819?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | XPENG Motors | VLA Deployment AI Intern | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Oura | Hardware Research & Development Intern | SF | <a href="https://job-boards.greenhouse.io/oura/jobs/4238605009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
