@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-12 11:48 UTC
+**Last updated:** 2026-06-12 15:29 UTC
 
 ---
 
@@ -12,15 +12,14 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| AMAROK Security | Research and Development Intern | Columbia, SC | <a href="https://job-boards.greenhouse.io/amarok/jobs/6018661004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| AMAROK Security | Research and Development Intern | Columbia, SC | <a href="https://job-boards.greenhouse.io/amarok/jobs/6018661004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Johnson Controls | Fire & Security Service Engineer Apprentice | Maidstone, UK | <a href="https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-Kent-United-Kingdom/Apprentice-Fire---Security-Service-Engineer_EB00075096?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Valeo | Mechatronics Engineering Co-op | Troy, MI | <a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Mechatronics-Engineering-Co-Op_REQ2026071362?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Advanced Energy | Firmware Engineer Intern 🎓 | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Summer-2026-CO-80525/1398307300/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Northrop Grumman | EST Pre-Apprentice Program Candidate | El Segundo, CA | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/EST-Pre-Apprenticeship-Program-Candidate_R10235490?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Sensata | Intern | Belfast, UK | <a href="https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern_IRC97597?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
-| Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
-| Tesla | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CAAustin, TX | <a href="https://www.tesla.com/careers/search/job/272462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
+| Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Pennsylvania State University | Research and Development Engineer Intern | State College, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Base Power | Hardware Reliability & Test Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | SRI International | Embedded Software Engineering Co-op | Princeton, NJ | <a href="https://careers-sri.icims.com/jobs/6416/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
@@ -43,7 +42,7 @@ A curated list of hardware engineering internships.
 | Astranis | Reliability Design Associate Intern | SF | <a href="https://job-boards.greenhouse.io/astranis/jobs/4681415006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Quadric | Design Verification Intern | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Interstates | Manufacturing Intern | Fort Collins, CO | <a href="https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
-| Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
+| Technergetics | R&D Engineer Intern | Remote in USA | <a href="https://job-boards.greenhouse.io/technergetics/jobs/4681908006?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
 | Heron Power | Hardware Test Engineering Intern | Santa Cruz, CA | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Apex | Software Engineering Intern - Embedded Systems | LA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Advanced Energy | Electronics Service Intern | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
