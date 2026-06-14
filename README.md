@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-14 17:24 UTC
+**Last updated:** 2026-06-14 21:19 UTC
 
 ---
 
@@ -12,12 +12,11 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| GE Healthcare | Field Engineer Apprentice | Dallas, TX | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042300-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Motorola | Electronics Design Co-op | Vancouver, BC, Canada | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design--Co-Op_R65838-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| GE Healthcare | Field Engineer Apprentice | San Antonio, TX | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--San-Antonio--TX-_R4042305-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | AMAROK Security | Research and Development Intern | Columbia, SC | <a href="https://job-boards.greenhouse.io/amarok/jobs/6018661004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Advanced Energy | Firmware Engineer Intern 🎓 | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Summer-2026-CO-80525/1398307300/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Microsoft | Data Center Technician Intern | Ontario, Canada | <a href="https://apply.careers.microsoft.com/careers/job/1970393556867685?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Pennsylvania State University | Research and Development Engineer Intern | State College, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Base Power | Hardware Reliability & Test Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
