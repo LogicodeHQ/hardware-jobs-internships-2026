@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-21 04:58 UTC
+**Last updated:** 2026-06-21 11:20 UTC
 
 ---
 
@@ -17,16 +17,16 @@ A curated list of hardware engineering internships.
 | Generac | Firmware Engineering Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Ralliant | Software Engineer Intern - Mecop | Beaverton, OR | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Trexon | Technician Apprentice | Aberdeen, UK | <a href="https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/5081859007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| The Boeing Company | Circuit Card Assembly Specialist Apprentice | Huntsville, AL | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Circuit-Card-Assembly-Specialist-Apprenticeship_JR2026515181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| Texas Instruments | Engineering Technician Intern | Dallas, TXTucson, AZ | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
+| The Boeing Company | Circuit Card Assembly Specialist Apprentice | Huntsville, AL | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Circuit-Card-Assembly-Specialist-Apprenticeship_JR2026515181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
+| Texas Instruments | Engineering Technician Intern | Dallas, TXTucson, AZ | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/274047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
 | Intel | Silicon Architecture Graduate Intern 🎓 | 4 locationsAustin, TXSanta Clara, CAHillsboro, ORFolsom, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
-| GE Healthcare | Field Engineer Apprentice | San Antonio, TX | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--San-Antonio--TX-_R4042305-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | AMAROK Security | Research and Development Intern | Columbia, SC | <a href="https://job-boards.greenhouse.io/amarok/jobs/6018661004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | Advanced Energy | Firmware Engineer Intern 🎓 | Fort Collins, CO | <a href="https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Summer-2026-CO-80525/1398307300/?ats=successfactors&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
 | Microsoft | Data Center Technician Intern | Ontario, Canada | <a href="https://apply.careers.microsoft.com/careers/job/1970393556867685?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
+| Tesla | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CAAustin, TX | <a href="https://www.tesla.com/careers/search/job/272462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Base Power | Hardware Reliability & Test Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | SRI International | Embedded Software Engineering Co-op | Princeton, NJ | <a href="https://careers-sri.icims.com/jobs/6416/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
@@ -42,7 +42,7 @@ A curated list of hardware engineering internships.
 | Quadric | AI Kernel Engineer Intern - Kernel Optimization 🎓 | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | PlusAI | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | <a href="https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
 | Persistent Systems | Embedded Software Engineer Intern | NYC | <a href="https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
-| Apple | Undergrad Engineering Intern | United States | <a href="https://jobs.apple.com/en-us/details/200663968?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
+| Apple | Undergrad Engineering Intern | United States | <a href="https://jobs.apple.com/en-us/details/200663968?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | Base Power | Hardware Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | Quadric | Design Verification Intern | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Interstates | Manufacturing Intern | Fort Collins, CO | <a href="https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
