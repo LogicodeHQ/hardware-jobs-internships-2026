@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-06-25 04:07 UTC
+**Last updated:** 2026-06-25 10:48 UTC
 
 ---
 
@@ -17,13 +17,14 @@ A curated list of hardware engineering internships.
 | Generac | Firmware Engineering Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Ralliant | Software Engineer Intern - Mecop | Beaverton, OR | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Trexon | Technician Apprentice | Aberdeen, UK | <a href="https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/5081859007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
-| The Boeing Company | Circuit Card Assembly Specialist Apprentice | Huntsville, AL | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Circuit-Card-Assembly-Specialist-Apprenticeship_JR2026515181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
-| Texas Instruments | Engineering Technician Intern | Dallas, TXTucson, AZ | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
+| The Boeing Company | Circuit Card Assembly Specialist Apprentice | Huntsville, AL | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Circuit-Card-Assembly-Specialist-Apprenticeship_JR2026515181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
+| Texas Instruments | Engineering Technician Intern | Dallas, TXTucson, AZ | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/274047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Intel | Silicon Architecture Graduate Intern 🎓 | 4 locationsAustin, TXSanta Clara, CAHillsboro, ORFolsom, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | AMAROK Security | Research and Development Intern | Columbia, SC | <a href="https://job-boards.greenhouse.io/amarok/jobs/6018661004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
+| Tesla | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CAAustin, TX | <a href="https://www.tesla.com/careers/search/job/272462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | Base Power | Hardware Reliability & Test Engineer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | Nightwing Intelligence Solutions | Software / Hardware Engineering Intern | Annapolis Junction, MD | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
