@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-08 17:43 UTC
+**Last updated:** 2026-07-08 21:14 UTC
 
 ---
 
@@ -17,7 +17,6 @@ A curated list of hardware engineering internships.
 | Generac | Manufacturing Test Engineer Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Manufacturing-Test-Engineering_JR15204?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Tesla | Inline Metrology Systems Design/Engineer Intern - Cell Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/275335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Aptiv | RTOS development Intern | Kanata, Ottawa, ON, Canada | <a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
-| BorgWarner | Software Engineer Intern | Auburn Hills, MI | <a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Lila Sciences | Next Gen Engineering Co-Op | Cambridge, MA | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
 | Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | 5 locationsOconomowoc, WIBrookfield, WIMiddleton, WIWauwatosa, WIWaukesha, WI | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/Middleton-WI/Automotive-ADAS-Calibration-Technician-Apprentice_R0220112?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | PsiQuantum | System Architecture Intern | 4 locationsPalo Alto, CABristol, UKRemote in USAWarrington, UK | <a href="https://www.psiquantum.com/apply?gh_jid=7695577003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
