@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-08 03:25 UTC
+**Last updated:** 2026-07-08 06:33 UTC
 
 ---
 
@@ -13,7 +13,7 @@ A curated list of hardware engineering internships.
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
 | X Development | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute 🎓 | Mountain View, CA | <a href="https://x.company/careers/8616839002?gh_jid=8616839002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
+| Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Generac | Manufacturing Test Engineer Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Manufacturing-Test-Engineering_JR15204?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Tesla | Inline Metrology Systems Design/Engineer Intern - Cell Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/275335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Aptiv | RTOS development Intern | Kanata, Ottawa, ON, Canada | <a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
