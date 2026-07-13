@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-12 17:05 UTC
+**Last updated:** 2026-07-13 03:34 UTC
 
 ---
 
@@ -12,22 +12,22 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| Jump Trading | FPGA Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=8003013&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| X Development | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute 🎓 | Mountain View, CA | <a href="https://x.company/careers/8616839002?gh_jid=8616839002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
+| Jump Trading | FPGA Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=8003013&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 4d |
+| X Development | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute 🎓 | Mountain View, CA | <a href="https://x.company/careers/8616839002?gh_jid=8616839002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
-| Tesla | Inline Metrology Systems Design/Engineer Intern - Cell Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/275335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
+| Tesla | Inline Metrology Systems Design/Engineer Intern - Cell Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/275335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Aptiv | RTOS development Intern | Kanata, Ottawa, ON, Canada | <a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
-| Lila Sciences | Next Gen Engineering Co-Op | Cambridge, MA | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
-| Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | 5 locationsOconomowoc, WIBrookfield, WIMiddleton, WIWauwatosa, WIWaukesha, WI | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/Middleton-WI/Automotive-ADAS-Calibration-Technician-Apprentice_R0220112?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
-| PsiQuantum | System Architecture Intern | 4 locationsPalo Alto, CABristol, UKRemote in USAWarrington, UK | <a href="https://www.psiquantum.com/apply?gh_jid=7695577003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
-| GE Healthcare | Field Service Apprentice | Montreal, QC, Canada | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Montreal/Field-Service-Apprentice----QC_R4042209-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
-| NXP Semiconductors | Digital Verification Engineer Intern | Kanata, Ottawa, ON, Canada | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
-| Generac | Firmware Engineering Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
+| Lila Sciences | Next Gen Engineering Co-Op | Cambridge, MA | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
+| Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | 5 locationsOconomowoc, WIBrookfield, WIMiddleton, WIWauwatosa, WIWaukesha, WI | <a href="https://calibercollision.wd1.myworkdayjobs.com/protech/job/Middleton-WI/Automotive-ADAS-Calibration-Technician-Apprentice_R0220112?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
+| PsiQuantum | System Architecture Intern | 4 locationsPalo Alto, CABristol, UKRemote in USAWarrington, UK | <a href="https://www.psiquantum.com/apply?gh_jid=7695577003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
+| GE Healthcare | Field Service Apprentice | Montreal, QC, Canada | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Montreal/Field-Service-Apprentice----QC_R4042209-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
+| NXP Semiconductors | Digital Verification Engineer Intern | Kanata, Ottawa, ON, Canada | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
+| Generac | Firmware Engineering Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Ralliant | Software Engineer Intern - Mecop | Beaverton, OR | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Texas Instruments | Engineering Technician Intern | Dallas, TXTucson, AZ | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/274047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| Magna | Infrared Imaging & Algorithms Intern | Goleta, CA | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
-| Cadence Design Systems | Characterization and Support Intern | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
+| Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/274047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
+| Magna | Infrared Imaging & Algorithms Intern | Goleta, CA | <a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
+| Cadence Design Systems | Characterization and Support Intern | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
 | AMAROK Security | Research and Development Intern | Columbia, SC | <a href="https://job-boards.greenhouse.io/amarok/jobs/6018661004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
