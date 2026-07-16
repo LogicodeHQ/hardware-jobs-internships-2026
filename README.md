@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-16 10:15 UTC
+**Last updated:** 2026-07-16 14:07 UTC
 
 ---
 
@@ -23,6 +23,7 @@ A curated list of hardware engineering internships.
 | PsiQuantum | System Architecture Intern | 4 locationsPalo Alto, CABristol, UKRemote in USAWarrington, UK | <a href="https://www.psiquantum.com/apply?gh_jid=7695577003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | GE Healthcare | Field Service Apprentice | Montreal, QC, Canada | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Montreal/Field-Service-Apprentice----QC_R4042209-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | NXP Semiconductors | Digital Verification Engineer Intern | Kanata, Ottawa, ON, Canada | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
+| Baker Hughes | Mechanical Production Engineering Apprentice | Bristol, UK | <a href="https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | Generac | Firmware Engineering Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Ralliant | Software Engineer Intern - Mecop | Beaverton, OR | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Texas Instruments | Engineering Technician Intern | Dallas, TXTucson, AZ | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 29d |
