@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-19 06:35 UTC
+**Last updated:** 2026-07-19 17:04 UTC
 
 ---
 
@@ -22,7 +22,7 @@ A curated list of hardware engineering internships.
 | GE Healthcare | Field Service Apprentice | Mississauga, ON, Canada | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice---ON_R4042737-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | NXP Semiconductors | Digital Verification Engineer Intern | Kanata, Ottawa, ON, Canada | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Generac | Firmware Engineering Intern | Reno, NV | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
-| Ralliant | Software Engineer Intern - Mecop | Beaverton, OR | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
+| Ralliant | Software Engineer Intern - Mecop | Beaverton, OR | <a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Texas Instruments | Engineering Technician Intern | Dallas, TXTucson, AZ | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/274047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Cadence Design Systems | Characterization and Support Intern | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -30,7 +30,6 @@ A curated list of hardware engineering internships.
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Tesla | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CAAustin, TX | <a href="https://www.tesla.com/careers/search/job/272462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | PsiQuantum | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | <a href="https://www.psiquantum.com/apply?gh_jid=7761881003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | ByteDance | Research Intern - Virtual Network 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7537164763424606482/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Fluxergy | Firmware Engineer Intern | Irvine, CA | <a href="https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
