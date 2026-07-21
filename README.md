@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-21 06:34 UTC
+**Last updated:** 2026-07-21 10:29 UTC
 
 ---
 
@@ -32,6 +32,10 @@ A curated list of hardware engineering internships.
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Tesla | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CAAustin, TX | <a href="https://www.tesla.com/careers/search/job/272462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Generac | Lab Technician Intern | Santa Monica, CA | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Ciena | Embedded Software Engineer Intern | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Nightwing Intelligence Solutions | Software / Hardware Engineering Intern | Annapolis Junction, MD | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | PsiQuantum | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | <a href="https://www.psiquantum.com/apply?gh_jid=7761881003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | ByteDance | Research Intern - Virtual Network 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7537164763424606482/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Fluxergy | Firmware Engineer Intern | Irvine, CA | <a href="https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -42,4 +46,3 @@ A curated list of hardware engineering internships.
 | Quadric | AI Kernel Engineer Intern - Kernel Optimization 🎓 | Burlingame, CA | <a href="https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | MAG Aerospace | Systems Analyst Apprentice | California | <a href="https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | PlusAI | Software Engineer Intern-Runtime - Robotics | Santa Clara, CA | <a href="https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Apple | Undergrad Engineering Intern | United States | <a href="https://jobs.apple.com/en-us/details/200663968?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
