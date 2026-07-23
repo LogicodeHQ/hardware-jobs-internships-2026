@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-23 17:36 UTC
+**Last updated:** 2026-07-23 21:10 UTC
 
 ---
 
@@ -27,7 +27,6 @@ A curated list of hardware engineering internships.
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/274047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Pennsylvania State University | Research and Development Engineer Intern | Tarentum, PA | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Freeport-PA/Research-and-Development-Engineering-Intern_REQ_0000064925-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Cadence Design Systems | Characterization and Support Intern | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| AMAROK Security | Research and Development Intern | Columbia, SC | <a href="https://job-boards.greenhouse.io/amarok/jobs/6018661004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
