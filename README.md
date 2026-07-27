@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-27 03:41 UTC
+**Last updated:** 2026-07-27 07:38 UTC
 
 ---
 
@@ -18,7 +18,7 @@ A curated list of hardware engineering internships.
 | Jump Trading | FPGA Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=8003013&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
 | X Development | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute 🎓 | Mountain View, CA | <a href="https://x.company/careers/8616839002?gh_jid=8616839002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | CoreWeave | Data Center Apprentice | Denton, TXCalhoun, GAAberdeen, SD | <a href="https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
-| Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
+| Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 25d |
 | Tesla | Inline Metrology Systems Design/Engineer Intern - Cell Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/275335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
 | Lila Sciences | Next Gen Engineering Co-Op | Cambridge, MA | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | GE Healthcare | Field Service Apprentice | Mississauga, ON, Canada | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice---ON_R4042737-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -29,6 +29,7 @@ A curated list of hardware engineering internships.
 | Tenstorrent | CPU/AI Workload Analysis Intern 🎓 | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | <a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/270618?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Tesla | AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware | Palo Alto, CAAustin, TX | <a href="https://www.tesla.com/careers/search/job/272462?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Generac | Lab Technician Intern | Santa Monica, CA | <a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Nightwing Intelligence Solutions | Software / Hardware Engineering Intern | Annapolis Junction, MD | <a href="https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | PsiQuantum | Optical Packaging and Characterization Engineer Intern | Milpitas, CA | <a href="https://www.psiquantum.com/apply?gh_jid=7761881003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
