@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-07-26 17:08 UTC
+**Last updated:** 2026-07-27 03:41 UTC
 
 ---
 
@@ -12,15 +12,15 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| Revise Robotics | Engineer Intern | NYC | <a href="https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| DRW | FPGA Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/drweng/jobs/8038923?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
-| Microchip Technology | Equipment Engineering Technician Intern - Metrology | Fairview, OR | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
-| Jump Trading | FPGA Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=8003013&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 17d |
-| X Development | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute 🎓 | Mountain View, CA | <a href="https://x.company/careers/8616839002?gh_jid=8616839002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
-| CoreWeave | Data Center Apprentice | Denton, TXCalhoun, GAAberdeen, SD | <a href="https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
+| Revise Robotics | Engineer Intern | NYC | <a href="https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
+| DRW | FPGA Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/drweng/jobs/8038923?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
+| Microchip Technology | Equipment Engineering Technician Intern - Metrology | Fairview, OR | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
+| Jump Trading | FPGA Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=8003013&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 18d |
+| X Development | PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute 🎓 | Mountain View, CA | <a href="https://x.company/careers/8616839002?gh_jid=8616839002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
+| CoreWeave | Data Center Apprentice | Denton, TXCalhoun, GAAberdeen, SD | <a href="https://coreweave.com/careers/job?4694103006&board=coreweave&gh_jid=4694103006&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack 🎓 | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000134543799?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
-| Tesla | Inline Metrology Systems Design/Engineer Intern - Cell Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/275335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
-| Lila Sciences | Next Gen Engineering Co-Op | Cambridge, MA | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 30d |
+| Tesla | Inline Metrology Systems Design/Engineer Intern - Cell Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/275335?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 27d |
+| Lila Sciences | Next Gen Engineering Co-Op | Cambridge, MA | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4289960009?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | GE Healthcare | Field Service Apprentice | Mississauga, ON, Canada | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice---ON_R4042737-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | NXP Semiconductors | Digital Verification Engineer Intern | Kanata, Ottawa, ON, Canada | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Baker Hughes | Mechanical Production Engineering Apprentice | Bristol, UK | <a href="https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Mechanical-Production-Engineering-Apprentice-2026--Nailsea-_R165830?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
