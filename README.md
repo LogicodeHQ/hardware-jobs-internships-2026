@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-08-07 00:53 UTC
+**Last updated:** 2026-08-07 05:44 UTC
 
 ---
 
@@ -12,7 +12,7 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| ByteDance | ASIC Design Engineer Intern - Video Silicon IP 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7670332179383699717/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| ByteDance | ASIC Design Engineer Intern - Video Silicon IP 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7670332179383699717/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | RTX | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | SpaceX | Silicon Engineer Intern/Co-op | Palo Alto, CAIrvine, CARedmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | Needham, MA | <a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
