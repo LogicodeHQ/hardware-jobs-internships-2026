@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-08-13 17:00 UTC
+**Last updated:** 2026-08-13 20:49 UTC
 
 ---
 
@@ -12,11 +12,11 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| TMEIC Corporation Americas | Engineer Intern - Spring 2027 | Houston, TX | <a href="https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| TMEIC Corporation Americas | Engineer Intern - Spring 2027 | Houston, TX | <a href="https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | RTX | Software Engineering Intern - Summer 2027 | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Vertiv | Thermal Engineer Intern - Summer 2027 | Westerville, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| RTX | Software Engineer Intern - Summer 2027 | Woburn, MA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7670332179383699717/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
+| RTX | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | SpaceX | Silicon Engineer Intern/Co-op | Palo Alto, CAIrvine, CARedmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | Needham, MA | <a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | Virtu Financial | Hardware Engineer Intern - FPGA 🎓 | Austin, TX | <a href="https://job-boards.greenhouse.io/virtu/jobs/8657286002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
