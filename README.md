@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-08-22 16:30 UTC
+**Last updated:** 2026-08-22 20:28 UTC
 
 ---
 
@@ -18,7 +18,6 @@ A curated list of hardware engineering internships.
 | Zipline | Long Range Platform Hardware Engineering Intern | South SF | <a href="https://www.zipline.com/open-roles?gh_jid=7891460003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Avery Dennison | RFID Applications Engineer Co-op - Summer 2027 - Plus one semester | Miamisburg, OH | <a href="https://jobs.smartrecruiters.com/AveryDennison/744000144153141?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Wabtec | Digital Intern | Erie, PA | <a href="https://jobs.smartrecruiters.com/Wabtec/3743990014655843?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
-| RTX | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Boom Supersonic | Engineering and Tech Intern | Centennial, CO | <a href="https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Freeform | Software Engineer Intern - Summer 2027 | LA | <a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
