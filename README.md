@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-08-25 12:56 UTC
+**Last updated:** 2026-08-25 16:43 UTC
 
 ---
 
@@ -13,6 +13,8 @@ A curated list of hardware engineering internships.
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
 | AMD | ASIC Package Engineering Intern Co-op 🎓 | 6 locationsSecaucus, NJAustin, TXLongmont, COFishkill, NYFort Collins, COBoxborough, MA | <a href="https://careers.amd.com/jobs/91471?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| RTX | Software Engineer Co-op - Avionics Platform Software | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Moog | Hardware Engineer Intern | Mineral Wells, TX | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | MSA Safety | Software Engineer Intern - Product Development - Summer 2027 | Cranberry Township, PA | <a href="https://careers.msasafety.com/jobs/9993?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Daktronics | Hardware Design Co-op Intern - Firmware | Brookings, SD | <a href="https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Garmin | Software Engineer Intern | Olathe, KS | <a href="https://careers.garmin.com/jobs/19693?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
@@ -29,7 +31,7 @@ A curated list of hardware engineering internships.
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | RTX | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 11d |
 | TMEIC Corporation Americas | Engineer Intern - Spring 2027 | Houston, TX | <a href="https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 12d |
-| Vertiv | Thermal Engineer Intern - Summer 2027 | Westerville, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
+| Vertiv | Thermal Engineer Intern - Summer 2027 | Westerville, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 15d |
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7670332179383699717/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | SpaceX | Silicon Engineer Intern/Co-op | Palo Alto, CAIrvine, CARedmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8621763002?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | Needham, MA | <a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 23d |
