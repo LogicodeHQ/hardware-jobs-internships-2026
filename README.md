@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-09-03 16:12 UTC
+**Last updated:** 2026-09-03 22:27 UTC
 
 ---
 
@@ -12,17 +12,20 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
+| Susquehanna International Group | FPGA Engineer Intern | Bala Cynwyd, PA | <a href="https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | AMD | Diagnostics Design Engineering Intern/Co-op | Markham, ON, Canada | <a href="https://careers.amd.com/jobs/91308?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Apex | Software Engineer Intern - Embedded Systems | LA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | General Matter | Embedded Software Engineer Intern | LA | <a href="https://job-boards.greenhouse.io/generalmatter/jobs/5377131008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | <a href="https://careers.amd.com/jobs/91207?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Geotab | Hardware Developer Intern | Oakville, ON, Canada | <a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Shure | Automated Test Engineer Intern - Hardware | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Intel | System Technology PhD Intern - Research Engineer 🎓 | Austin, TXSanta Clara, CAHillsboro, OR | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| GlobalFoundries | Silicon Photonics Advanced Packaging Intern | Malta, NY | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
 | Sensata | Electrical Engineer Intern | South Burlington, VT | <a href="https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Dynapower-South-Burlington-VT/Electrical-Engineer-Intern--Dynapower----Summer-2027_IRC98423?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | RTX | Software Engineer Co-op - Summer/Fall 2027 | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Intel | Platform Hardware and Systems Engineering Intern - Bachelor's | 5 locationsAustin, TXSanta Clara, CAHillsboro, ORFolsom, CAPhoenix, AZ | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| HP IQ | Software Engineer Intern - Connectivity | SF | <a href="https://job-boards.greenhouse.io/hpiq/jobs/6176783004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
-| Engenious Design | Systems Architecture Intern | Prairie Village, KS | <a href="http://engeniousdesign.applytojob.com/apply/U4TbKXcygp/Internship-2027-SystemsArchitecture?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
+| HP IQ | Software Engineer Intern - Connectivity | SF | <a href="https://job-boards.greenhouse.io/hpiq/jobs/6176783004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
+| Engenious Design | Systems Architecture Intern | Prairie Village, KS | <a href="http://engeniousdesign.applytojob.com/apply/U4TbKXcygp/Internship-2027-SystemsArchitecture?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | AMD | Hardware Design Verification Engineer Intern/Co-op | Markham, ON, Canada | <a href="https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Textron | Integration Test Engineer Intern - Marine | New Orleans, LA | <a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | K2 Space | Software Engineer Intern - Summer 2027 | LA | <a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
@@ -37,7 +40,7 @@ A curated list of hardware engineering internships.
 | ByteDance | Cloud Acceleration Research Intern - DPU & AI Infra 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7679552807864879365/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Aerotech | Electrical/Computer Engineering Intern Co-op | Pittsburgh, PA | <a href="https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
 | Hudson River Trading | Hardware Engineer Intern | NYC | <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
-| Garmin | Software Engineer Intern | Chandler, AZ | <a href="https://careers.garmin.com/jobs/19858?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 2d |
+| Garmin | Software Engineer Intern | Chandler, AZ | <a href="https://careers.garmin.com/jobs/19858?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Stryten | System Engineer Intern | Alpharetta, GA | <a href="https://jobs.stryten.com/jobs/5799?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | Vermeer | Test Engineer Intern | Pella, IA | <a href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Shop-48/Test-Engineering-Internship-Summer-2027_REQ-22120?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
 | RTX | Electrical Engineer Intern | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineering-Intern--Summer-2027-_01864197?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 3d |
@@ -47,14 +50,14 @@ A curated list of hardware engineering internships.
 | V2X | Electrical Engineer Intern - Hardware Engineering | Indianapolis, IN | <a href="https://careers.gov2x.com/jobs/62685?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Zipline | Embedded Systems Intern - Summer 2027 | South SF | <a href="https://www.zipline.com/open-roles?gh_jid=7978843003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
 | Axon | Embedded Engineer Intern | Boston, MASeattle, WA | <a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
-| Vertiv | Firmware Engineer Intern - Summer 2027 🎓 | Delaware, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 7d |
+| Vertiv | Firmware Engineer Intern - Summer 2027 🎓 | Delaware, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | GlobalFoundries | SiGe HBT Device Modelling Intern - Summer 2027 🎓 | Essex Junction, VT | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/SiGe-HBT-Device-Modelling-Intern--Summer-2027-_JR-2604271?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Honeywell | Embedded Engineer Intern | United States | <a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Verkada | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
+| Honeywell | Embedded Engineer Intern | United States | <a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
+| Verkada | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
 | AMD | ASIC Package Engineering Intern Co-op 🎓 | 6 locationsSecaucus, NJAustin, TXLongmont, COFishkill, NYFort Collins, COBoxborough, MA | <a href="https://careers.amd.com/jobs/91471?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| MSA Safety | Software Engineer Intern - Product Development - Summer 2027 | Cranberry Township, PA | <a href="https://careers.msasafety.com/jobs/9993?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| Daktronics | Hardware Design Co-op Intern - Firmware | Brookings, SD | <a href="https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
-| Apple | GPU Intern | London, UKCambridge, UKSt Albans, UK | <a href="https://jobs.apple.com/en-us/details/200679650?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
+| MSA Safety | Software Engineer Intern - Product Development - Summer 2027 | Cranberry Township, PA | <a href="https://careers.msasafety.com/jobs/9993?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
+| Daktronics | Hardware Design Co-op Intern - Firmware | Brookings, SD | <a href="https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
+| Apple | GPU Intern | London, UKCambridge, UKSt Albans, UK | <a href="https://jobs.apple.com/en-us/details/200679650?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 10d |
 | AMD | Firmware Engineer Intern/Co-op 🎓 | 7 locationsSecaucus, NJRochester, NYAustin, TXLongmont, COFishkill, NYFort Collins, COBoxborough, MA | <a href="https://careers.amd.com/jobs/90805?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 13d |
 | Freeform | Electrical Engineer Intern | LA | <a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
 | Zipline | Hardware Test Intern - Summer 2027 | South SF | <a href="https://www.zipline.com/open-roles?gh_jid=7903483003&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 14d |
@@ -64,8 +67,8 @@ A curated list of hardware engineering internships.
 | GE Aerospace | Engines Engineering Intern - Computer or Software Engineering | Lynn, MAEvendale, OH | <a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 16d |
 | Freeform | Software Engineer Intern - Summer 2027 | LA | <a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 19d |
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7673638856678279429/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 20d |
-| Vertiv | Electrical Engineer Intern - Energy Storage | Delaware, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
-| TMEIC Corporation Americas | Engineer Intern - Spring 2027 | Houston, TX | <a href="https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 21d |
+| Vertiv | Electrical Engineer Intern - Energy Storage | Delaware, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
+| TMEIC Corporation Americas | Engineer Intern - Spring 2027 | Houston, TX | <a href="https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 22d |
 | Vertiv | Thermal Engineer Intern - Summer 2027 | Westerville, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 24d |
 | Axon | 2027 US Electrical Engineering Internship | Scottsdale, AZ | <a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 26d |
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7670332179383699717/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 28d |
@@ -77,3 +80,4 @@ A curated list of hardware engineering internships.
 | Persona AI | Electrical Engineer Intern | Houston, TXPensacola, FL | <a href="https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Optiver | FPGA Engineer Intern | Chicago, IL | <a href="https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | GE Healthcare | Engineering Development Program Intern - Hardware | Twinsburg, OHWaukesha, WI | <a href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
+| Akuna Capital University | Hardware Engineer Intern | Chicago, IL | <a href="https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
