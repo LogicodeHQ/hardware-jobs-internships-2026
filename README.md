@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-10-17 15:20 UTC
+**Last updated:** 2026-10-17 22:06 UTC
 
 ---
 
@@ -138,7 +138,6 @@ A curated list of hardware engineering internships.
 | Dell Technologies | Hardware Engineering Intern - Infrastructure Solutions Group | Round Rock, TXHopkinton, MA | <a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Oshkosh | Electronics & Controls Intern | New Hudson, MI | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Micron Technology | Semiconductor Research & Technology Development Intern 🎓 | Albany, NY | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Johnson & Johnson | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA | <a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | NVIDIA | PhD Research Intern - Circuits 🎓 | Santa Clara, CADurham, NC | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | <a href="https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | AMD | SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op 🎓 | San Jose, CASanta Clara, CA | <a href="https://careers.amd.com/jobs/92350?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -149,7 +148,6 @@ A curated list of hardware engineering internships.
 | Bedrock Robotics | Hardware Engineer Intern | SF | <a href="https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | The Toro Company | Embedded Software Engineer Intern | Bloomington, MN | <a href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Motorola | Software Engineering Intern | Plantation, FL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| Ciena | NPI Hardware Co-op - 8 month | Ottawa, ON, Canada | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Bedrock Robotics | Sensor Systems Engineer Intern | SF | <a href="https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Impulse Space | Flight Software Engineer Intern - Summer 2027 | Redondo Beach, CA | <a href="https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7?ats=pinpointhq&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Rocket Lab USA | Electrical Engineering Intern | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990683003?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
@@ -197,7 +195,6 @@ A curated list of hardware engineering internships.
 | Blue Origin | Software Developer Intern - Avionics Software | 4 locationsWashingtonLALongmont, CODenver, CO | <a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | ByteDance | Cloud Acceleration Research Intern - DPU & AI Infra 🎓 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7679552807864879365/detail?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Stryten | System Engineer Intern | Alpharetta, GA | <a href="https://jobs.stryten.com/jobs/5799?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
-| RTX | Electrical Production Support Engineer Intern - Summer 2027 | Tucson, AZ | <a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Oshkosh | Telematics Intern | Orlando, FL | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | Northwood Space | Embedded Software Engineer Intern | LATorrance, CA | <a href="https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
 | V2X | Electrical Engineer Intern - Hardware Engineering | Indianapolis, IN | <a href="https://careers.gov2x.com/jobs/62685?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1mo |
