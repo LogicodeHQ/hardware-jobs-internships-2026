@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-10-19 15:26 UTC
+**Last updated:** 2026-10-19 20:56 UTC
 
 ---
 
@@ -37,7 +37,6 @@ A curated list of hardware engineering internships.
 | Amazon | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MAWestborough, MA | <a href="https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Vertiv | UI/UX Design Intern | Delaware, OHFort Lauderdale, FLHuntsville, AL | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
-| RTX | Engineering Intern | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Summer-Engineering-Intern--Summer-2027-_01882181?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Motorola | Electrical Engineer / PCB Designer Intern | Plantation, FL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | KLA Corporation | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | <a href="https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | KLA | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | <a href="https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
