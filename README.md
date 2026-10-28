@@ -2,7 +2,7 @@
 
 A curated list of hardware engineering internships.
 
-**Last updated:** 2026-10-28 14:58 UTC
+**Last updated:** 2026-10-28 20:53 UTC
 
 ---
 
@@ -12,7 +12,8 @@ A curated list of hardware engineering internships.
 
 | Company | Role | Location | Apply | Age |
 |---------|------|----------|-------|-----|
-| Waymo | Sensor Performance Engineer Intern 🎓 | Mountain View, CA | <a href="https://careers.withwaymo.com/jobs?gh_jid=8319171&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| RTX | Hardware Electrical Engineer Intern | Cambridge, MA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 0d |
+| Waymo | Sensor Performance Engineer Intern 🎓 | Mountain View, CA | <a href="https://careers.withwaymo.com/jobs?gh_jid=8319171&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | Mayo Clinic | Graduate Engineer Intern - Electronics | Rochester, MN | <a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | lowRISC CIC | Design Engineer Intern | Cambridge, UK | <a href="https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
 | HP IQ | Electrical Engineer Intern - Hardware | SF | <a href="https://job-boards.greenhouse.io/hpiq/jobs/6116396004?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 1d |
@@ -30,7 +31,6 @@ A curated list of hardware engineering internships.
 | GlobalFoundries | Tapeout Engineer Intern - Tapeout Operations | Essex Junction, VT | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Peak Energy | Systems Integration and Test Engineer Intern | Burlingame, CA | <a href="https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Synopsys | Technical-Engineering Intern | Markham, ON, Canada | <a href="https://synopsys.avature.net/careers/JobDetail/19182?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
-| Ursa Major | Embedded Flight Software Intern | Longmont, CO | <a href="https://ursamajor.com/careers/?gh_jid=4746825005&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | S&C Electric Company | Electronics Engineering Intern - TBI | Chicago, IL | <a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 5d |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | <a href="https://qualcomm.eightfold.ai/careers/job/446721678727?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
 | Skydio | Hardware Test and Reliability Intern - Summer 2027 | San Mateo, CA | <a href="https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 6d |
@@ -42,7 +42,6 @@ A curated list of hardware engineering internships.
 | RTX | Electrical Components Engineer Intern | Tucson, AZ | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Rockwell Automation | Hardware Development Engineer Intern | Mayfield Heights, OH | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | CACI | Electrical Test Engineer Intern | Danbury, CT | <a href="https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Electrical-Test-Engineering-Intern---Summer-2027_333809?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
-| Ursa Major | Avionics Electrical Engineer Intern | Berthoud, CO | <a href="https://ursamajor.com/careers/?gh_jid=4745125005&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Inversion Space | Vehicle Software Engineer Intern | Playa Vista, LA | <a href="https://job-boards.greenhouse.io/inversionspace/jobs/4745083005?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | <a href="https://qualcomm.eightfold.ai/careers/job/446721636316?utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 8d |
 | Johns Hopkins Applied Physics Laboratory | Electrical and Computer Engineer Intern | Laurel, MD | <a href="https://careers.jhuapl.edu/jobs/60390?icims=1&utm_source=Simplify&ref=Simplify" target="_blank">Apply</a> | 9d |
